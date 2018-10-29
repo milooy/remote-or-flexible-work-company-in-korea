@@ -21,8 +21,17 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 
 ### Elastic
-### 프로토파이
-https://www.wanted.co.kr/wd/10104
+### Studio XID Korea
+
+- 코딩 없이 디지털 프로덕트의 인터렉션을 효과적으로 전달하기 위한 도구 [Protopie](protopie.io) 제작
+- 서울특별시 일·가족양립 지원센터의 '일·가족양립 수준 진단' 결과, 5점 만점에 4.74점을 획득
+- 원격근무 / 유연근무 등 근로자들에게 자율권 부여(구성원 사이의 협업을 위한 기본 틀을 확립하고 더 개선하고자 노력 중)
+  - 특히 원격근무자를 위한 사무실 이용료 지원
+  - 근로자 중 한국인 뿐 아니라 외국인과도 적극적으로 커뮤니케이션 및 협업
+  - [참고 기사](https://blog.naver.com/talktalk_hr/221385636323)
+- 채용 공고
+  - [로켓펀치(권장)](https://www.rocketpunch.com/companies/studioxid-2/jobs)
+  - [원티드](https://www.wanted.co.kr/company/452)
 
 ### 빠띠
 ### 자비스앤빌런즈
