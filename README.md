@@ -21,8 +21,21 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 
 ### Elastic
-### 프로토파이
-https://www.wanted.co.kr/wd/10104
+
+### ProtoPie (스튜디오씨드)
+1. **일하는 시간**
+    - AM 10:30 화상 스탠드업 참석(팀마다 스탠드업 시간 다름). 사정이 있다면 스킵가능.
+    - 그외 출퇴근 시간 개인별 완전히 자유.
+2. **일하는 장소**
+    - 입사시 오피스 워커 / 리모트 워커 선택.
+    - 오피스 워커 선택시 현대카드 스튜디오블랙에 자리 배정.
+    - 리모트 워커 선택시 국내 어디든 원하는 곳에서 원격근무 가능. (원격근무를 위한 오피스 지원금 별도 제공)
+    - 오피스 워커도 원하면 언제든 원격근무 가능.
+    - 해외 원격근무 가능. (선례: LA 3달)
+    - 오피스 워커, 리모트 워커 비율은 약 3:1
+3. **링크**
+    - [ProtoPie](https://www.protopie.io/)
+    - [Wanted 채용공고](https://www.wanted.co.kr/company/452)
 
 ### 빠띠
 ### 자비스앤빌런즈
