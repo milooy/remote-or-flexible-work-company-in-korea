@@ -21,6 +21,9 @@
 ### 스포카(SPOQA)
 https://www.rocketpunch.com/companies/spoqa/jobs
 
+### 라인플러스(LINE+)
+- [LINE 엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
+
 ### ODK
 ### 세일즈부스트
 https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
