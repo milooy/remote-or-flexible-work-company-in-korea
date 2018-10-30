@@ -66,6 +66,14 @@ https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 
 ## 자율 출퇴근
 
+### 체커(CHEQUER)
+
+- 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근)
+- 유급 휴가 연간 30일 유급휴가, 무급 휴가 연간 30일
+- 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
+- 업무와 관련된 온/오프라인 교육비용을 지원
+- 회사 문화/복지/채용: https://chequer.workable.com/
+
 ---
 
 ## 원격 근무
