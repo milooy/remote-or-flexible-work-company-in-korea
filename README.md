@@ -55,6 +55,11 @@ https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 ### 마이크로소프트웨어
 ### 제니퍼소프트
 ### 쿠팡
+- 탄력적 출퇴근제
+- 일주일에 1회 재택 근무 가능
+- [쿠팡 채용공고](https://www.coupang.com/np/jobs)
+
+
 ### Moontm
 ### Festa
 
