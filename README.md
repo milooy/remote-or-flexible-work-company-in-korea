@@ -57,6 +57,9 @@ https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 ### 쿠팡
 ### Moontm
 ### Festa
+### 센트비(Sentbe)
+
+- 유급휴가 20일
 
 ---
 
