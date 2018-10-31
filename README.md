@@ -68,10 +68,3 @@ https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 
 ## 집필, 강연, 사내 벤처 창업 등의 겸직 및 영리활동 가능 기업 목록 
 
----
-
-## 자율 출퇴근
-
----
-
-## 원격 근무
