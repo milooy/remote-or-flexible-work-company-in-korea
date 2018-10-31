@@ -28,6 +28,12 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 - [LINE 엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
 
 ### ODK
+* 무제한 휴가
+* 탄력적 출퇴근제
+* 원격 근무 가능
+* [회사 소개](https://odkmedia.net/)
+* [채용 공고](https://ondemandkorea.bamboohr.com/jobs)
+
 ### 세일즈부스트
 https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 
