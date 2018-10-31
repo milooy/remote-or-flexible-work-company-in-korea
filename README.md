@@ -40,7 +40,17 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 * [채용 공고](https://ondemandkorea.bamboohr.com/jobs)
 
 ### 세일즈부스트
-https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
+1. **원격 근무 Rule**
+   - **1분 미팅:** 매일 아침 9시에 standuply 봇으로부터 꿀모닝! 인사를 받게 될거에요. 아침 9시부터 12시 사이에 1분만 시간을 내어 본인이 어제 한 일, 오늘 할 일, 이슈 사항을 공유해 standup-meeting 참여해주세요. 전 팀원의 1분 미팅 취합본은 오후 12시에 #standup-meeting에서 볼 수 있습니다. 한번 훅- 훍어보고 싱크해주세요.
+   - **월/금 미팅:** 월/금요일은 오전 11시 반까지 사무실에 모여서 함께 맛있는 밥을 먹으러갑니다. 특별히 드시고 싶은 메뉴가 있는 팀원이 레스토랑 선택을 리드해주세요. 리드하는 자가 먹고 싶은거 먹는겁니다. 식사 후 팀 전체 미팅을 진행합니다.
+   - **늦지맙시다:** 월/금 전체 미팅만큼은 늦지 맙시다. 정확히 오전 11시 35분까지는 드림플러스 3층에 모입니다. 36분부터는 벌금 1만원을 SY에게 토쓰합니다. (단, 최소 1시간전에 모두가 이해할 수 있는 사유로 지각을 #status에 공지하는 경우는 제외합니다) 이 벌금은 매달 부스트데이, "세일즈부스트" 이름으로 초록우산 어린이재단에 일시 후원합니다.
+   - [리모트 근무는 실화고, 사무실은 먹는것 0편](https://medium.com/salesboost-people/%EB%A6%AC%EB%AA%A8%ED%8A%B8-%EA%B7%BC%EB%AC%B4%EB%8A%94-%EC%8B%A4%ED%99%94%EA%B3%A0-%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%9D%80-%EB%A8%B9%EB%8A%94%EA%B2%83-0%ED%8E%B8-65d9aa8dced1)
+2. **휴가**
+   - 1년에 20일의 연차 제공.
+   - 설날, 추석 전/후일과 공휴일 샌드위치 날은 팀원 전체 공식 휴일이며, 제공된 20일의 휴가에서 차감.
+3. **회사 관련 링크**
+   - [세일즈부스트 피플](https://medium.com/salesboost-people)
+   - [세일즈부스트 채용 공고](https://www.rocketpunch.com/companies/salesboost/jobs)
 
 ### Elastic
 ### Studio XID Korea
