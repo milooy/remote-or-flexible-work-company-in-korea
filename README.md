@@ -2,6 +2,11 @@
 
 ## 자율 출퇴근 && 원격 근무
 
+### StyleShare
+* 진짜로 자율 출퇴근
+* 진짜로 원격 근무 가능
+* 5년 근속시 항공비 및 숙박비 지원 + 레프레시 휴가 제공
+
 ### Viva Republica (Toss)
 * 무제한 휴가
 * 탄력적 출퇴근제
@@ -28,13 +33,19 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 - [LINE 엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
 
 ### ODK
+* 무제한 휴가
+* 탄력적 출퇴근제
+* 원격 근무 가능
+* [회사 소개](https://odkmedia.net/)
+* [채용 공고](https://ondemandkorea.bamboohr.com/jobs)
+
 ### 세일즈부스트
 https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 
 ### Elastic
 ### Studio XID Korea
 
-- 코딩 없이 디지털 프로덕트의 인터렉션을 효과적으로 전달하기 위한 도구 [Protopie](protopie.io) 제작
+- 코딩 없이 디지털 프로덕트의 인터렉션을 효과적으로 전달하기 위한 도구 [Protopie](https://www.protopie.io) 제작
 - 서울특별시 일·가족양립 지원센터의 '일·가족양립 수준 진단' 결과, 5점 만점에 4.74점을 획득
 - 원격근무 / 유연근무 등 근로자들에게 자율권 부여(구성원 사이의 협업을 위한 기본 틀을 확립하고 더 개선하고자 노력 중)
   - 특히 원격근무자를 위한 사무실 이용료 지원
@@ -55,16 +66,20 @@ https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 ### 마이크로소프트웨어
 ### 제니퍼소프트
 ### 쿠팡
+- 탄력적 출퇴근제
+- 일주일에 1회 재택 근무 가능
+- [쿠팡 채용공고](https://www.coupang.com/np/jobs)
+
+
 ### Moontm
 ### Festa
+### 센트비(Sentbe)
+
+- 유급휴가 20일
 
 ---
 
-## 집필, 강연, 사내 벤처 창업 등의 겸직 및 영리활동 가능 기업 목록 
-
----
-
-## 자율 출퇴근
+## 자율 출퇴근 Only
 
 ### 체커(CHEQUER)
 
@@ -73,7 +88,3 @@ https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
 - 회사 문화/복지/채용: https://chequer.workable.com/
-
----
-
-## 원격 근무
