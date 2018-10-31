@@ -28,6 +28,12 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 - [LINE 엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
 
 ### ODK
+* 무제한 휴가
+* 탄력적 출퇴근제
+* 원격 근무 가능
+* [회사 소개](https://odkmedia.net/)
+* [채용 공고](https://ondemandkorea.bamboohr.com/jobs)
+
 ### 세일즈부스트
 https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 
@@ -62,10 +68,3 @@ https://medium.com/salesboost-people/salesboost-second-recruit-abd4d5629aa1
 
 ## 집필, 강연, 사내 벤처 창업 등의 겸직 및 영리활동 가능 기업 목록 
 
----
-
-## 자율 출퇴근
-
----
-
-## 원격 근무
