@@ -19,6 +19,8 @@
 * 카페/재택/해외 장소 무관 원격 근무 가능
 * 사옥 내 주차비 무료
 * 근무시간 내 게임 눈치 안보고 가능
+    * [회사소개] (http://www.op.gg/about/)
+    * [채용공고] (http://log.op.gg/op-gg-recruit-wanted/) 
 
 ### StyleShare
 * 진짜로 자율 출퇴근
