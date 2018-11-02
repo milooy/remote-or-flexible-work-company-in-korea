@@ -107,6 +107,30 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 
 - 유급휴가 20일
 
+### 에이치비스미스(HBSmith)
+* 사무실 없음
+* 출퇴근 없음
+* (2018년 11월 현재) 모든 임직원 7명이 전원 개발자
+* Agile sprint 기반으로 전체 업무 일정 관리 (JIRA 사용)
+* 2주일에 1회 오프라인 전체 미팅(sprint meeting)에서 모든 임직원이 각자 8 story point(1 point = 8시간 업무 분량)의 issue들을 할당받은 후 각자 원하는 시간, 장소에서 근무
+  * 인터넷 연결만 되어있다면, sprint 기간 내에 외국에 근무도 허용
+  * 할당받은 8 story point를 sprint 기간 중간에 이미 모두 해결했을 경우, 남은 기간은 자율에 맡김
+  * 임원이 아닌 일반 직원들은 추가 영리 활동 허용
+  * 모든 개발자는 code review를 위한 0.5 ~ 2 story point JIRA issue 생성 후 자신에게 할당
+  * 전일 휴가 신청 시  1 story point issue 생성 후 자신에게 할당
+  * 반차 휴가 신청 시  0.5 story point issue 생성 후 자신에게 할당
+* 매일 아침에 slack 채널에 daily scrum으로 "어제까지 한 일 / 오늘 할 일 / risk 유무"를 남김
+* sprint meeting 외에는 모든 커뮤니케이션은 slack, email, JIRA, Confluence, github PR, code review로 진행
+  * 느슨한 커뮤니케이션이지만 영구 기록이 남는 방식 지향
+  * 만약, 개발자끼리 사전 합의하에 오프라인 미팅을 진행할 경우, 장소 대여는 회사에서 지원
+* 회사 차원에서 AWS, PyCon, DjangoGirls 등 개발자 행사에 스폰을 하며, 임직원들에게 발표 세션 지원도 권장
+  * 서울 수도권 외에 지방, 또는 해외 개발자 행사 참석시 교통비, 숙박비 지원
+  * [AWS 기술파트너](https://aws.amazon.com/partners/find/partnerdetails/?id=0010L00001siAVNQA2)
+  * [PyCon 스폰서](https://www.pycon.kr/2018/about/sponsor/hbsmith)
+  * [DjangoGirls 스폰서](https://djangogirls.org/daejeon/#partners-kr)
+* 코드스테이츠(CodeStates) 장학파트너사 ([관련 기사](https://platum.kr/archives/109375))
+* [회사 소개](https://hbsmith.io)
+
 ---
 
 ## 자율 출퇴근 Only
