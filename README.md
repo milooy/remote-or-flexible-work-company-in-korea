@@ -107,6 +107,11 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 
 - 유급휴가 20일
 
+### 브랜더진(Brandazine)
+
+- 컨펌 없는 완전한 자율 근무
+- 주간 회의 (온라인 참석 가능)
+
 ---
 
 ## 자율 출퇴근 Only
