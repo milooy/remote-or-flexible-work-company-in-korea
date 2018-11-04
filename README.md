@@ -1,6 +1,27 @@
-# 한국에서 자율 출퇴근 혹은 원격 근무가 되는 회사가 어디 있을까? 그리고 외부강연 등 추가적인 영리활동에 제약이 없는 곳은 어디일까?  
+# 한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요?
 
-## 자율 출퇴근 && 원격 근무
+회사를 추가하고 싶으신 분은 컨트리뷰션 가이드에 맞춰 Pull Request를 보내주세요.
+
+## 목록
+
+| 회사명 | 자율 출퇴근 | 원격 근무 | 관련 링크 |
+|:------:|:-----------:|:---------:|:---------:|
+| [ZEPL](#zepl) | 시간 제한 없음 | 일주일에 3번 출근 권장 but 팀의 동의 후 해외에서 길게 원격근무 가능 | [ZEPL 서비스](https://www.zepl.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/zepl-1/jobs) |
+
+---
+
+## 상세 설명
+
+### ZEPL
+1. **자율 출퇴근 Rule**
+    - 시간 제한 없이 자율 출퇴근. 매일 아침 KST 9:30의 화상 스탠드업 참석.
+2. **원격 근무 Rule**
+    - 일주일에 3일 회사 출근 권장.
+    - 회사와 팀의 동의가 있다면 길게 해외에서 원격근무 가능 (선례: 3달간 남미, 1달간 치앙마이 , 2주간 제주)
+    - 샌프란시스코 오피스에서 원격 근무 가능
+3. **회사 관련 링크**
+    - [ZEPL 서비스](https://www.zepl.com/)
+    - [로켓펀치 채용 공고] (https://www.rocketpunch.com/companies/zepl-1/jobs)
 
 ### DeepSearch (구. Uberple)
 1. **원격 근무 Rule**
@@ -37,17 +58,6 @@
 * 3년마다 리프레시 휴가 1개월
     * [채용 공고 및 복지] (https://career.toss.im/)
 
-### ZEPL
-1. **자율 출퇴근 Rule**
-    - 시간 제한 없이 자율 출퇴근. 매일 아침 KST 9:30의 화상 스탠드업 참석.
-2. **원격 근무 Rule**
-    - 일주일에 3일 회사 출근 권장.
-    - 회사와 팀의 동의가 있다면 길게 해외에서 원격근무 가능 (선례: 3달간 남미, 1달간 치앙마이 , 2주간 제주)
-    - 샌프란시스코 오피스에서 원격 근무 가능
-3. **회사 관련 링크**
-    - [ZEPL 서비스](https://www.zepl.com/)
-    - [로켓펀치 채용 공고] (https://www.rocketpunch.com/companies/zepl-1/jobs)
-
 ### 스포카(SPOQA)
 https://www.rocketpunch.com/companies/spoqa/jobs
 
@@ -77,7 +87,6 @@ https://www.rocketpunch.com/companies/spoqa/jobs
    - [세일즈부스트 피플](https://medium.com/salesboost-people)
    - [세일즈부스트 채용 공고](https://www.rocketpunch.com/companies/salesboost/jobs)
 
-### Elastic
 ### Studio XID Korea
 
 - 코딩 없이 디지털 프로덕트의 인터렉션을 효과적으로 전달하기 위한 도구 [Protopie](https://www.protopie.io) 제작
@@ -90,24 +99,11 @@ https://www.rocketpunch.com/companies/spoqa/jobs
   - [로켓펀치(권장)](https://www.rocketpunch.com/companies/studioxid-2/jobs)
   - [원티드](https://www.wanted.co.kr/company/452)
 
-### 빠띠
-### 자비스앤빌런즈
-### Google Korea
-### Microsoft Korea
-### 스터디파이
-### 로켓펀치
-### 말랑
-### 주식회사 준타
-### 마이크로소프트웨어
-### 제니퍼소프트
 ### 쿠팡
 - 탄력적 출퇴근제
 - 일주일에 1회 재택 근무 가능
 - [쿠팡 채용공고](https://www.coupang.com/np/jobs)
 
-
-### Moontm
-### Festa
 ### 센트비(Sentbe)
 - 유급휴가 20일
 
@@ -144,12 +140,23 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 - [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1)
 - [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)
 
-## 자율 출퇴근 Only
-
 ### 체커(CHEQUER)
-
 - 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근)
 - 유급 휴가 연간 30일, 무급 휴가 연간 30일
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
 - 회사 문화/복지/채용: https://chequer.workable.com/
+
+### 빠띠
+### 자비스앤빌런즈
+### Google Korea
+### Microsoft Korea
+### 스터디파이
+### 로켓펀치
+### 말랑
+### 주식회사 준타
+### 마이크로소프트웨어
+### 제니퍼소프트
+### Moontm
+### Festa
+### Elastic
