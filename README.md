@@ -109,13 +109,16 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 ### Moontm
 ### Festa
 ### 센트비(Sentbe)
-
 - 유급휴가 20일
+
+### 브랜더진(Brandazine)
+
+- 컨펌 없는 완전한 자율 근무
+- 주간 회의 (온라인 참석 가능)
 
 ### 위키북스
 - [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1)
 - [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)
----
 
 ## 자율 출퇴근 Only
 
