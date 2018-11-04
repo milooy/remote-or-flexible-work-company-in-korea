@@ -52,7 +52,10 @@
 https://www.rocketpunch.com/companies/spoqa/jobs
 
 ### 라인플러스(LINE+)
-- [LINE 엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
+* 월 1회 조직장 승인하에 원격근무 가능 
+* 기준 근무시간이 있으나 꼭 채우지 않아도 무방함, 단 초과 전까지는 1일 1출근 권장
+* 출장 출발, 도착일은 업무를 수행하지 않아도 근무한 것으로 인정 (Travel Day)
+* [엔지니어 채용공고] (https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
 
 ### ODK
 * 무제한 휴가
