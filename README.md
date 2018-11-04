@@ -7,6 +7,7 @@
 | 회사명 | 자율 출퇴근 | 원격 근무 | 관련 링크 |
 |:------:|:-----------:|:---------:|:---------:|
 | [ZEPL](#zepl) | 시간 제한 없음 | 일주일에 3번 출근 권장 but 팀의 동의 후 해외에서 길게 원격근무 가능 | [ZEPL 서비스](https://www.zepl.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/zepl-1/jobs) |
+| [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
 
 ---
 
@@ -87,8 +88,7 @@ https://www.rocketpunch.com/companies/spoqa/jobs
    - [세일즈부스트 피플](https://medium.com/salesboost-people)
    - [세일즈부스트 채용 공고](https://www.rocketpunch.com/companies/salesboost/jobs)
 
-### Studio XID Korea
-
+### Studio XID Korea (프로토파이)
 - 코딩 없이 디지털 프로덕트의 인터렉션을 효과적으로 전달하기 위한 도구 [Protopie](https://www.protopie.io) 제작
 - 서울특별시 일·가족양립 지원센터의 '일·가족양립 수준 진단' 결과, 5점 만점에 4.74점을 획득
 - 원격근무 / 유연근무 등 근로자들에게 자율권 부여(구성원 사이의 협업을 위한 기본 틀을 확립하고 더 개선하고자 노력 중)
@@ -146,17 +146,3 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
 - 회사 문화/복지/채용: https://chequer.workable.com/
-
-### 빠띠
-### 자비스앤빌런즈
-### Google Korea
-### Microsoft Korea
-### 스터디파이
-### 로켓펀치
-### 말랑
-### 주식회사 준타
-### 마이크로소프트웨어
-### 제니퍼소프트
-### Moontm
-### Festa
-### Elastic
