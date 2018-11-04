@@ -18,14 +18,16 @@
 * 매일 점심 데일리 스크럼 화상 미팅 참석
 * 카페/재택/해외 장소 무관 원격 근무 가능
 * 사옥 내 주차비 무료
+* 회사 근처 헬스장 지원
+* 외부 세미나/교육 지원 프로그램 운영 중
 * 근무시간 내 게임 눈치 안보고 가능
-    * [회사소개] (http://www.op.gg/about/)
-    * [채용공고] (http://log.op.gg/op-gg-recruit-wanted/) 
+    * [회사소개](http://www.op.gg/about/)
+    * [채용공고](http://log.op.gg/op-gg-recruit-wanted/) 
 
 ### StyleShare
 * 진짜로 자율 출퇴근
 * 진짜로 원격 근무 가능
-* 5년 근속시 항공비 및 숙박비 지원 + 레프레시 휴가 제공
+* 5년 근속시 항공비 및 숙박비 지원 + 리프레시 휴가 제공
 
 ### Viva Republica (Toss)
 * 무제한 휴가
@@ -50,7 +52,10 @@
 https://www.rocketpunch.com/companies/spoqa/jobs
 
 ### 라인플러스(LINE+)
-- [LINE 엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
+* 월 1회 조직장 승인하에 원격근무 가능 
+* 기준 근무시간이 있으나 꼭 채우지 않아도 무방함, 단 초과 전까지는 1일 1출근 권장
+* 출장 출발, 도착일은 업무를 수행하지 않아도 근무한 것으로 인정 (Travel Day)
+* [엔지니어 채용공고] (https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
 
 ### ODK
 * 무제한 휴가
@@ -104,7 +109,6 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 ### Moontm
 ### Festa
 ### 센트비(Sentbe)
-
 - 유급휴가 20일
 
 ### 에이치비스미스(HBSmith)
@@ -131,7 +135,14 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 * 코드스테이츠(CodeStates) 장학파트너사 ([관련 기사](https://platum.kr/archives/109375))
 * [회사 소개](https://hbsmith.io)
 
----
+### 브랜더진(Brandazine)
+
+- 컨펌 없는 완전한 자율 근무
+- 주간 회의 (온라인 참석 가능)
+
+### 위키북스
+- [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1)
+- [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)
 
 ## 자율 출퇴근 Only
 
