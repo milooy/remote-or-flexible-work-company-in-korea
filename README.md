@@ -1,6 +1,7 @@
 # 한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요?
 
-회사를 추가하고 싶으신 분은 컨트리뷰션 가이드에 맞춰 Pull Request를 보내주세요.
+회사를 추가하고 싶으신 분은 [컨트리뷰션 가이드](./contributing.md)에 맞춰 Pull Request를 보내주세요.
+
 
 ## 목록
 
@@ -8,6 +9,33 @@
 |:------:|:-----------:|:---------:|:---------:|
 | [ZEPL](#zepl) | 시간 제한 없음 | 일주일에 3번 출근 권장 but 팀의 동의 후 해외에서 길게 원격근무 가능 | [ZEPL 서비스](https://www.zepl.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/zepl-1/jobs) |
 | [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
+| [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소 무관 원격 근무 |  |
+| [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 |  |
+| [Viva Republica (Toss)](#viva-republica-toss) | O | O |  |
+| [스포카](#스포카spoqa) | O | O | [채용 공고 및 복지](https://career.toss.im/) |
+| [라인플러스(LINE+)](#라인플러스line) | 기준 근무시간이 있으나 꼭 채우지 않아도 무방 | 월 1회 조직장 승인하에 원격근무 | [엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148) |
+| [ODK](#) | O | O | [회사 소개](https://odkmedia.net/) / [채용 공고](https://ondemandkorea.bamboohr.com/jobs) |
+| [세일즈부스트(Salesboost, Inc.)](#세일즈부스트salesboost-inc) |  | 월, 금만 미팅을 위해 출근 | [세일즈부스트 채용 공고](https://www.rocketpunch.com/companies/salesboost/jobs) / [리모트 근무는 실화고, 사무실은 먹는것 0편](https://medium.com/salesboost-people/%EB%A6%AC%EB%AA%A8%ED%8A%B8-%EA%B7%BC%EB%AC%B4%EB%8A%94-%EC%8B%A4%ED%99%94%EA%B3%A0-%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%9D%80-%EB%A8%B9%EB%8A%94%EA%B2%83-0%ED%8E%B8-65d9aa8dced1)|
+| [Studio XID Korea(프로토파이)](#studio-xid-korea프로토파이) | O | O | [로켓펀치](https://www.rocketpunch.com/companies/studioxid-2/jobs) |
+| [쿠팡](#쿠팡) | O | 주 1회 | [쿠팡 채용공고](https://www.coupang.com/np/jobs) |
+| [센트비(Sentbe)](#센트비sentbe) | O? | O? |  |
+| [에이치비스미스(HBSmith)](#에이치비스미스hbsmith) | O | 출퇴근 없음 | [회사 소개](https://hbsmith.io) |
+| [브랜더진(Brandazine)](#브랜더진brandazine) | O | 컨펌 없는 완전한 자율 근무 |  |
+| [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
+| [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O? | [회사 문화,복지,채용](https://chequer.workable.com/)  |
+| 빠띠 | O | O |  |
+| 자비스앤빌런즈 | O | O |  |
+| Google Korea | O | O |  |
+| Microsoft Korea | O | O |  |
+| 스터디파이 | O | O |  |
+| 로켓펀치 | O | O |  |
+| 말랑 | O | O |  |
+| 주식회사 준타 | O | O |  |
+| 마이크로소프트웨어 | O | O |  |
+| 제니퍼소프트 | O | O |  |
+| Moontm | O | O |  |
+| Festa | O | O |  |
+| Elastic | O | O |  |
 
 ---
 
