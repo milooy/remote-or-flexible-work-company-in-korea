@@ -22,6 +22,7 @@
 | [브랜더진(Brandazine)](#브랜더진brandazine) | O | 컨펌 없는 완전한 자율 근무 |  |
 | [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
 | [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O? | [회사 문화,복지,채용](https://chequer.workable.com/)  |
+| [이디엄(EEDIOM)](#이디엄eediom) | 주 5일 / (자율 출퇴근) | O ||
 | 빠띠 | O | O |  |
 | 자비스앤빌런즈 | O | O |  |
 | Google Korea | O | O |  |
@@ -171,3 +172,10 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
 - 회사 문화/복지/채용: https://chequer.workable.com/
+
+### 이디엄(EEDIOM)
+ - 주 5일 / 주당 근무시간 제한없음 (자율 출퇴근)
+ - 일만 한다면 어디서 일하든 상관없음.(주간 회의 참석자는 월요일은 출근 해야할듯?)
+ - 슬랙으로 커뮤니케이션
+ - 대중교통 혹은 주차비 무료. 
+ - 출근하면 식대 및 간식 지원.
