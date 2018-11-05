@@ -35,6 +35,7 @@
 | Moontm | O | O |  |
 | Festa | O | O |  |
 | Elastic | O | O |  |
+| 마이리얼트립 | 07:30 ~ 10:30 사이 자율 출퇴근, 재택근무 가능 | O | [회사 소개](https://about.myrealtrip.com/) / [로켓펀치 채용공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
 
 ---
 
@@ -171,3 +172,19 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
 - 회사 문화/복지/채용: https://chequer.workable.com/
+
+### 마이리얼트립
+1. **자율 출퇴근 및 재택근무 Rule**
+    - 07:30 ~ 10:30 사이 자율 출퇴근 (매주 10시 30분 전체 스크럼이므로, 10시 30분 이전 출근 권장)
+    - 재택근무 가능 (단, 전체회의가 있는 날을 피하고 팀장과 팀에 사전 공유)
+2. **복지**
+    - 자기계발비 지원
+    - 세미나 및 컨퍼런스 참여시 비용 지원
+    - 마이리얼트립 이용시 연간 백만 포인트 지원
+3. **회사 관련 링크**
+    - [마이리얼트립 서비스](https://www.myrealtrip.com)
+    - [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
+4. **마이리얼트립이 일하는 방식**
+    - [그로스팀 - 데이터가 흐르는 조직 만들기](https://brunch.co.kr/@leoyang99/8)
+    - [디자인팀 - 공유가 쉬운 컬러 시스템 만들기](https://medium.com/myrealtrip-product/color-system-f8b7607ba57)
+    - [스타트업에서 첫 커리어를 시작한 주니어들을 위한 조언](https://brunch.co.kr/@philosper1/25)
