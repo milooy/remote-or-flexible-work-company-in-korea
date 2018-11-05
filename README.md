@@ -1,6 +1,6 @@
 # 한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요?
 
-회사를 추가하고 싶으신 분은 [컨트리뷰션 가이드](./contributing.md)에 맞춰 Pull Request를 보내주세요.
+회사를 추가하고 싶으신 분은 [컨트리뷰션 가이드](https://github.com/milooy/remote-or-flexible-work-company-in-korea/blob/master/contributing.md)에 맞춰 Pull Request를 보내주세요.
 
 ## 목록
 
