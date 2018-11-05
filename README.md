@@ -35,6 +35,7 @@
 | Moontm | O | O |  |
 | Festa | O | O |  |
 | Elastic | O | O |  |
+| [에스티유니타스](#) | 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm) | X | https://www.wanted.co.kr/company/717 |
 
 ---
 
@@ -171,3 +172,13 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
 - 회사 문화/복지/채용: https://chequer.workable.com/
+
+### 에스티유니타스(ST Unitas)
+- 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm)
+- 매 3년 근속 시 2주간 유급 휴가
+- Global Exchange Program
+  - 글로벌 인재 교류 및 파견 프로그램으로, The Princeton Review 프로젝트의 성격과 필요 직무에 따라 내부 선발하여 진행
+- 워킹맘 방학
+  - 자녀가 초등학교에 입학하면 자녀와 함께 등교할 수 있도록 1개월간 유급휴가
+- 헬스키퍼실
+  - 건강을 지키고 스트레스를 풀어드리기 위해, 전문 안마사를 모셔 헬스키퍼실 운영
