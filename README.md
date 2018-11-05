@@ -2,7 +2,6 @@
 
 회사를 추가하고 싶으신 분은 [컨트리뷰션 가이드](./contributing.md)에 맞춰 Pull Request를 보내주세요.
 
-
 ## 목록
 
 | 회사명 | 자율 출퇴근 | 원격 근무 | 관련 링크 |
@@ -16,7 +15,7 @@
 | [라인플러스(LINE+)](#라인플러스line) | 기준 근무시간이 있으나 꼭 채우지 않아도 무방 | 월 1회 조직장 승인하에 원격근무 | [엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148) |
 | [ODK](#) | O | O | [회사 소개](https://odkmedia.net/) / [채용 공고](https://ondemandkorea.bamboohr.com/jobs) |
 | [세일즈부스트(Salesboost, Inc.)](#세일즈부스트salesboost-inc) |  | 월, 금만 미팅을 위해 출근 | [세일즈부스트 채용 공고](https://www.rocketpunch.com/companies/salesboost/jobs) / [리모트 근무는 실화고, 사무실은 먹는것 0편](https://medium.com/salesboost-people/%EB%A6%AC%EB%AA%A8%ED%8A%B8-%EA%B7%BC%EB%AC%B4%EB%8A%94-%EC%8B%A4%ED%99%94%EA%B3%A0-%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%9D%80-%EB%A8%B9%EB%8A%94%EA%B2%83-0%ED%8E%B8-65d9aa8dced1)|
-| [Studio XID Korea(프로토파이)](#studio-xid-korea프로토파이) | O | O | [로켓펀치](https://www.rocketpunch.com/companies/studioxid-2/jobs) |
+| [Studio XID Korea(프로토파이)](#studio-xid-korea-프로토파이) | O | O | [Protopie](https://protopie.io) / [채용 공고](https://bit.ly/xid-career) |
 | [쿠팡](#쿠팡) | O | 주 1회 | [쿠팡 채용공고](https://www.coupang.com/np/jobs) |
 | [센트비(Sentbe)](#센트비sentbe) | O? | O? |  |
 | [에이치비스미스(HBSmith)](#에이치비스미스hbsmith) | O | 출퇴근 없음 | [회사 소개](https://hbsmith.io) |
@@ -123,9 +122,7 @@ https://www.rocketpunch.com/companies/spoqa/jobs
   - 특히 원격근무자를 위한 사무실 이용료 지원
   - 근로자 중 한국인 뿐 아니라 외국인과도 적극적으로 커뮤니케이션 및 협업
   - [참고 기사](https://blog.naver.com/talktalk_hr/221385636323)
-- 채용 공고
-  - [로켓펀치(권장)](https://www.rocketpunch.com/companies/studioxid-2/jobs)
-  - [원티드](https://www.wanted.co.kr/company/452)
+- [채용 공고](https://bit.ly/xid-career)
 
 ### 쿠팡
 - 탄력적 출퇴근제
