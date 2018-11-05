@@ -39,7 +39,7 @@
 
 ---
 
-## 상세 설명
+## 기타 복지
 
 ### ZEPL
 1. **자율 출퇴근 Rule**
@@ -72,7 +72,7 @@
 * 외부 세미나/교육 지원 프로그램 운영 중
 * 근무시간 내 게임 눈치 안보고 가능
     * [회사소개](http://www.op.gg/about/)
-    * [채용공고](http://log.op.gg/op-gg-recruit-wanted/) 
+    * [채용공고](http://log.op.gg/op-gg-recruit-wanted/)
 
 ### StyleShare
 * 진짜로 자율 출퇴근
@@ -91,7 +91,7 @@
 https://www.rocketpunch.com/companies/spoqa/jobs
 
 ### 라인플러스(LINE+)
-* 월 1회 조직장 승인하에 원격근무 가능 
+* 월 1회 조직장 승인하에 원격근무 가능
 * 기준 근무시간이 있으나 꼭 채우지 않아도 무방함, 단 초과 전까지는 1일 1출근 권장
 * 출장 출발, 도착일은 업무를 수행하지 않아도 근무한 것으로 인정 (Travel Day)
 * [엔지니어 채용공고] (https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
