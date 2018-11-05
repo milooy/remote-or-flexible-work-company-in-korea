@@ -35,7 +35,7 @@
 | Moontm | O | O |  |
 | Festa | O | O |  |
 | Elastic | O | O |  |
-| 마이리얼트립 | 07:30 ~ 10:30 사이 자율 출퇴근, 재택근무 가능 | O | [회사 소개](https://about.myrealtrip.com/) / [로켓펀치 채용공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
+| [마이리얼트립](#myrealtrip) | 07:30 ~ 10:30 사이 자율 출퇴근, 재택근무 가능 | O | [회사 소개](https://about.myrealtrip.com/) / [로켓펀치 채용공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
 
 ---
 
