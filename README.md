@@ -49,7 +49,7 @@
     - 샌프란시스코 오피스에서 원격 근무 가능
 3. **회사 관련 링크**
     - [ZEPL 서비스](https://www.zepl.com/)
-    - [로켓펀치 채용 공고] (https://www.rocketpunch.com/companies/zepl-1/jobs)
+    - [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/zepl-1/jobs)
 
 ### DeepSearch (구. Uberple)
 1. **원격 근무 Rule**
@@ -84,16 +84,16 @@
 * 원격 근무 가능
 * 매월 마지막주 금요일 전사 휴식
 * 3년마다 리프레시 휴가 1개월
-    * [채용 공고 및 복지] (https://career.toss.im/)
+    * [채용 공고 및 복지](https://career.toss.im/)
 
 ### 스포카(SPOQA)
-https://www.rocketpunch.com/companies/spoqa/jobs
+[채용공고](https://www.rocketpunch.com/companies/spoqa/jobs)
 
 ### 라인플러스(LINE+)
 * 월 1회 조직장 승인하에 원격근무 가능
 * 기준 근무시간이 있으나 꼭 채우지 않아도 무방함, 단 초과 전까지는 1일 1출근 권장
 * 출장 출발, 도착일은 업무를 수행하지 않아도 근무한 것으로 인정 (Travel Day)
-* [엔지니어 채용공고] (https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
+* [엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
 
 ### ODK Media
 * 무제한 휴가
@@ -170,4 +170,4 @@ https://www.rocketpunch.com/companies/spoqa/jobs
 - 유급 휴가 연간 30일, 무급 휴가 연간 30일
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
-- 회사 문화/복지/채용: https://chequer.workable.com/
+- [회사 문화/복지/채용](https://chequer.workable.com/)
