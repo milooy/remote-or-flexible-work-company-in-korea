@@ -183,6 +183,7 @@ https://www.rocketpunch.com/companies/spoqa/jobs
     - 마이리얼트립 이용시 연간 백만 포인트 지원
 3. **회사 관련 링크**
     - [마이리얼트립 서비스](https://www.myrealtrip.com)
+    - [마이리얼트립 회사소개](https://about.myrealtrip.com/)
     - [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
 4. **마이리얼트립이 일하는 방식**
     - [그로스팀 - 데이터가 흐르는 조직 만들기](https://brunch.co.kr/@leoyang99/8)
