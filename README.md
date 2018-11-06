@@ -1,6 +1,6 @@
 # 한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요?
 
-회사를 추가하고 싶으신 분은 [컨트리뷰션 가이드](./contributing.md)에 맞춰 Pull Request를 보내주세요.
+회사를 추가하고 싶으신 분은 [컨트리뷰션 가이드](https://github.com/milooy/remote-or-flexible-work-company-in-korea/blob/master/contributing.md)에 맞춰 Pull Request를 보내주세요.
 
 ## 목록
 
@@ -8,7 +8,7 @@
 |:------:|:-----------:|:---------:|:---------:|
 | [ZEPL](#zepl) | 시간 제한 없음 | 일주일에 3번 출근 권장 but 팀의 동의 후 해외에서 길게 원격근무 가능 | [ZEPL 서비스](https://www.zepl.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/zepl-1/jobs) |
 | [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
-| [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소 무관 원격 근무 |  |
+| [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소 무관 원격 근무 | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
 | [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 |  |
 | [Viva Republica (Toss)](#viva-republica-toss) | O | O |  |
 | [스포카](#스포카spoqa) | O | O | [채용 공고 및 복지](https://career.toss.im/) |
@@ -22,6 +22,7 @@
 | [브랜더진(Brandazine)](#브랜더진brandazine) | O | 컨펌 없는 완전한 자율 근무 |  |
 | [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
 | [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O? | [회사 문화,복지,채용](https://chequer.workable.com/)  |
+| [이디엄(EEDIOM)](#이디엄eediom) | 주 5일 / (자율 출퇴근) | O ||
 | 빠띠 | O | O |  |
 | 자비스앤빌런즈 | O | O |  |
 | Google Korea | O | O |  |
@@ -36,6 +37,7 @@
 | Festa | O | O |  |
 | Elastic | O | O |  |
 | [에스티유니타스](#) | 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm) | X | https://www.wanted.co.kr/company/717 |
+| SKT | 2주80시간 기준 완전 자율 | 팀장 재량에 따라 무제한 | [채용공고](https://tas-sktelecom.taleo.net/careersection/ex/moresearch.ftl) |
 
 ---
 
@@ -50,7 +52,7 @@
     - 샌프란시스코 오피스에서 원격 근무 가능
 3. **회사 관련 링크**
     - [ZEPL 서비스](https://www.zepl.com/)
-    - [로켓펀치 채용 공고] (https://www.rocketpunch.com/companies/zepl-1/jobs)
+    - [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/zepl-1/jobs)
 
 ### DeepSearch (구. Uberple)
 1. **원격 근무 Rule**
@@ -85,16 +87,16 @@
 * 원격 근무 가능
 * 매월 마지막주 금요일 전사 휴식
 * 3년마다 리프레시 휴가 1개월
-    * [채용 공고 및 복지] (https://career.toss.im/)
+    * [채용 공고 및 복지](https://career.toss.im/)
 
 ### 스포카(SPOQA)
-https://www.rocketpunch.com/companies/spoqa/jobs
+[채용공고](https://www.rocketpunch.com/companies/spoqa/jobs)
 
 ### 라인플러스(LINE+)
 * 월 1회 조직장 승인하에 원격근무 가능
 * 기준 근무시간이 있으나 꼭 채우지 않아도 무방함, 단 초과 전까지는 1일 1출근 권장
 * 출장 출발, 도착일은 업무를 수행하지 않아도 근무한 것으로 인정 (Travel Day)
-* [엔지니어 채용공고] (https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
+* [엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
 
 ### ODK Media
 * 무제한 휴가
@@ -182,3 +184,16 @@ https://www.rocketpunch.com/companies/spoqa/jobs
   - 자녀가 초등학교에 입학하면 자녀와 함께 등교할 수 있도록 1개월간 유급휴가
 - 헬스키퍼실
   - 건강을 지키고 스트레스를 풀어드리기 위해, 전문 안마사를 모셔 헬스키퍼실 운영
+
+### 이디엄(EEDIOM)
+ - 주 5일 / 주당 근무시간 제한없음 (자율 출퇴근)
+ - 일만 한다면 언제 어디서 일하든 상관없음.(주간 회의 참석자는 월요일은 출근 해야할듯?)
+ - 슬랙으로 커뮤니케이션
+ - 대중교통 혹은 주차비 무료. 
+ - 출근하면 식대 및 간식 지원.
+
+### SKT (SK Telecom)
+- 2주 80 시간 기준 완전 자율 근무 (오전6시부터 밤12시까지 권장), 근무 시간 채우면 남은 기간은 유급 휴가
+- 재택 근무는 팀장 재량에 따라 자유, 날 안좋으면 (태풍 등) 회사에서 재택 하라고 전날 공지 내려옴
+- 복지 포인트 연 400만원, 휴대폰 요금 월 20만원 지원 (단말기 할부, 요금, 컨텐츠 포함)
+- 5/10/15/20년 리프레시 휴가 지원
