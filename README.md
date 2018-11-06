@@ -40,6 +40,7 @@
 | [마이리얼트립](#마이리얼트립) | 07:30 ~ 10:30 사이 자율 출퇴근, 재택근무 가능 | O | [회사 소개](https://about.myrealtrip.com/) / [로켓펀치 채용공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
 | [에스티유니타스](#) | 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm) | X | https://www.wanted.co.kr/company/717 |
 | SKT | 2주80시간 기준 완전 자율 | 팀장 재량에 따라 무제한 | [채용공고](https://tas-sktelecom.taleo.net/careersection/ex/moresearch.ftl) |
+| [아이엠지베이스(ImgBase)](#아이엠지베이스imgbase) | O | O | [회사 소개](https://www.imgbase.me/) / [채용 공고](https://www.imgbase.me/ko/careers) |
 
 ---
 
@@ -224,3 +225,13 @@
 - 재택 근무는 팀장 재량에 따라 자유, 날 안좋으면 (태풍 등) 회사에서 재택 하라고 전날 공지 내려옴
 - 복지 포인트 연 400만원, 휴대폰 요금 월 20만원 지원 (단말기 할부, 요금, 컨텐츠 포함)
 - 5/10/15/20년 리프레시 휴가 지원
+
+### 아이엠지베이스(ImgBase)
+- 사진과 비디오로 자신만의 콘텐츠를 쉽게 만들 수 있는 앱을 개발 합니다.
+- 제주도에 있는 앱 개발팀
+- 주 5일, 8 - 11시 탄력적 출퇴근제
+- 주 2일 이하 리모트워크 가능
+- 1년에 1달 연속 해외 리모트워크 가능
+- 1년에 20일 연차 휴가
+- 3년마다 근속시 10일, 6년 근속시 20일 리프레시 휴가. (휴가비 지급)
+- [마케팅 및 앱 기획자, 디자이너 채용중](https://www.imgbase.me/ko/careers)
