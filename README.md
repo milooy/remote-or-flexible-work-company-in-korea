@@ -1,6 +1,6 @@
 # 한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요?
 
-회사를 추가하고 싶으신 분은 [컨트리뷰션 가이드](./contributing.md)에 맞춰 Pull Request를 보내주세요.
+회사를 추가하고 싶으신 분은 [컨트리뷰션 가이드](https://github.com/milooy/remote-or-flexible-work-company-in-korea/blob/master/contributing.md)에 맞춰 Pull Request를 보내주세요.
 
 ## 목록
 
@@ -8,7 +8,7 @@
 |:------:|:-----------:|:---------:|:---------:|
 | [ZEPL](#zepl) | 시간 제한 없음 | 일주일에 3번 출근 권장 but 팀의 동의 후 해외에서 길게 원격근무 가능 | [ZEPL 서비스](https://www.zepl.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/zepl-1/jobs) |
 | [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
-| [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소 무관 원격 근무 |  |
+| [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소 무관 원격 근무 | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
 | [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 |  |
 | [Viva Republica (Toss)](#viva-republica-toss) | O | O |  |
 | [스포카](#스포카spoqa) | O | O | [채용 공고 및 복지](https://career.toss.im/) |
@@ -50,7 +50,7 @@
     - 샌프란시스코 오피스에서 원격 근무 가능
 3. **회사 관련 링크**
     - [ZEPL 서비스](https://www.zepl.com/)
-    - [로켓펀치 채용 공고] (https://www.rocketpunch.com/companies/zepl-1/jobs)
+    - [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/zepl-1/jobs)
 
 ### DeepSearch (구. Uberple)
 1. **원격 근무 Rule**
@@ -85,16 +85,16 @@
 * 원격 근무 가능
 * 매월 마지막주 금요일 전사 휴식
 * 3년마다 리프레시 휴가 1개월
-    * [채용 공고 및 복지] (https://career.toss.im/)
+    * [채용 공고 및 복지](https://career.toss.im/)
 
 ### 스포카(SPOQA)
-https://www.rocketpunch.com/companies/spoqa/jobs
+[채용공고](https://www.rocketpunch.com/companies/spoqa/jobs)
 
 ### 라인플러스(LINE+)
 * 월 1회 조직장 승인하에 원격근무 가능
 * 기준 근무시간이 있으나 꼭 채우지 않아도 무방함, 단 초과 전까지는 1일 1출근 권장
 * 출장 출발, 도착일은 업무를 수행하지 않아도 근무한 것으로 인정 (Travel Day)
-* [엔지니어 채용공고] (https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
+* [엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
 
 ### ODK Media
 * 무제한 휴가
