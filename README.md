@@ -22,6 +22,7 @@
 | [브랜더진(Brandazine)](#브랜더진brandazine) | O | 컨펌 없는 완전한 자율 근무 |  |
 | [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
 | [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O? | [회사 문화,복지,채용](https://chequer.workable.com/)  |
+| [이디엄(EEDIOM)](#이디엄eediom) | 주 5일 / (자율 출퇴근) | O ||
 | 빠띠 | O | O |  |
 | 자비스앤빌런즈 | O | O |  |
 | Google Korea | O | O |  |
@@ -36,6 +37,8 @@
 | Festa | O | O |  |
 | Elastic | O | O |  |
 | [마이리얼트립](#마이리얼트립) | 07:30 ~ 10:30 사이 자율 출퇴근, 재택근무 가능 | O | [회사 소개](https://about.myrealtrip.com/) / [로켓펀치 채용공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
+| [에스티유니타스](#) | 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm) | X | https://www.wanted.co.kr/company/717 |
+| SKT | 2주80시간 기준 완전 자율 | 팀장 재량에 따라 무제한 | [채용공고](https://tas-sktelecom.taleo.net/careersection/ex/moresearch.ftl) |
 
 ---
 
@@ -190,3 +193,26 @@
     - [그로스팀 - 데이터가 흐르는 조직 만들기](https://brunch.co.kr/@leoyang99/8)
     - [디자인팀 - 공유가 쉬운 컬러 시스템 만들기](https://medium.com/myrealtrip-product/color-system-f8b7607ba57)
     - [스타트업에서 첫 커리어를 시작한 주니어들을 위한 조언](https://brunch.co.kr/@philosper1/25)
+
+### 에스티유니타스(ST Unitas)
+- 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm)
+- 매 3년 근속 시 2주간 유급 휴가
+- Global Exchange Program
+  - 글로벌 인재 교류 및 파견 프로그램으로, The Princeton Review 프로젝트의 성격과 필요 직무에 따라 내부 선발하여 진행
+- 워킹맘 방학
+  - 자녀가 초등학교에 입학하면 자녀와 함께 등교할 수 있도록 1개월간 유급휴가
+- 헬스키퍼실
+  - 건강을 지키고 스트레스를 풀어드리기 위해, 전문 안마사를 모셔 헬스키퍼실 운영
+
+### 이디엄(EEDIOM)
+ - 주 5일 / 주당 근무시간 제한없음 (자율 출퇴근)
+ - 일만 한다면 언제 어디서 일하든 상관없음.(주간 회의 참석자는 월요일은 출근 해야할듯?)
+ - 슬랙으로 커뮤니케이션
+ - 대중교통 혹은 주차비 무료. 
+ - 출근하면 식대 및 간식 지원.
+
+### SKT (SK Telecom)
+- 2주 80 시간 기준 완전 자율 근무 (오전6시부터 밤12시까지 권장), 근무 시간 채우면 남은 기간은 유급 휴가
+- 재택 근무는 팀장 재량에 따라 자유, 날 안좋으면 (태풍 등) 회사에서 재택 하라고 전날 공지 내려옴
+- 복지 포인트 연 400만원, 휴대폰 요금 월 20만원 지원 (단말기 할부, 요금, 컨텐츠 포함)
+- 5/10/15/20년 리프레시 휴가 지원
