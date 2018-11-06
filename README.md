@@ -36,6 +36,7 @@
 | Moontm | O | O |  |
 | Festa | O | O |  |
 | Elastic | O | O |  |
+| [해빗팩토리(Habitfactory)](#해빗팩토리Habitfactory) | O | O |  |
 | [마이리얼트립](#마이리얼트립) | 07:30 ~ 10:30 사이 자율 출퇴근, 재택근무 가능 | O | [회사 소개](https://about.myrealtrip.com/) / [로켓펀치 채용공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
 | [에스티유니타스](#) | 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm) | X | https://www.wanted.co.kr/company/717 |
 | SKT | 2주80시간 기준 완전 자율 | 팀장 재량에 따라 무제한 | [채용공고](https://tas-sktelecom.taleo.net/careersection/ex/moresearch.ftl) |
@@ -174,7 +175,14 @@
 - 유급 휴가 연간 30일, 무급 휴가 연간 30일
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
-- [회사 문화/복지/채용](https://chequer.workable.com/)
+- 회사 문화/복지/채용: https://chequer.workable.com/
+
+### 해빗팩토리(Habitfactory)
+- 우리는 강하게 뭉친 작은 팀입니다.
+- 서로가 서로에게 충분한 믿음을 주고 있기 때문에 아무 것도 강제하지 않습니다.
+- 출퇴근, 원격근무, 연차사용이 자유롭습니다.
+- 방통대 진학시 등록금을 지원합니다. (제가 확인함)
+- 일주일에 한 번 사무실에서 모여 동기화 작업을 합니다.
 
 ### 마이리얼트립
 1. **자율 출퇴근 및 재택근무 Rule**
