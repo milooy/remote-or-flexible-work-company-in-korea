@@ -10,8 +10,8 @@
 | [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
 | [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소 무관 원격 근무 | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
 | [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 |  |
-| [Viva Republica (Toss)](#viva-republica-toss) | O | O |  |
-| [스포카](#스포카spoqa) | O | O | [채용 공고 및 복지](https://career.toss.im/) |
+| [Viva Republica (Toss)](#viva-republica-toss) | O | O | [채용 공고 및 복지](https://career.toss.im/) |
+| [스포카](#스포카spoqa) | O | O | [채용 정보](http://spoqa.recruiter.co.kr/) |
 | [라인플러스(LINE+)](#라인플러스line) | 기준 근무시간이 있으나 꼭 채우지 않아도 무방 | 월 1회 조직장 승인하에 원격근무 | [엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148) |
 | [ODK Media](#ODK-Media) | O | O | [회사 소개](https://odkmedia.net/) / [채용 공고](https://ondemandkorea.bamboohr.com/jobs) |
 | [세일즈부스트(Salesboost, Inc.)](#세일즈부스트salesboost-inc) |  | 월, 금만 미팅을 위해 출근 | [세일즈부스트 채용 공고](https://www.rocketpunch.com/companies/salesboost/jobs) / [리모트 근무는 실화고, 사무실은 먹는것 0편](https://medium.com/salesboost-people/%EB%A6%AC%EB%AA%A8%ED%8A%B8-%EA%B7%BC%EB%AC%B4%EB%8A%94-%EC%8B%A4%ED%99%94%EA%B3%A0-%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%9D%80-%EB%A8%B9%EB%8A%94%EA%B2%83-0%ED%8E%B8-65d9aa8dced1)|
