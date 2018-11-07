@@ -40,6 +40,7 @@
 | [마이리얼트립](#마이리얼트립) | 07:30 ~ 10:30 사이 자율 출퇴근, 재택근무 가능 | O | [회사 소개](https://about.myrealtrip.com/) / [로켓펀치 채용공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
 | [에스티유니타스](#에스티유니타스st-unitas) | 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm) | X | [채용 링크](https://www.wanted.co.kr/company/717) |
 | SKT | 2주80시간 기준 완전 자율 | 팀장 재량에 따라 무제한 | [채용공고](https://tas-sktelecom.taleo.net/careersection/ex/moresearch.ftl) |
+| [얼리브(alliv)](#얼리브alliv) | O | O | [얼리브 서비스](https://www.alliv.co.kr/) |
 | [아이엠지베이스(ImgBase)](#아이엠지베이스imgbase) | O | O | [회사 소개](https://www.imgbase.me/) / [채용 공고](https://www.imgbase.me/ko/careers) |
 
 ---
@@ -226,6 +227,18 @@
 - 복지 포인트 연 400만원, 휴대폰 요금 월 20만원 지원 (단말기 할부, 요금, 컨텐츠 포함)
 - 5/10/15/20년 리프레시 휴가 지원
 
+### 얼리브(alliv)
+1. **원격 근무**
+    - 필요시 슬랙으로 상태 표시 (working remotely) 후 어디 장소에서든 원격 자율 근무
+    - 슬랙이나 아사나로 소통. 원격 근무의 경우, 최대한 빠르게 대응
+    - 매주 금요일 주간 티타임 회의
+2. **기타**
+    - 월 20만원 한도내에서 개인 운동비의 80% 지원
+    - 회사에서 운영하는 서울숲, 이태원, 건대입구, 홍대입구 등의 업무 공간(워크스페이스) 무료 이용
+    - 업무 유관 세미나, 교육 지원
+3. **회사 관련 링크**
+    - [얼리브(alliv) 서비스](https://www.alliv.co.kr/)
+
 ### 아이엠지베이스(ImgBase)
 - 사진과 비디오로 자신만의 콘텐츠를 쉽게 만들 수 있는 앱을 개발 합니다.
 - 제주도에 있는 앱 개발팀
@@ -235,3 +248,4 @@
 - 1년에 20일 연차 휴가
 - 3년마다 근속시 10일, 6년 근속시 20일 리프레시 휴가. (휴가비 지급)
 - [마케팅 및 앱 기획자, 디자이너 채용중](https://www.imgbase.me/ko/careers)
+
