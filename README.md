@@ -42,6 +42,7 @@
 | SKT | 2주80시간 기준 완전 자율 | 팀장 재량에 따라 무제한 | [채용공고](https://tas-sktelecom.taleo.net/careersection/ex/moresearch.ftl) |
 | [얼리브(alliv)](#얼리브alliv) | O | O | [얼리브 서비스](https://www.alliv.co.kr/) |
 | [아이엠지베이스(ImgBase)](#아이엠지베이스imgbase) | O | O | [회사 소개](https://www.imgbase.me/) / [채용 공고](https://www.imgbase.me/ko/careers) |
+| [티켓몬스터](#티켓몬스터) |  | 월 2회 | [회사 소개](http://corp.ticketmonster.co.kr/) / [채용 공고](https://recruit.tmon.co.kr//recruit/list/000#page=1) |
 
 ---
 
@@ -248,4 +249,12 @@
 - 1년에 20일 연차 휴가
 - 3년마다 근속시 10일, 6년 근속시 20일 리프레시 휴가. (휴가비 지급)
 - [마케팅 및 앱 기획자, 디자이너 채용중](https://www.imgbase.me/ko/careers)
+
+### 티켓몬스터
+- 월 2회 재택 근무 가능
+- 연차 외에 2시간 일찍 퇴근할 수 있는 슈퍼패스 반기마다 4회씩 부여
+- 연간 회원 200만원 상당의 헬스장 지원
+- 근속연수에 비례한 티몬 적립금 지급
+- 사내 마사지실에서 집중 안마 제공
+- 주택자금대출 이자지원
 
