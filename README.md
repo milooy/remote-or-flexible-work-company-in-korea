@@ -23,7 +23,7 @@
 | [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
 | [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O? | [회사 문화,복지,채용](https://chequer.workable.com/)  |
 | [이디엄(EEDIOM)](#이디엄eediom) | 주 5일 / (자율 출퇴근) | O ||
-| 빠띠 | O | O |  |
+| [빠띠](http://partiunion.org) | O | O | [빠띠 가브크래프트](https://govcraft.org/) / [빠띠 타운홀](https://townhall.kr/) / [빠띠xyz](https://parti.xyz/) |
 | 자비스앤빌런즈 | O | O |  |
 | Google Korea | O | O |  |
 | Microsoft Korea | O | O |  |
@@ -42,6 +42,8 @@
 | SKT | 2주80시간 기준 완전 자율 | 팀장 재량에 따라 무제한 | [채용공고](https://tas-sktelecom.taleo.net/careersection/ex/moresearch.ftl) |
 | [얼리브(alliv)](#얼리브alliv) | O | O | [얼리브 서비스](https://www.alliv.co.kr/) |
 | [아이엠지베이스(ImgBase)](#아이엠지베이스imgbase) | O | O | [회사 소개](https://www.imgbase.me/) / [채용 공고](https://www.imgbase.me/ko/careers) |
+| [슬로워크](https://slowalk.co.kr/) | O | O | [채용 공고](https://slowalk.co.kr/archives/category/news/recruit) / [블로그 글](http://slowalk.tistory.com/2547) |
+| [티켓몬스터](#티켓몬스터) |  | 월 2회 | [회사 소개](http://corp.ticketmonster.co.kr/) / [채용 공고](https://recruit.tmon.co.kr//recruit/list/000#page=1) |
 
 ---
 
@@ -232,6 +234,16 @@
  *[회사 소개](https://brunch.co.kr/@taewookim/12)
  *[채용공고](https://brunch.co.kr/@taewookim/9)
  
+### 빠띠
+- 공간, 시간 관계 없는 원격 및 유연 노동
+- 원격 및 유연 노동 방식 
+  - 한달에 한번 오프라인 정기 워크숍
+  - 매주 금요일 오후 1시~2시 화상 회고
+  - 자유로이 북클럽 운영
+- 무제한 자율휴가 제도 운영 (연 15일 이상 사용 권장)
+- 여름방학 2주(6월\~8월 중), 겨울방학 2주(12월\~1월 중) 제도 운영 
+- 효율적인 디지털 업무 도구 제공(G Suite, 빠띠, 슬랙, 행아웃)
+
 ### SKT (SK Telecom)
 - 2주 80 시간 기준 완전 자율 근무 (오전6시부터 밤12시까지 권장), 근무 시간 채우면 남은 기간은 유급 휴가
 - 재택 근무는 팀장 재량에 따라 자유, 날 안좋으면 (태풍 등) 회사에서 재택 하라고 전날 공지 내려옴
@@ -260,3 +272,18 @@
 - 3년마다 근속시 10일, 6년 근속시 20일 리프레시 휴가. (휴가비 지급)
 - [마케팅 및 앱 기획자, 디자이너 채용중](https://www.imgbase.me/ko/careers)
 
+### 슬로워크
+- 회사 차원에서 근태 관리하지 않음
+  - 원격근무가 가능하도록 효율적인 디지털 업무도구 제공 (G Suite, 빠띠, 슬랙, 지라)
+  - 각 사업부 내에서 협의하여 결정한 운영원칙에 따라 유연근무 및 원격근무 가능
+  - 무제한 자율휴가 제도 운영 (연 15일 이상 사용 권장)
+  - 만 2년 근무 시마다 유급 안식휴가 30일을 제공하는 안식월 제도 운영 
+  - 회식, 워크숍 등 사업부 내부 활동에 사용할 수 있는 팀 운영비 지원 (개인 당 연간 120만 원)
+
+### 티켓몬스터
+- 월 2회 재택 근무 가능
+- 연차 외에 2시간 일찍 퇴근할 수 있는 슈퍼패스 반기마다 4회씩 부여
+- 연간 회원 200만원 상당의 헬스장 지원
+- 근속연수에 비례한 티몬 적립금 지급
+- 사내 마사지실에서 집중 안마 제공
+- 주택자금대출 이자지원
