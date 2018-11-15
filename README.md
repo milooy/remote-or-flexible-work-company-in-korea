@@ -43,6 +43,8 @@
 | [얼리브(alliv)](#얼리브alliv) | O | O | [얼리브 서비스](https://www.alliv.co.kr/) |
 | [아이엠지베이스(ImgBase)](#아이엠지베이스imgbase) | O | O | [회사 소개](https://www.imgbase.me/) / [채용 공고](https://www.imgbase.me/ko/careers) |
 | [슬로워크](https://slowalk.co.kr/) | O | O | [채용 공고](https://slowalk.co.kr/archives/category/news/recruit) / [블로그 글](http://slowalk.tistory.com/2547) |
+| [티켓몬스터](#티켓몬스터) |  | 월 2회 | [회사 소개](http://corp.ticketmonster.co.kr/) / [채용 공고](https://recruit.tmon.co.kr//recruit/list/000#page=1) |
+
 ---
 
 ## 기타 복지
@@ -267,3 +269,11 @@
   - 무제한 자율휴가 제도 운영 (연 15일 이상 사용 권장)
   - 만 2년 근무 시마다 유급 안식휴가 30일을 제공하는 안식월 제도 운영 
   - 회식, 워크숍 등 사업부 내부 활동에 사용할 수 있는 팀 운영비 지원 (개인 당 연간 120만 원)
+
+### 티켓몬스터
+- 월 2회 재택 근무 가능
+- 연차 외에 2시간 일찍 퇴근할 수 있는 슈퍼패스 반기마다 4회씩 부여
+- 연간 회원 200만원 상당의 헬스장 지원
+- 근속연수에 비례한 티몬 적립금 지급
+- 사내 마사지실에서 집중 안마 제공
+- 주택자금대출 이자지원
