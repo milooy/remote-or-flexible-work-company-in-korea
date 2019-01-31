@@ -45,6 +45,7 @@
 | [슬로워크](https://slowalk.co.kr/) | O | O | [채용 공고](https://slowalk.co.kr/archives/category/news/recruit) / [블로그 글](http://slowalk.tistory.com/2547) |
 | [티켓몬스터](#티켓몬스터) |  | 월 2회 | [회사 소개](http://corp.ticketmonster.co.kr/) / [채용 공고](https://recruit.tmon.co.kr//recruit/list/000#page=1) |
 | [크리마랩](#크리마랩) | O | O | [채용 공고 및 상세 설명](https://www.rocketpunch.com/companies/cremafactory/jobs) |
+| 헤이비트 | 13:00~18:00 집중근무시간 외 자율 | 팀장 재량 무제한 | [회사 소개](https://heybit.io) |
 
 ---
 
