@@ -17,7 +17,7 @@
 | [세일즈부스트(Salesboost, Inc.)](#세일즈부스트salesboost-inc) |  | 월, 금만 미팅을 위해 출근 | [세일즈부스트 채용 공고](https://www.rocketpunch.com/companies/salesboost/jobs) / [리모트 근무는 실화고, 사무실은 먹는것 0편](https://medium.com/salesboost-people/%EB%A6%AC%EB%AA%A8%ED%8A%B8-%EA%B7%BC%EB%AC%B4%EB%8A%94-%EC%8B%A4%ED%99%94%EA%B3%A0-%EC%82%AC%EB%AC%B4%EC%8B%A4%EC%9D%80-%EB%A8%B9%EB%8A%94%EA%B2%83-0%ED%8E%B8-65d9aa8dced1)|
 | [Studio XID Korea(프로토파이)](#studio-xid-korea-프로토파이) | O | O | [Protopie](https://protopie.io) / [채용 공고](https://bit.ly/xid-career) |
 | [쿠팡](#쿠팡) | O | 주 1회 | [쿠팡 채용공고](https://www.coupang.com/np/jobs) |
-| [센트비(Sentbe)](#센트비sentbe) | O? | O? |  |
+| [센트비(SENTBE)](#센트비sentbe) | 9am to 12pm 자율 출퇴근 | 월요일만 싱크 미팅을 위해 사무실 출근 | [회사 문화, 복지, 채용 공고](https://bit.ly/2UXZrrc) |
 | [에이치비스미스(HBSmith)](#에이치비스미스hbsmith) | O | 출퇴근 없음 | [회사 소개](https://hbsmith.io) |
 | [브랜더진(Brandazine)](#브랜더진brandazine) | O | 컨펌 없는 완전한 자율 근무 |  |
 | [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
@@ -139,8 +139,29 @@
 - 일주일에 1회 재택 근무 가능
 - [쿠팡 채용공고](https://www.coupang.com/np/jobs)
 
-### 센트비(Sentbe)
-- 유급휴가 20일
+### 센트비(SENTBE)
+1. **리모트 Rule**
+    - 월요일은 10시 30분 미팅을 위해 사무실 출근!
+    - 화수목금은 5시 싱크 미팅을 위해 슬랙콜 접속!
+    - 달력에 리모트 근무 등록만 하면 끝. 팀원과 공유만 되면 아무 문제 없음!
+    - 리모트는 복지가 아닌 효율: 리모트보다 사무실 출근이 효율적인 경우는(미팅, 협업 등) 본인의 판단 하에 사무실 출근 하시는 것을 권장합니다(진지).
+
+2. **자율 출퇴근 Rule**
+    - 월요일 10시 30분 미팅을 위해 늦지 않게 사무실 출근!
+    - 화수목금은 아침 9시 ~ 12시에 (리모트) 출근!
+    - 자율 출퇴근 또한 복지가 아닌 효율: 본인이 효율적으로 일할 수 있는 시간에 사무실 출근 및 리모트 근무 하시는 것을 권장합니다(진지).
+
+3. **기타 복지**
+    - 상상 못하는 엄청난 연차 20개 이상
+    - 연간 총 120만원 문화생활비(도서구입, 문화생활, 교육, 운동, 자기계발 등)
+    - 최고급 장비와 환경
+    - 맥북프로, 아이맥, 32인치 모니터 그밖에 개발자들을 위한 장비 적극 지원
+    - 업무 참고도서 및 개발서적 구입
+    - 저녁식대지원
+    - 사내카페테리아(신선한 커피를 매일 매일~)
+    - 언제든지 쉴수 있는 편안한 휴게실
+    - 내 동료는 외국인! Global Mind 와 영어실력 쭉~쭉 키우기
+    - 근무지 : 서울 서초구 강남대로 311, 8층
 
 ### 에이치비스미스(HBSmith)
 * 사무실 없음
