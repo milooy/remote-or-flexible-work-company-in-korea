@@ -45,6 +45,7 @@
 | [슬로워크](https://slowalk.co.kr/) | O | O | [채용 공고](https://slowalk.co.kr/archives/category/news/recruit) / [블로그 글](http://slowalk.tistory.com/2547) |
 | [티켓몬스터](#티켓몬스터) |  | 월 2회 | [회사 소개](http://corp.ticketmonster.co.kr/) / [채용 공고](https://recruit.tmon.co.kr//recruit/list/000#page=1) |
 | [크리마랩](#크리마랩) | O | O | [채용 공고 및 상세 설명](https://www.rocketpunch.com/companies/cremafactory/jobs) |
+| [히든트랙](#히든트랙) | O | 매주 목요일 | [채용 공고](https://www.rocketpunch.com/companies/hiddentrack/jobs) / [회사소개](https://www.rocketpunch.com/companies/hiddentrack) |
 
 ---
 
@@ -293,3 +294,9 @@
 - 기본 연차 20일을 제공하며, 3년 차마다 추가로 10일의 유급 휴가를 제공, 일정만 조정하면 2주 연속으로 휴가를 사용하는 것도 허용
 - 식비 전액 지원, 고급 커피 제공, 간식 무한 제공
 - 해외 원격 근무 가능
+
+### 히든트랙
+- 주 5일 / 근무시간 제한없음 / 매주 목요일 원격근무
+- 식대 및 간식 무제한
+- 컨퍼런스 참가비 및 도서 구매비 무제한 지원
+
