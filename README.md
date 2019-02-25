@@ -45,6 +45,7 @@
 | [슬로워크](https://slowalk.co.kr/) | O | O | [채용 공고](https://slowalk.co.kr/archives/category/news/recruit) / [블로그 글](http://slowalk.tistory.com/2547) |
 | [티켓몬스터](#티켓몬스터) |  | 월 2회 | [회사 소개](http://corp.ticketmonster.co.kr/) / [채용 공고](https://recruit.tmon.co.kr//recruit/list/000#page=1) |
 | [크리마랩](#크리마랩) | O | O | [채용 공고 및 상세 설명](https://www.rocketpunch.com/companies/cremafactory/jobs) |
+| [삼성전자](#삼성전자) | O | O | [홈페이지](https://www.samsung.com/sec/) |
 | 헤이비트 | 13:00~18:00 집중근무시간 외 자율 | 팀장 재량 무제한 | [회사 소개](https://heybit.io) |
 
 ---
@@ -315,3 +316,12 @@
 - 기본 연차 20일을 제공하며, 3년 차마다 추가로 10일의 유급 휴가를 제공, 일정만 조정하면 2주 연속으로 휴가를 사용하는 것도 허용
 - 식비 전액 지원, 고급 커피 제공, 간식 무한 제공
 - 해외 원격 근무 가능
+
+### 삼성전자
+- SW엔지니어 기준
+- 자율 출퇴근, but 일 최소 4시간, 월 최소 8×평일 시간 이상, 한 주 근무시간 52시간 이하 근무
+- 사내 식당 무료~1000원
+- 사내에 병원, 편의점, 카페, 헬스 및 수영장 등 다양한 시설 존재
+- 주 5일 근무, 결재 하에 22시 이후 야근 또는 주말근무 가능
+- 팀장 수락 하에 재택원격근무 가능 (타당한 이유가 있어야함)
+- 무료 출퇴근 셔틀버스 지원
