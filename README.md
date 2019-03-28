@@ -48,6 +48,7 @@
 | [히든트랙](#히든트랙) | O | 매주 목요일 | [채용 공고](https://www.rocketpunch.com/companies/hiddentrack/jobs) / [회사소개](https://www.rocketpunch.com/companies/hiddentrack) |
 | [삼성전자](#삼성전자) | O | O | [홈페이지](https://www.samsung.com/sec/) |
 | 헤이비트 | 13:00~18:00 집중근무시간 외 자율 | 팀장 재량 무제한 | [회사 소개](https://heybit.io) |
+| 리디(Ridibooks) | O | 주 1회 | [채용 공고](https://www.ridicorp.com/) |
 | [비드라이브](#비드라이브) | 11:00~15:00 집중근무시간 외 자율 | O | https://www.netdrive.net |
 
 ---
