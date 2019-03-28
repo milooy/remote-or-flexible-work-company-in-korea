@@ -48,6 +48,7 @@
 | [히든트랙](#히든트랙) | O | 매주 목요일 | [채용 공고](https://www.rocketpunch.com/companies/hiddentrack/jobs) / [회사소개](https://www.rocketpunch.com/companies/hiddentrack) |
 | [삼성전자](#삼성전자) | O | O | [홈페이지](https://www.samsung.com/sec/) |
 | 헤이비트 | 13:00~18:00 집중근무시간 외 자율 | 팀장 재량 무제한 | [회사 소개](https://heybit.io) |
+| [플링크](#플링크) | O | O | [홈페이지](https://engineering.pplink.net/) |
 | 리디(Ridibooks) | O | 주 1회 | [채용 공고](https://www.ridicorp.com/) |
 | [비드라이브](#비드라이브) | 11:00~15:00 집중근무시간 외 자율 | O | https://www.netdrive.net |
 
@@ -333,6 +334,13 @@
 - 팀장 수락 하에 재택원격근무 가능 (타당한 이유가 있어야함)
 - 무료 출퇴근 셔틀버스 지원
 
+### 플링크
+- 전 직군 100% 원격근무 (해외에서 업무하는 사람들도 있음)
+- 자율 출퇴근
+- 근무시간 제한없음
+- 컨퍼런스 참가비 및 도서 구매비 무제한 지원
+- 사내
+
 ### 엔젤스윙
 **드론 데이터 스타트업,엔젤스윙은 세상에서 가장 큰 제품을 만듭니다.** 
 
@@ -358,4 +366,3 @@
 - 11:00~15:00 집중근무시간 외 4시간 시간 배치는 자율.
 - 매일 오전 11시 Slack을 이용한 standup meeting
 - 만 3년 근무 시 연차 이외 1개월 유급휴가(안식월)
-
