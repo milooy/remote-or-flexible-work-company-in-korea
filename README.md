@@ -40,7 +40,7 @@
 | [마이리얼트립](#마이리얼트립) | 07:30 ~ 10:30 사이 자율 출퇴근, 재택근무 가능 | O | [회사 소개](https://about.myrealtrip.com/) / [로켓펀치 채용공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
 | [에스티유니타스](#에스티유니타스st-unitas) | 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm) | X | [채용 링크](https://www.wanted.co.kr/company/717) |
 | SKT | 2주80시간 기준 완전 자율 | 팀장 재량에 따라 무제한 | [채용공고](https://tas-sktelecom.taleo.net/careersection/ex/moresearch.ftl) |
-| [얼리브(alliv)](#얼리브alliv) | O | O | [얼리브 서비스](https://www.alliv.co.kr/) |
+| [얼리브(alliv)](#얼리브alliv) | O | X | [얼리브 서비스](https://www.alliv.co.kr/) |
 | [아이엠지베이스(ImgBase)](#아이엠지베이스imgbase) | O | O | [회사 소개](https://www.imgbase.me/) / [채용 공고](https://www.imgbase.me/ko/careers) |
 | [슬로워크](https://slowalk.co.kr/) | O | O | [채용 공고](https://slowalk.co.kr/archives/category/news/recruit) / [블로그 글](http://slowalk.tistory.com/2547) |
 | [티켓몬스터](#티켓몬스터) |  | 월 2회 | [회사 소개](http://corp.ticketmonster.co.kr/) / [채용 공고](https://recruit.tmon.co.kr//recruit/list/000#page=1) |
@@ -49,6 +49,7 @@
 | [삼성전자](#삼성전자) | O | O | [홈페이지](https://www.samsung.com/sec/) |
 | 헤이비트 | 13:00~18:00 집중근무시간 외 자율 | 팀장 재량 무제한 | [회사 소개](https://heybit.io) |
 | 리디(Ridibooks) | O | 주 1회 | [채용 공고](https://www.ridicorp.com/) |
+| [비드라이브](#비드라이브) | 11:00~15:00 집중근무시간 외 자율 | O | https://www.netdrive.net |
 
 ---
 
@@ -277,14 +278,13 @@
 - 5/10/15/20년 리프레시 휴가 지원
 
 ### 얼리브(alliv)
-1. **원격 근무**
-    - 필요시 슬랙으로 상태 표시 (working remotely) 후 어디 장소에서든 원격 자율 근무
-    - 슬랙이나 아사나로 소통. 원격 근무의 경우, 최대한 빠르게 대응
-    - 매주 금요일 주간 티타임 회의
+1. **유연 근무제**
+    - 08:30 ~ 10:30 사이 자유로운 출근
+    - 17:30 ~ 19:30 사이 출근에 상응하는 시간에 퇴근
 2. **기타**
     - 월 20만원 한도내에서 개인 운동비의 80% 지원
-    - 회사에서 운영하는 서울숲, 이태원, 건대입구, 홍대입구 등의 업무 공간(워크스페이스) 무료 이용
-    - 업무 유관 세미나, 교육 지원
+    - 회사에서 운영하는 서울숲 얼리브라운지 무료 이용
+    - 업무 유관 세미나, 교육, 도서 구입 지원
 3. **회사 관련 링크**
     - [얼리브(alliv) 서비스](https://www.alliv.co.kr/)
 
@@ -332,3 +332,11 @@
 - 주 5일 근무, 결재 하에 22시 이후 야근 또는 주말근무 가능
 - 팀장 수락 하에 재택원격근무 가능 (타당한 이유가 있어야함)
 - 무료 출퇴근 셔틀버스 지원
+
+### 비드라이브
+- 원격근무 가능
+- 사무실 출근시에는 식비 지원
+- 매주 1회 오프라인 주간회의 (기상조건 또는 기타 이유에 의해 온라인으로 진행되기도 함)
+- 11:00~15:00 집중근무시간 외 4시간 시간 배치는 자율.
+- 매일 오전 11시 Slack을 이용한 standup meeting
+- 만 3년 근무 시 연차 이외 1개월 유급휴가(안식월)
