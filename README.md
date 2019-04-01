@@ -53,7 +53,7 @@
 | [플링크](#플링크) | O | O | [홈페이지](https://engineering.pplink.net/) |
 | 리디(Ridibooks) | O | 주 1회 | [채용 공고](https://www.ridicorp.com/) |
 | [비드라이브](#비드라이브) | 11:00~15:00 집중근무시간 외 자율 | O | https://www.netdrive.net |
-
+| [당근마켓] | X | 매주 목요일에는 재택 근무를 해요. | [채용 공고](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0) |
 ---
 
 ## 기타 복지
