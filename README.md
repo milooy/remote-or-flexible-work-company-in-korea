@@ -10,7 +10,7 @@
 |:------:|:-----------:|:---------:|:---------:|
 | [ZEPL](#zepl) | 시간 제한 없음 | 일주일에 3번 출근 권장 but 팀의 동의 후 해외에서 길게 원격근무 가능 | [ZEPL 서비스](https://www.zepl.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/zepl-1/jobs) |
 | [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
-| [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소 무관 원격 근무 | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
+| [OP.GG](#opgg) | 동료 컨펌, 조직장 무컨펌 자율출퇴근 | 장소 무관 원격 근무 | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
 | [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 |  |
 | [Viva Republica (Toss)](#viva-republica-toss) | O | O | [채용 공고 및 복지](https://career.toss.im/) |
 | [스포카](#스포카spoqa) | O | O | [채용 정보](http://spoqa.recruiter.co.kr/) |
@@ -84,7 +84,9 @@
     - [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs)
 
 ### OP.GG
-* 無컨펌 완전 자율출퇴근.
+* 완전 자율출퇴근.
+    * 동료에게는 재택에 대해서 컨펌을 받아야함
+    * 조직장에게는 컨펌이 아닌 통보
 * 매일 점심 데일리 스크럼 화상 미팅 참석
 * 카페/재택/해외 장소 무관 원격 근무 가능
 * 사옥 내 주차비 무료
