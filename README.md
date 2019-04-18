@@ -12,6 +12,8 @@
 | [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
 | [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소 무관 원격 근무 | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
 | [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 | [회사 소개](https://about.stylesha.re/) / [채용 공고](http://bit.ly/styleshare-careers) |
+| [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소/횟수 무제한 원격 근무 (팀 동료들의 컨펌이 필요, 조직장에게는 통보) | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
+| [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 |  |
 | [Viva Republica (Toss)](#viva-republica-toss) | O | O | [채용 공고 및 복지](https://career.toss.im/) |
 | [스포카](#스포카spoqa) | O | O | [채용 정보](http://spoqa.recruiter.co.kr/) |
 | [라인플러스(LINE+)](#라인플러스line) | 기준 근무시간이 있으나 꼭 채우지 않아도 무방 | 월 1회 조직장 승인하에 원격근무 | [엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148) |
@@ -56,6 +58,7 @@
 | [하이퍼커넥트](#하이퍼커넥트) | 8:00~11:00 자율출퇴근 | X | [채용 정보](https://hyperconnect.com/career/) |
 | [당근마켓] | X | 매주 목요일에는 재택 근무를 해요. | [채용 공고](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0) |
 | [엔젤스윙](#엔젤스윙) | O | 월2회 | [채용 공고](http://bit.ly/2ujipxc) |
+| [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
 
 ---
 
@@ -87,6 +90,8 @@
 * 無컨펌 완전 자율출퇴근.
 * 매일 점심 데일리 스크럼 화상 미팅 참석
 * 카페/재택/해외 장소 무관 원격 근무 가능
+    * 동료에게는 리모트에 대해서 컨펌을 받아야함
+    * 조직장에게는 컨펌이 아닌 통보
 * 사옥 내 주차비 무료
 * 회사 근처 헬스장 지원
 * 외부 세미나/교육 지원 프로그램 운영 중
@@ -412,3 +417,26 @@
 - **도서 지원** 역사, 인문, 인물, 자기계발, 자연과학, 경제경영, IT모바일 관련 도서 무제한 신청 가능
 - **장기근속자 휴가 및 휴가비** 매 3년 근속시 휴가(10일) 및 휴가비(200만원) 제공
 - **생일 축하** 본인 생일 선물(상품권 20만원) 지급 + 생일 반차 제공, 가족 생일 반반차 제공(부모/배우자/자녀)
+
+### Skelter Labs(스켈터랩스)
+**엔지니어링 중심의 개발 문화**
+- 부서/직급에 상관없이 자유롭게 이행하는 코드 리뷰(code review)
+- 최신 기술 도입 위한 내부 기술 커미티(Tech Committee) 운영
+- 정기적인 자체 기술 세미나(Tech Talk) 진행
+- 진행 중인 비즈니스 프로젝트 외에도 상상했던 것들을 팀원들과 함께 만들어 볼 수 있는 Demo Days & Inno Week
+
+**혜택과 복지**
+- **자율출퇴근제** : 개인 상황에 따라 언제든 자유롭게 업무 시간 선택 가능
+- **원격근무제** : 필요하다면 언제든 어느 장소에서건 원격 근무 가능
+- **효율과 몰입의 업무 문화** : G-suite, [슬랙](https://blog.naver.com/skelterlabs/221483186200), [제플린](https://blog.naver.com/skelterlabs/221492097643), [유트랙](https://blog.naver.com/skelterlabs/221497751808) 등 다양한 도구로 업무 몰입
+- **사내 외국어 교육 지원** : 영어교육 및 외국인을 위한 한국어 교육 운영
+- **컨퍼런스/세미나 및 기타 행사 참가 지원** : 직무 관련 외부 행사 참가 비용 무제한 지원
+- **도서 지원** : 필요하다면 어떤 도서든 구매 지원
+- **장비 및 소프트웨어** : 최신형 하드웨어 및 소프트웨어 제공
+- **식대 지원** : 점심 및 저녁 식대 지원
+- **사내 스낵바 제공** : 무료 음료와 스낵, 맥주까지 완비
+- **동호회 지원** : 자유롭게 동호회 개설 및 참여 가능, 동호회 비용 지원
+- **휴식 공간 제공** : 탁구, 당구, 다트 및 게임 시설이 완비된 룸에서 휴식 가능
+- **자유로운 연차 사용** : 무컨펌 당일 연차 사용 가능
+- **생일 축하** : 생일 연차 제공
+- 반려견과 함께 출근해도 됩니다(진짜 반려견 데려오는 사람 다수)
