@@ -59,6 +59,7 @@
 | [당근마켓](#당근마켓) | 9시~11시 탄력 출근 | 매주 목요일 원격 근무 | [팀 페이지](http://team.daangn.com) / [채용 공고](https://dngn.kr/join-us-dev) |
 | [엔젤스윙](#엔젤스윙) | O | 월2회 | [채용 공고](http://bit.ly/2ujipxc) |
 | [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
+| [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
 
 ---
 
@@ -477,3 +478,16 @@
 - **자유로운 연차 사용** : 무컨펌 당일 연차 사용 가능
 - **생일 축하** : 생일 연차 제공
 - 반려견과 함께 출근해도 됩니다(진짜 반려견 데려오는 사람 다수)
+
+
+### APLY 
+- 근태 관리가 없습니다
+- 출퇴근이 없으며 재택, 원격 근무의 지원을 위해 G Suite, 슬랙, 트렐로등의 도구를 활용합니다
+- 출근시 식사를 제공합니다
+- 도서 구매를 지원합니다
+- 투잡이 가능하며, 임직원의 창업도 적극 지원해 드립니다
+- **재직자 모두가 재미있게 일하기 위한 방법을 끊임없이 고민합니다**
+- https://aply.biz
+
+
+
