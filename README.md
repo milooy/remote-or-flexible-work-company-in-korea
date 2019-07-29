@@ -67,9 +67,9 @@
 
 # 기타 자료
 
-- [Kotlin, AWS 그리고 레이니스트와 함께라면 육군훈련소에서도 외롭지 않아] https://medium.com/rainist-engineering/writing-aws-lambda-function-in-kotlin-b3faf3f55777 
-- [Vue.js로 크롬 확장 프로그램을 만들어보자! 크롬 확장 프로그램 『전역일 계산기』를 기획하고 개발한 후 배포하는 과정을 소개합니다.] https://wormwlrm.github.io/2019/07/21/Military-Service-Calculator-Development-Story.html
-- [2학년 학부생의 신입 개발자 취업기. 산업기능요원 결심부터 합격까지 3개월의 기록] https://parksb.github.io/article/27.html
+- Kotlin, AWS 그리고 레이니스트와 함께라면 육군훈련소에서도 외롭지 않아 https://medium.com/rainist-engineering/writing-aws-lambda-function-in-kotlin-b3faf3f55777 
+- Vue.js로 크롬 확장 프로그램을 만들어보자! 크롬 확장 프로그램 『전역일 계산기』를 기획하고 개발한 후 배포하는 과정을 소개합니다. https://wormwlrm.github.io/2019/07/21/Military-Service-Calculator-Development-Story.html
+- 2학년 학부생의 신입 개발자 취업기. 산업기능요원 결심부터 합격까지 3개월의 기록 https://parksb.github.io/article/27.html
 - 2018년 현역 재배정 산업기능요원 준비하는 법 https://academey.github.io/sanup/2018/09/29/goondae.html
 
 # 쓸만한 앱
