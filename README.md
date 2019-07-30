@@ -29,7 +29,7 @@
 - 모젯 (정오의데이트)
 - 넥스트매치 (아만다)
 - 레이니스트 (뱅크샐러드) https://medium.com/rainist-engineering
-- 피플앤드컴퍼니 https://tech.peoplefund.co.kr/
+- 피플펀드컴퍼니 https://tech.peoplefund.co.kr/
 - 코인원
 - 오픈서베이
 - 크몽
