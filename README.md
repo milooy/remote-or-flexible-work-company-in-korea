@@ -43,7 +43,7 @@
 - 스포카 (도도) https://spoqa.github.io/
 - 크로키닷컴 (지그재그) https://devblog.croquis.com/ko/
 - 코드스테이츠
-
+- 엑스엘게임즈 https://xlgames.recruiter.co.kr/app/jobnotice/list
 
 
 # 면접 준비 자료
