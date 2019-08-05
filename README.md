@@ -47,7 +47,7 @@
 - 크로키닷컴 (지그재그) https://devblog.croquis.com/ko/
 - 엑스엘게임즈 https://xlgames.recruiter.co.kr/app/jobnotice/list
 - 버킷플레이스 (오늘의집)
-- 마크애니 (http://www.markany.com/kr/blog/)
+- 마크애니 http://www.markany.com/kr/blog/
 
 
 # 면접 준비 자료
