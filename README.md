@@ -12,7 +12,6 @@
 | [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
 | [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소/횟수 무제한 원격 근무 (팀 동료들의 컨펌이 필요, 조직장에게는 통보) | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
 | [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 | [회사 소개](https://about.stylesha.re/) / [채용 공고](http://bit.ly/styleshare-careers) |
-| [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 |  |
 | [Viva Republica (Toss)](#viva-republica-toss) | O | O | [채용 공고 및 복지](https://career.toss.im/) |
 | [스포카](#스포카spoqa) | O | O | [채용 정보](http://spoqa.recruiter.co.kr/) |
 | [라인플러스(LINE+)](#라인플러스line) | 기준 근무시간이 있으나 꼭 채우지 않아도 무방 | 월 1회 조직장 승인하에 원격근무 | [엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148) |
@@ -59,6 +58,8 @@
 | [엔젤스윙](#엔젤스윙) | O | 월2회 | [채용 공고](http://bit.ly/2ujipxc) |
 | [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
 | [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
+| [DreamUsCompany](#DreamUsCompany) | O | X | [회사 소개](https://www.dreamuscompany.com/) |
+| [SendBird](#sendbird센드버드) | 8시~10시 유연 출근 | 월1회 2시간 조기퇴근, 월1회 원격근무 | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
 
 ---
 
@@ -478,7 +479,6 @@
 - **생일 축하** : 생일 연차 제공
 - 반려견과 함께 출근해도 됩니다(진짜 반려견 데려오는 사람 다수)
 
-
 ### APLY 
 - 근태 관리가 없습니다
 - 출퇴근이 없으며 재택, 원격 근무의 지원을 위해 G Suite, 슬랙, 트렐로등의 도구를 활용합니다
@@ -488,3 +488,36 @@
 - **재직자 모두가 재미있게 일하기 위한 방법을 끊임없이 고민합니다**
 - https://aply.biz
 
+### DreamUsCompany
+**FLO House에 국한된 설명입니다.**
+- 자율출퇴근
+- 영어호칭제 + 수평 조직 문화
+- SKT 통신비 지원
+- 연간 복지포인트 제공
+- 중식비 지원
+- 자유로운 연차 사용
+
+### SendBird (센드버드)
+**Work**
+- **근무지** : 본사는 미국 센프란시스코. 한국은 선릉역 분당선 8번 출구 지하로 연결된 건물.
+- **유연근무** : 월-금요일, 오전 8시~10시 - 오후 5시~7시 (2시간 유연출근).
+- **스톡옵션 제공** : 미국식 스톡옵션 제공. 4년동안 해마다 25%씩 지급.
+- **노트북** : 맥프로 15인치 최신형 성능 확장으로 제공. 30개월당 교체.
+- **장비** : 27인치 고급 델 모니터 2대 기본 지급 (개발자). 전동 높이 조절 책상 제공.
+- **웰컴 버짓** : 입사시 업무에 필요한 장비 (키보드, 헤드셋 등) 50만원 구매 지원.
+- **주차** : 건물내 주차 또는 주차비 지원.
+- **팀빌딩** : 주1회 원테이블. 월1회 팀버짓 제공.
+- **사내 스낵바 제공** : 다양한 간식 지원 (커피머신 및 음료 간식 냉장고).
+
+**Life**
+- **일과 생활 조절** : 월 1회 스마일 디너 (2시간 조기퇴근), 월 1회 Remote 근무 (장소 어디든).
+- **기념일 휴무** : 생일 (미혼) 또는 결혼기념일 (기혼) 시 당일 또는 근처 날짜로 휴무.
+- **동호회 지원** : 사내 스터디 그룹 및 동호회 지원.
+- **운동 지원** : 월 최대 3만원 지원 (개선 논의중).
+- **건강 검진 지원** : 입사 1년 뒤, 개인과 가족 (별도) 검강검진비 지원.
+
+**Growth**
+- **자기 개발** : 온라인 강의, 클라우드 및 소프트웨어 사용료 월 최대 5만원.
+- **어학** : 영어 (사내 주언어) 수업 90%이상 출석시 최대 30만원 지원.
+- **도서** : 업무관련 도서비 무제한 지원.
+- **컨퍼런스** : 국내 컨퍼런스 지원. 입사 1년 뒤, 연1회 해외컨퍼런스 참가비, 항공권, 숙박 지원 (별도 산정 지원).
