@@ -59,6 +59,7 @@
 | [엔젤스윙](#엔젤스윙) | O | 월2회 | [채용 공고](http://bit.ly/2ujipxc) |
 | [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
 | [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
+| [DreamUsCompany](#DreamUsCompany) | O | X | [회사 소개](https://www.dreamuscompany.com/) |
 | [SendBird](#sendbird센드버드) | 8시~10시 유연 출근 | 월1회 2시간 조기퇴근, 월1회 원격근무 | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
 
 ---
@@ -487,6 +488,15 @@
 - 투잡이 가능하며, 임직원의 창업도 적극 지원해 드립니다
 - **재직자 모두가 재미있게 일하기 위한 방법을 끊임없이 고민합니다**
 - https://aply.biz
+
+### DreamUsCompany
+**FLO House에 국한된 설명입니다.**
+- 자율출퇴근
+- 영어호칭제 + 수평 조직 문화
+- SKT 통신비 지원
+- 연간 복지포인트 제공
+- 중식비 지원
+- 자유로운 연차 사용
 
 ### SendBird (센드버드)
 **Work**
