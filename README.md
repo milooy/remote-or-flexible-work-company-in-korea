@@ -60,6 +60,7 @@
 | [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
 | [DreamUsCompany](#DreamUsCompany) | O | X | [회사 소개](https://www.dreamuscompany.com/) |
 | [SendBird](#sendbird센드버드) | 8시~10시 유연 출근 | 월1회 2시간 조기퇴근, 월1회 원격근무 | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
+| [원티드랩](#원티드랩) | 8시~10시 유연 출근 (a.k.a 일출먼들) | 월 2회 | [회사소개 및 채용공고](https://www.wanted.co.kr/company/79) |
 
 ---
 
