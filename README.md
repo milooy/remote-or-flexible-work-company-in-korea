@@ -49,6 +49,7 @@
 - 버킷플레이스 (오늘의집)
 - 마크애니 http://www.markany.com/kr/blog/
 - 펍지 (배틀그라운드) https://careers.pubg.com/#/ko/seoul
+- 마인즈랩 (마음AI) https://mindslab.ai
 
 
 # 면접 준비 자료
