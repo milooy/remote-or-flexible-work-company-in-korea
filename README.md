@@ -61,6 +61,7 @@
 | [DreamUsCompany](#DreamUsCompany) | O | X | [회사 소개](https://www.dreamuscompany.com/) |
 | [SendBird](#sendbird센드버드) | 8시~10시 유연 출근 | 월1회 2시간 조기퇴근, 월1회 원격근무 | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
 | [원티드랩](#원티드랩) | 8시~10시 유연 출근 (a.k.a 일출먼들) | 월 2회 | [회사소개 및 채용공고](https://www.wanted.co.kr/company/79) |
+| [Gracenote(A Nielsen Company)](#Gracenote) | O | O | [회사소개 및 채용공고](https://www.wanted.co.kr/company/7776) |
 
 ---
 
@@ -522,3 +523,11 @@
 - **어학** : 영어 (사내 주언어) 수업 90%이상 출석시 최대 30만원 지원.
 - **도서** : 업무관련 도서비 무제한 지원.
 - **컨퍼런스** : 국내 컨퍼런스 지원. 입사 1년 뒤, 연1회 해외컨퍼런스 참가비, 항공권, 숙박 지원 (별도 산정 지원).
+
+### Gracenote
+- 플렉서블 근무 시간 (재택근무 가능)
+- 좋은 장비 (전동 데스크, 허먼밀러 에어론 의자, 맥북 프로 또는 델 랩탑 등)
+- 사내 간식/음료/컵라면 등 지원
+- 전공서적 구입비용 지원
+- 다양한 국적의 외국인들과 협업 및 커뮤니케이션 기회
+- 해외 출장 기회
