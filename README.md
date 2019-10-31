@@ -105,6 +105,10 @@
 - https://github.com/oaksong/developers-retrospective
   - 개발자 회고 모음
 
+# 편입요건
+https://work.mma.go.kr/caisBYIS/faq/BYITFAQSS.do;jsessionid=vMxuaHbMJAbgTHl5Ql0jmsmhqDpuuMIza3JAsbfhd8j7D0VckuMZ!722922163?menu_id=&pageIndex=2&pageUnit=10&searchCondition=&searchKeyword=&ilryeon_no=2000006569&faqctgry_cd=I03
+
+
 # 자격증
 
 * 현역의 경우 대학 4학기 이상을 이수하였으면 '정보처리산업기사', 대학교를 졸업하면 '정보처리기사' 자격증이 필요하다.
@@ -209,9 +213,10 @@
 
 ## 2019년 (진행 중)
 - 2019년 10월 16일 현역 재배정 공고가 뜨고, 그 다음 날 우편 팩스로 도착했다.
-- 2019년 10월 25일까지 공문으로 신청을 받는다.
+- 2019년 10월 25일까지 공문으로 신청을 받았다.
 - 1순위 근로여건 우수업체, 2순위 복무관리 종합평가 상위 업체로 재배정된다.
 - 1순위 재배정 후 잔여인원이 있는 경우만 2순위 상위 업체 재배정을 실시한다.
+- 업체당 세 명 이내로 TO를 신청할 수 있었으므로, 일부 업체가 공고 직후에 2순위, 3순위 재배정 희망자를 모집했다.
 - http://www.mma.go.kr/seoul/board/boardView.do?mc=usr0000061&gesipan_id=18&gsgeul_no=1503038
 
 ## 근로여건 우수업체 평가기준
@@ -297,6 +302,8 @@
 - Vue.js로 크롬 확장 프로그램을 만들어보자! 크롬 확장 프로그램 『전역일 계산기』를 기획하고 개발한 후 배포하는 과정을 소개합니다. https://wormwlrm.github.io/2019/07/21/Military-Service-Calculator-Development-Story.html
 - 2학년 학부생의 신입 개발자 취업기. 산업기능요원 결심부터 합격까지 3개월의 기록 https://parksb.github.io/article/27.html
 - 2018년 현역 재배정 산업기능요원 준비하는 법 https://academey.github.io/sanup/2018/09/29/goondae.html
+- 2019년 IT 산업기능요원 전직 회사 추천 리스트 https://academey.github.io/sanup/2019/05/07/recommend-and-change-jobs.html
+- 개발자로 취직하는 방법(IT 산업기능요원 취직하는 방법) https://academey.github.io/sanup/2019/05/09/how-to-get-job-as-developer.html
 
 # 쓸만한 앱
 
