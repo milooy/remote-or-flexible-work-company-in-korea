@@ -51,6 +51,7 @@
 - 펍지 (배틀그라운드) https://careers.pubg.com/#/ko/seoul
 - 마인즈랩 (마음AI) https://mindslab.ai
 - 펜타시큐리티시스템 https://pentasecurity.co.kr
+- 마이뮤직테이스트 https://team.mymusictaste.com/recruit
 
 
 # 복무만료 후 계속 근무업체
