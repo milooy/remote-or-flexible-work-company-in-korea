@@ -54,6 +54,7 @@
 - 마이뮤직테이스트 https://team.mymusictaste.com/recruit
 - 조이코퍼레이션(채널톡, 워크인사이트) https://zoyi.co/jobs
 - 파이랩 https://pilab.co/
+- 센드버드 (SendBird) https://sendbird.com/careers
 
 
 # 복무만료 후 계속 근무업체
