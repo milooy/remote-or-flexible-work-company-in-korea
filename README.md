@@ -65,6 +65,7 @@
 | [호갱노노](#호갱노노) | 자율 출퇴근 & 무제한 휴가 | 필요시 재택 근무 | [팀 소개](https://www.notion.so/hogangnono/db927e105a4241fa8995007f8a9f0db7) / [채용 공고](https://www.notion.so/hogangnono/dc757bff48a942edb332b3d5947684c0) |
 | [LezhinComics(레진코믹스)](#LezhinComics) | 자율 출근제 | X | [회사소개 및 채용공고](https://www.wanted.co.kr/company/853) |
 | [데이블(dable)](#데이블) | 11:00 ~ 16:00 코어타임 외 자율 | 매주 목요일 + 년간 10일 | [회사소개](https://dable.io/ko/careers/) / [채용공고](https://apply.workable.com/dable/) |
+| [마키나락스 (MakinaRocks)](#마키나락스-MakinaRocks) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 | [회사 링크](http://makinarocks.ai/) / [채용 링크](https://github.com/makinarocks/jobs) |
 | [플라네타리움](#플라네타리움) | 8~14시 자율 출근 | 주 1~2회 | [회사소개 및 채용공고](https://bit.ly/join-planet) |
 
 ---
@@ -581,7 +582,22 @@
 - 회식은 참석하고 싶은 사람만, 야근은 되도록 지양하는 문화입니다.
 - 휴가는 1시간 단위로, 별도 승인 없이 자유롭게 사용할 수 있습니다.
 
+### 마키나락스 (MakinaRocks)
+- 함께 일하고 싶은 동료와 업계 최고 수준의 연봉
+  - 마키나락스 멤버가 궁금하다면? [[링크](http://makinarocks.ai/)]
+
+- 자유로운 근무
+  - 제한없는 휴가와 자유로운 출/퇴근
+  - 원격 근무 가능
+
+- 2년마다 2회의 국제 컨퍼런스 및 세미나 참가 지원
+  - NeurIPS, ICML, PyConUS, Oreilly SW Arch conf 등
+  - 등록비 / 경비(숙박비, 항공권, 식비) 지원
+
+- 마키나락스의 복지 및 혜택이 더 궁금하다면? [[링크](https://github.com/makinarocks/jobs/blob/master/welfare-benefits.md)]
+
 ### 플라네타리움
 - 8~14시 자율 출근
 - 주 1~2회 원격근무
 - [회사소개 및 채용공고](https://bit.ly/join-planet)
+
