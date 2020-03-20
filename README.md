@@ -55,7 +55,7 @@
 - 조이코퍼레이션(채널톡, 워크인사이트) https://zoyi.co/jobs
 - 파이랩 https://pilab.co/
 - 센드버드 (SendBird) https://sendbird.com/careers
-
+- 당근마켓 https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0
 
 # 복무만료 후 계속 근무업체
 의무복무기간을 마친 산업기능요원이 1년 이상 계속 근무중인 업체.
