@@ -67,6 +67,7 @@
 | [데이블(dable)](#데이블) | 11:00 ~ 16:00 코어타임 외 자율 | 매주 목요일 + 년간 10일 | [회사소개](https://dable.io/ko/careers/) / [채용공고](https://apply.workable.com/dable/) |
 | [마키나락스 (MakinaRocks)](#마키나락스-MakinaRocks) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 | [회사 링크](http://makinarocks.ai/) / [채용 링크](https://github.com/makinarocks/jobs) |
 | [플라네타리움](#플라네타리움) | 8~14시 자율 출근 | 주 1~2회 | [회사소개 및 채용공고](https://bit.ly/join-planet) |
+| [뉴로핏](#뉴로핏) | 10:00 - 19:00, 유연 근무 | X, 하지만 협상 후 가능  | [채용공고](https://www.rocketpunch.com/companies/neurophet-1/jobs) |
 
 ---
 
