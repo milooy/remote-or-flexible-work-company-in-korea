@@ -12,7 +12,6 @@
 | [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
 | [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소/횟수 무제한 원격 근무 (팀 동료들의 컨펌이 필요, 조직장에게는 통보) | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
 | [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 | [회사 소개](https://about.stylesha.re/) / [채용 공고](http://bit.ly/styleshare-careers) |
-| [Viva Republica (Toss)](#viva-republica-toss) | O | O | [채용 공고 및 복지](https://career.toss.im/) |
 | [스포카](#스포카spoqa) | O | O | [채용 정보](http://spoqa.recruiter.co.kr/) |
 | [라인플러스(LINE+)](#라인플러스line) | 기준 근무시간이 있으나 꼭 채우지 않아도 무방 | 월 1회 조직장 승인하에 원격근무 | [엔지니어 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148) |
 | [ODK Media](#ODK-Media) | O | O | [회사 소개](https://odkmedia.net/) / [채용 공고](https://odkmedia.bamboohr.com/jobs) |
@@ -131,14 +130,6 @@
 * 진짜로 자율 출퇴근
 * 진짜로 원격 근무 가능
 * 5년 근속시 항공비 및 숙박비 지원 + 리프레시 휴가 제공
-
-### Viva Republica (Toss)
-* 무제한 휴가
-* 탄력적 출퇴근제
-* 원격 근무 가능
-* 매월 마지막주 금요일 전사 휴식
-* 3년마다 리프레시 휴가 1개월
-    * [채용 공고 및 복지](https://career.toss.im/)
 
 ### 스포카(SPOQA)
 [채용공고](https://www.rocketpunch.com/companies/spoqa/jobs)
