@@ -70,6 +70,7 @@
 | [뉴로핏](#뉴로핏) | 10:00 - 19:00, 유연 근무 | X, 하지만 협상 후 가능  | [채용공고](https://www.rocketpunch.com/companies/neurophet-1/jobs) |
 | [Delightroom](#Delightroom) | 11:00-16:00 코어타임 외 자율 | 필요 시 재택근무 | [회사소개](https://team.alar.my/) / [채용 바로가기](https://team.alar.my/0d0480e4930542a6a08e9344db688c0b) |
 | [29CM](#29CM) | 8~11시 유연출근 | X | [채용공고](https://www.wanted.co.kr/company/1719) |
+| [텀블벅](#텀블벅) | 9~10시 자율 출퇴근 | 주 1회 | [회사소개](https://bit.ly/2ZkOXXW) / [채용공고](https://www.rocketpunch.com/companies/tumblbug/jobs) |
 
 ---
 
@@ -665,3 +666,12 @@
     - 연간 65만원 문화생활비 지원
     - 개발서적구매
     - 개발툴, 교육, 서비스 관련 License 구매제한없음
+### 텀블벅
+- 주 1회 원격 집중 근무(Remote) 가능
+- 월 최대 35만 원의 선택적 복리후생제도 (Flexible Benefits Plan)
+- 연 20만 원 건강검진비 추가 지원
+- 각종 경조 휴가 및 경조금 지원
+- 장기근속자 만 3년마다 유급 리프레시 휴가 및 휴가비 제공
+- 실제적인 육아휴직 제도 · 육아기 근로시간 단축 · 가족 돌봄 휴직 지원
+- 팀 도서구입 / 교육비 지원
+- 최고 사양 개발 장비 지급
