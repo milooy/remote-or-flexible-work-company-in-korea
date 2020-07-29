@@ -45,7 +45,6 @@
 - 헬프미
 - 스포카 (도도) https://spoqa.github.io/
 - 크로키닷컴 (지그재그) https://devblog.croquis.com/ko/
-- 엑스엘게임즈 (아키에이지) https://xlgames.recruiter.co.kr/app/jobnotice/list
 - 버킷플레이스 (오늘의집)
 - 마크애니 http://www.markany.com/kr/blog/
 - 펍지 (배틀그라운드) https://careers.pubg.com/#/ko/seoul
@@ -339,6 +338,7 @@ https://work.mma.go.kr/caisBYIS/faq/BYITFAQSS.do;jsessionid=vMxuaHbMJAbgTHl5Ql0j
 # 쓸만한 앱
 
 - 전역일계산기 https://play.google.com/store/apps/details?id=com.guninnuri.guninday&hl=ko
+- 군돌이 https://play.google.com/store/apps/details?id=com.goondori&hl=ko
 
 # 커뮤니티
 
