@@ -65,7 +65,7 @@
 | [호갱노노](#호갱노노) | 자율 출퇴근 & 무제한 휴가 | 필요시 재택 근무 | [팀 소개](https://www.notion.so/hogangnono/db927e105a4241fa8995007f8a9f0db7) / [채용 공고](https://www.notion.so/hogangnono/dc757bff48a942edb332b3d5947684c0) |
 | [LezhinComics(레진코믹스)](#LezhinComics) | 자율 출근제 | X | [회사소개 및 채용공고](https://www.wanted.co.kr/company/853) |
 | [데이블(dable)](#데이블) | 11:00 ~ 16:00 코어타임 외 자율 | 매주 목요일 + 년간 10일 | [회사소개](https://dable.io/ko/careers/) / [채용공고](https://apply.workable.com/dable/) |
-| [마키나락스 (MakinaRocks)](#마키나락스-MakinaRocks) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 | [회사 링크](http://makinarocks.ai/) / [채용 링크](https://github.com/makinarocks/jobs) |
+| [마키나락스 (MakinaRocks)](#마키나락스-MakinaRocks) | 자율 출퇴근 & 휴가 무제한 | 필요시 원격 근무 | [회사 링크](http://makinarocks.ai/) / [채용 링크](https://github.com/makinarocks/jobs) |
 
 ---
 
