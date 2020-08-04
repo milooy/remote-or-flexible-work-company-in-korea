@@ -40,7 +40,7 @@
 - 하이퍼커넥트 (아자르) https://hyperconnect.github.io/
 - 리디 (리디북스) https://www.ridicorp.com/blog/
 - 우아한형제들 (배달의민족) http://woowabros.github.io/
-- 데브시스터즈 (쿠키런)
+- 데브시스터즈 (쿠키런) https://careers.devsisters.com/
 - VCNC (비트윈)
 - 헬프미
 - 스포카 (도도) https://spoqa.github.io/
@@ -101,6 +101,13 @@
 - 자유롭게 PR을 주시면 감사하겠습니다.
 
 ## 채용 공고 포맷
+- [채용시까지] 데브시스터즈 채용
+    - 분야 : Server, Data Scientist, DW, Data
+    - 보충역 : 편입 가능 / 전직 가능
+    - 현역 : 재배정 지원 불가 / 전직 가능
+    - [기술 블로그](https://tech.devsisters.com/)
+    - [채용공고](https://careers.devsisters.com/)
+
 - [채용시까지] Foo.Bar 채용
     - 분야 : iOS, Android, Server
     - 보충역 : 편입 가능 / 전직 가능
