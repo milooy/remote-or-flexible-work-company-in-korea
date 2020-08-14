@@ -108,6 +108,12 @@
     - [기술 블로그](https://tech.devsisters.com/)
     - [채용공고](https://careers.devsisters.com/)
 
+- [채용시까지] 모젯 채용
+    - 분야 : Server 3년차 이상 / 안드로이드 신입 이상 / iOS 신입 이상
+    - 보충역 : 편입 가능 / 전직 가능
+    - 현역 : **2020년 현역 재배정 편입 가능**, 점수 50점, 현재 대기자 없음 / 전직 가능
+    - [채용공고](https://www.wanted.co.kr/company/419)
+    
 - [채용시까지] Foo.Bar 채용
     - 분야 : iOS, Android, Server
     - 보충역 : 편입 가능 / 전직 가능
