@@ -70,6 +70,7 @@
 | [Delightroom](#Delightroom) | 11:00-16:00 코어타임 외 자율 | 필요 시 재택근무 | [회사소개](https://team.alar.my/) / [채용 바로가기](https://team.alar.my/0d0480e4930542a6a08e9344db688c0b) |
 | [29CM](#29CM) | 8~11시 유연출근 | X | [채용공고](https://www.wanted.co.kr/company/1719) |
 | [텀블벅](#텀블벅) | 9~10시 자율 출퇴근 | 주 1회 | [회사소개](https://bit.ly/2ZkOXXW) / [채용공고](https://www.rocketpunch.com/companies/tumblbug/jobs) |
+| [라인웍스](#라인웍스) | 11:00~17:00 코어타임 외 주40시간 자율근무 | 필요시 재택 근무 (COVID-19 로 전체 원격근무 중) | [홈페이지](https://linewalks.com) / [채용공고](https://linewalks.com/recruit) |
 
 ---
 
@@ -682,3 +683,8 @@
 - 실제적인 육아휴직 제도 · 육아기 근로시간 단축 · 가족 돌봄 휴직 지원
 - 팀 도서구입 / 교육비 지원
 - 최고 사양 개발 장비 지급
+
+### 라인웍스
+- 간식 Bar, 커피머신 사용
+- 휴가 외 월 1회 Refresh Day
+- 도서구입 / 교육비 / 컨퍼런스 참가비 지원
