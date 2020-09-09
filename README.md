@@ -33,7 +33,7 @@
 | 말랑 | O | O |  |
 | 주식회사 준타 | O | O |  |
 | 마이크로소프트웨어 | O | O |  |
-| 제니퍼소프트 | O | O |  |
+| 제니퍼소프트 | O | O | [회사 소개](https://jennifersoft.com/ko/company/) |
 | Moontm | O | O |  |
 | Festa | O | O |  |
 | Elastic | O | O |  |
