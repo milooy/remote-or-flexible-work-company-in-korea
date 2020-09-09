@@ -70,6 +70,7 @@
 | [Delightroom](#Delightroom) | 11:00-16:00 코어타임 외 자율 | 필요 시 재택근무 | [회사소개](https://team.alar.my/) / [채용 바로가기](https://team.alar.my/0d0480e4930542a6a08e9344db688c0b) |
 | [29CM](#29CM) | 8~11시 유연출근 | X | [채용공고](https://www.wanted.co.kr/company/1719) |
 | [텀블벅](#텀블벅) | 9~10시 자율 출퇴근 | 주 1회 | [회사소개](https://bit.ly/2ZkOXXW) / [채용공고](https://www.rocketpunch.com/companies/tumblbug/jobs) |
+| 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
 
 ---
 
