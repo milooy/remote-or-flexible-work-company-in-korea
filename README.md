@@ -21,40 +21,40 @@
 # 산업기능요원을 채용하거나, 산업기능요원이 재직중인 회사
 
 - 뤼이드 (산타토익)
-- 비바리퍼블리카 (토스) [https://blog.toss.im/tag/%EB%B9%84%EB%B0%94%EB%A6%AC%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%B9%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90/](https://blog.toss.im/tag/비바리퍼블리카-개발자/)
+- [비바리퍼블리카](https://blog.toss.im/tag/%EB%B9%84%EB%B0%94%EB%A6%AC%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%B9%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90/) (토스)
 - 봉봉
-- 빙글 https://medium.com/vingle-tech-blog
+- [빙글](https://medium.com/vingle-tech-blog)
 - 마이리얼트립
 - 케어랩스 (굿닥, 바비톡)
-- 왓챠 https://team.watcha.com/blog/
+- [왓챠](https://team.watcha.com/blog/)
 - 번개장터 (셀잇)
 - 에이블리코퍼레이션 (에이블리)
 - 모젯 (정오의데이트)
 - 넥스트매치 (아만다)
-- 레이니스트 (뱅크샐러드) https://medium.com/rainist-engineering
-- 피플펀드컴퍼니 https://tech.peoplefund.co.kr/
+- [레이니스트](https://medium.com/rainist-engineering) (뱅크샐러드)
+- [피플펀드컴퍼니](https://tech.peoplefund.co.kr/)
 - 코인원
 - 오픈서베이
 - 크몽
 - 에잇퍼센트
-- 하이퍼커넥트 (아자르) https://hyperconnect.github.io/
-- 리디 (리디북스) https://www.ridicorp.com/blog/
-- 우아한형제들 (배달의민족) http://woowabros.github.io/
-- 데브시스터즈 (쿠키런) https://careers.devsisters.com/
+- [하이퍼커넥트](https://hyperconnect.github.io/) (아자르) 
+- [리디](https://www.ridicorp.com/blog/) (리디북스) https://www.ridicorp.com/blog/
+- [우아한형제들](http://woowabros.github.io/) (배달의민족)
+- [데브시스터즈](https://careers.devsisters.com/) (쿠키런) 
 - VCNC (비트윈)
 - 헬프미
-- 스포카 (도도) https://spoqa.github.io/
-- 크로키닷컴 (지그재그) https://devblog.croquis.com/ko/
+- [스포카](https://spoqa.github.io/) (도도)
+- [크로키닷컴](https://devblog.croquis.com/ko/) (지그재그)
 - 버킷플레이스 (오늘의집)
-- 마크애니 http://www.markany.com/kr/blog/
-- 펍지 (배틀그라운드) https://careers.pubg.com/#/ko/seoul
-- 마인즈랩 (마음AI) https://mindslab.ai
-- 펜타시큐리티시스템 https://pentasecurity.co.kr
-- 마이뮤직테이스트 https://team.mymusictaste.com/recruit
-- 조이코퍼레이션(채널톡, 워크인사이트) https://zoyi.co/jobs
-- 파이랩 https://pilab.co/
-- 센드버드 (SendBird) https://sendbird.com/careers
-- 당근마켓 https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0
+- [마크애니](http://www.markany.com/kr/blog/)
+- [펍지](https://careers.pubg.com/#/ko/seoul) (배틀그라운드)
+- [마인즈랩](https://mindslab.ai) (마음AI)
+- [펜타시큐리티시스템](https://pentasecurity.co.kr)
+- [마이뮤직테이스트](https://team.mymusictaste.com/recruit)
+- [조이코퍼레이션](https://zoyi.co/jobs) (채널톡, 워크인사이트)
+- [파이랩](https://pilab.co/)
+- [센드버드](https://sendbird.com/careers) (SendBird)
+- [당근마켓](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
 - 위시켓 
 - 드라마앤컴퍼니
 - 띵스플로우
