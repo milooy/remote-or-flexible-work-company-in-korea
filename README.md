@@ -38,7 +38,7 @@
 - 크몽
 - 에잇퍼센트
 - [하이퍼커넥트](https://hyperconnect.github.io/) (아자르) 
-- [리디](https://www.ridicorp.com/blog/) (리디북스) https://www.ridicorp.com/blog/
+- [리디](https://www.ridicorp.com/blog/) (리디북스)
 - [우아한형제들](http://woowabros.github.io/) (배달의민족)
 - [데브시스터즈](https://careers.devsisters.com/) (쿠키런) 
 - VCNC (비트윈)
@@ -61,6 +61,7 @@
 - 코드스테이츠
 - 두나무
 - 팩토리얼게임즈
+- [베이글코드](https://bagelcode.recruiter.co.kr/appsite/company/index)
 
 
 # 복무만료 후 계속 근무업체
