@@ -74,7 +74,6 @@
 | 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
 | [쏘카(SOCAR)](#쏘카SOCAR) | 시차출퇴근 | 재택근무 가능 | [회사 페이지](https://www.socar.kr/) / [채용공고](https://www.notion.so/socarcorp/d458b6b77a2243fb873d1ac800c321f7)|
 
-
 ---
 
 ## 기타 복지
