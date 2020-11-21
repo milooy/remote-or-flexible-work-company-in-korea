@@ -72,6 +72,7 @@
 | [텀블벅](#텀블벅) | 9~10시 자율 출퇴근 | 주 1회 | [회사소개](https://bit.ly/2ZkOXXW) / [채용공고](https://www.rocketpunch.com/companies/tumblbug/jobs) |
 | [라인웍스](#라인웍스) | 11:00~17:00 코어타임 외 주40시간 자율근무 | 필요시 원격근무 (COVID-19 로 전체 원격근무 중) | [홈페이지](https://linewalks.com) / [채용공고](https://linewalks.com/recruit) |
 | 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
+| [탭조이코리아](#탭조이코리아) | 8~10시 유연 출근 | 원격 근무 가능 | [홈페이지](https://www.tapjoy.com/ko/) / [채용공고](https://www.wanted.co.kr/company/1355) |
 
 ---
 
@@ -686,3 +687,13 @@
 - 간식 Bar, 커피머신 사용
 - 휴가 외 월 1회 Refresh Day
 - 도서구입 / 교육비 / 컨퍼런스 참가비 지원
+
+### 탭조이코리아
+- 탭조이는 모바일 앱 광고 플랫폼을 제공하는 글로벌 Ad Tech 기업입니다.
+- 8~10시 유연 출근 가능
+- COVID-19로 주5회 재택 근무 진행중
+- 2021년 최소 주2회 재택 근무 보장 예정
+- 야근, 주말근무를 하지 않아도 되도록 일정을 잡습니다.
+- 내가 자는 동안 장애가 발생하더라도 지구 반대쪽의 엔지니어가 대응해줍니다.
+- [회사소개 및 채용공고](https://www.wanted.co.kr/company/1355) 
+
