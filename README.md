@@ -73,7 +73,7 @@
 | [라인웍스](#라인웍스) | 11:00~17:00 코어타임 외 주40시간 자율근무 | 필요시 원격근무 (COVID-19 로 전체 원격근무 중) | [홈페이지](https://linewalks.com) / [채용공고](https://linewalks.com/recruit) |
 | 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
 
----
+| 메리츠화재해상보험(주) | 출퇴근자율 | 주 5회 | [회사소개](https://www.meritzfire.com/) / [채용공고](https://053.alba.co.kr/job/Detail.asp?adid=102558817) |
 
 ## 기타 복지
 
