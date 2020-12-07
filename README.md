@@ -78,7 +78,7 @@
 | [이스트소프트](#이스트소프트) | 시차출퇴근제 | 원격근무(주3회) | [홈페이지](https://www.estsoft.ai/) / [회사소개](https://bit.ly/3dYpCc4) |
 | 한화정밀기계 | 자율 줄퇴근  | 원격 근무 코로나때 2주 빤짝 | [회사 페이지](https://www.hanwhaprecisionmachinery.co.kr/) |
 
----
+| 메리츠화재해상보험(주) | 출퇴근자율 | 주 5회 | [회사소개](https://www.meritzfire.com/) / [채용공고](https://053.alba.co.kr/job/Detail.asp?adid=102558817) |
 
 ## 기타 복지
 
