@@ -72,6 +72,7 @@
 | [텀블벅](#텀블벅) | 9~10시 자율 출퇴근 | 주 1회 | [회사소개](https://bit.ly/2ZkOXXW) / [채용공고](https://www.rocketpunch.com/companies/tumblbug/jobs) |
 | [라인웍스](#라인웍스) | 11:00~17:00 코어타임 외 주40시간 자율근무 | 필요시 원격근무 (COVID-19 로 전체 원격근무 중) | [홈페이지](https://linewalks.com) / [채용공고](https://linewalks.com/recruit) |
 | 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
+| [쏘카(SOCAR)](#쏘카SOCAR) | 시차출퇴근 | 재택근무 가능 | [회사 페이지](https://www.socar.kr/) / [채용공고](https://www.notion.so/socarcorp/d458b6b77a2243fb873d1ac800c321f7)|
 | [Miso](#Miso) | x | 주 5회 재택근무 | [회사소개](https://www.rocketpunch.com/companies/miso) / [채용공고](https://www.rocketpunch.com/jobs/84304) |
 | [탭조이코리아](#탭조이코리아) | 8~10시 유연 출근 | 원격 근무 가능 | [홈페이지](https://www.tapjoy.com/ko/) / [채용공고](https://www.wanted.co.kr/company/1355) |
 | [Nota](#Nota) | 완전 자율 출퇴근<br>(유연근무제X<br>정해진 근무시간 없음)  | 완전 자율 원격근무 | [회사 페이지](https://nota.ai/) / [채용공고](https://nota.ai/recruiting.html) |
@@ -691,6 +692,21 @@
 - 간식 Bar, 커피머신 사용
 - 휴가 외 월 1회 Refresh Day
 - 도서구입 / 교육비 / 컨퍼런스 참가비 지원
+
+### 쏘카(SOCAR)
+- 재택근무 유연하게 사용 가능
+- 최신형 맥북 + Dell 모니터 지급
+- 쏘카 / 타다 상시 할인, 지인용 쿠폰 정기 지급
+- 자유로운 사내 소모임 지원
+- 외부 교육비 지원 / 사내 교육 프로그램 제공
+- 3년 근무 시 1개월 유급휴가 및 휴가비 제공
+- 의료비 지원
+- 명절 선물비 지급 / 경조사비 지급 및 경조휴가
+- 건강한 간식 제공
+- 사내 도서관 이용 및 자기계발을 위한 도서 지원
+- 부서 회식 / 워크샵 지원
+- 전월세 자금 저리 대출 (1년 이상 근속시)
+- 매년 프리미엄 건강검진 제공
 
 ### 탭조이코리아
 - 탭조이는 모바일 앱 광고 플랫폼을 제공하는 글로벌 Ad Tech 기업입니다.
