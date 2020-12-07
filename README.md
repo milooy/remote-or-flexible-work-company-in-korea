@@ -72,6 +72,7 @@
 | [텀블벅](#텀블벅) | 9~10시 자율 출퇴근 | 주 1회 | [회사소개](https://bit.ly/2ZkOXXW) / [채용공고](https://www.rocketpunch.com/companies/tumblbug/jobs) |
 | [라인웍스](#라인웍스) | 11:00~17:00 코어타임 외 주40시간 자율근무 | 필요시 원격근무 (COVID-19 로 전체 원격근무 중) | [홈페이지](https://linewalks.com) / [채용공고](https://linewalks.com/recruit) |
 | 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
+| 한화정밀기계 | 자율 줄퇴근  | 원격 근무 코로나때 2주 빤짝 | [회사 페이지](https://www.hanwhaprecisionmachinery.co.kr/) |
 
 ---
 
