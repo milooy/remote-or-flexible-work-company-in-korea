@@ -73,6 +73,7 @@
 | [라인웍스](#라인웍스) | 11:00~17:00 코어타임 외 주40시간 자율근무 | 필요시 원격근무 (COVID-19 로 전체 원격근무 중) | [홈페이지](https://linewalks.com) / [채용공고](https://linewalks.com/recruit) |
 | 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
 | 글루리GLURI | x  | 원격 근무 가능 | [회사 페이지](https://www.rocketpunch.com/companies/gluri/) / [채용공고](https://www.rocketpunch.com/jobs/85011) |
+| 헤딩(HEDING) | x  | 원격 근무 가능 | [회사 페이지](https://www.heding.co.kr/) / [채용공고](https://www.peoplenjob.com/jobs/4298341?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) |
 ---
 
 ## 기타 복지
