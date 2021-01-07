@@ -119,7 +119,7 @@
 - [채용시까지] 와탭 채용
   - 분야 : Front-end (React.js) 2년차 이상, Server 3년차 이상
   - 보충역 : 편입 가능 / 전직 가능
-  - 현역 : 재배정 지원 불가 / 전직 가능
+  - 현역 : 전직 가능
   - [기술 블로그](https://www.whatap.io/ko/blog/main/)
   - [채용공고](https://www.wanted.co.kr/company/123)
     
