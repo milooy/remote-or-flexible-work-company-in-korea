@@ -63,6 +63,7 @@
 - [피플펀드컴퍼니](https://tech.peoplefund.co.kr/)
 - [하이퍼커넥트](https://hyperconnect.github.io/) (아자르)
 - 헬프미
+- [비트바이트](https://plkey.app) (플레이키보드)
 
 
 # 복무만료 후 계속 근무업체
@@ -129,6 +130,12 @@
     - 현역 : 재배정 지원 불가 / 전직 가능
     - [기술 블로그](https://foo.bar)
     - [채용공고](https://foo.bar)
+    
+- [채용시까지] 비트 바이트 채용
+    - 분야: iOS Developer
+    - 보충역: 편입 가능 / 전직 가능
+    - 현역: 전직 가능
+    - [채용공고](https://www.rocketpunch.com/jobs/68593)
 
 # 면접 준비 자료
 
