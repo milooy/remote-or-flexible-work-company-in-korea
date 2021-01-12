@@ -46,6 +46,7 @@
 - 에이블리코퍼레이션 (에이블리)
 - 에잇퍼센트
 - 오픈서베이
+- [와탭](https://www.whatap.io/ko/careers/)
 - [왓챠](https://team.watcha.com/blog/)
 - [우아한형제들](http://woowabros.github.io/) (배달의민족)
 - 위시켓
@@ -114,6 +115,13 @@
     - 보충역 : 편입 가능 / 전직 가능
     - 현역 : 전직 가능
     - [채용공고](https://www.wanted.co.kr/company/419)
+
+- [채용시까지] 와탭 채용
+  - 분야 : Front-end (React.js) 2년차 이상, Server 3년차 이상
+  - 보충역 : 편입 가능 / 전직 가능
+  - 현역 : 전직 가능
+  - [기술 블로그](https://www.whatap.io/ko/blog/main/)
+  - [채용공고](https://www.wanted.co.kr/company/123)
     
 - [채용시까지] Foo.Bar 채용
     - 분야 : iOS, Android, Server
