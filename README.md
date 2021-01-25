@@ -80,6 +80,7 @@
 | 한화정밀기계 | 자율 줄퇴근  | 원격 근무 코로나때 2주 빤짝 | [회사 페이지](https://www.hanwhaprecisionmachinery.co.kr/) |
 | 메리츠화재해상보험(주) | 출퇴근자율 | 주 5회 | [회사소개](https://www.meritzfire.com/) / [채용공고](https://053.alba.co.kr/job/Detail.asp?adid=102558817) |
 | [트레바리](#트레바리) | 9~11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시~19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
+| [루닛](#루닛) | 완전 자율 출퇴근 / 무컨펌 무제한 휴가 | 완전 알아서 원격 근무(면대면 회의가 필요할때만 나와도 됩니다) | [홈페이지](https://www.lunit.io/ko/) / [채용공고](https://lunit.recruiter.co.kr/appsite/company/index) |
 
 ## 기타 복지
 
