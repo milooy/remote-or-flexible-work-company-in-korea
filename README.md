@@ -64,7 +64,7 @@
 - [하이퍼커넥트](https://hyperconnect.github.io/) (아자르)
 - 헬프미
 - [비트바이트](https://plkey.app) (플레이키보드)
-- [CHEQUER](https://www.chequer.io/) (체커)
+- [CHEQUER](https://www.chequer.io/) (QueryPie, SQLGate)
 
 
 # 복무만료 후 계속 근무업체
