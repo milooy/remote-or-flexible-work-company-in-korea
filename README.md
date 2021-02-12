@@ -125,13 +125,7 @@
   - [기술 블로그](https://www.whatap.io/ko/blog/main/)
   - [채용공고](https://www.wanted.co.kr/company/123)
     
-- [채용시까지] Foo.Bar 채용
-    - 분야 : iOS, Android, Server
-    - 보충역 : 편입 가능 / 전직 가능
-    - 현역 : 재배정 지원 불가 / 전직 가능
-    - [기술 블로그](https://foo.bar)
-    - [채용공고](https://foo.bar)
-    
+
 - [채용시까지] 비트 바이트 채용
     - 분야: iOS Developer
     - 보충역: 편입 가능 / 전직 가능
