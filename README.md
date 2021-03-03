@@ -79,7 +79,7 @@
 | [이스트소프트](#이스트소프트) | 시차출퇴근제 | 원격근무(주3회) | [홈페이지](https://www.estsoft.ai/) / [회사소개](https://bit.ly/3dYpCc4) |
 | 한화정밀기계 | 자율 줄퇴근  | 원격 근무 코로나때 2주 빤짝 | [회사 페이지](https://www.hanwhaprecisionmachinery.co.kr/) |
 | 메리츠화재해상보험(주) | 출퇴근자율 | 주 5회 | [회사소개](https://www.meritzfire.com/) / [채용공고](https://053.alba.co.kr/job/Detail.asp?adid=102558817) |
-| [트레바리](#트레바리) | 9~11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시~19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
+| [트레바리](#트레바리) | 9&#126;11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시&#126;19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
 | [코드스테이츠](#코드스테이츠) | 8~11시 자율 출퇴근 후 8시간 근무 | 주 1회  | [홈페이지](https://codestates.com/) / [채용공고](https://code-states.breezy.hr/) / [블로그](https://medium.com/code-states) |
 | [휴먼스케이프](#휴먼스케이프) | 자율 출퇴근 (11:00 ~ 17:00 코워킹 타임) | 팀원간의 협의 후 재택근무 가능 | [홈페이지](https://humanscape.io) / [Software Engineer 채용 공고](https://bit.ly/recruit_human_dev) |
 
