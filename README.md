@@ -65,7 +65,7 @@
 | [LezhinComics(레진코믹스)](#LezhinComics) | 자율 출근제 | X | [회사소개 및 채용공고](https://www.wanted.co.kr/company/853) |
 | [데이블(dable)](#데이블) | 11:00 ~ 16:00 코어타임 외 자율 | 매주 목요일 + 년간 10일 | [회사소개](https://dable.io/ko/careers/) / [채용공고](https://apply.workable.com/dable/) |
 | [마키나락스 (MakinaRocks)](#마키나락스-MakinaRocks) | 자율 출퇴근 & 휴가 무제한 | 필요시 원격 근무 | [회사 링크](http://makinarocks.ai/) / [채용 링크](https://github.com/makinarocks/jobs) |
-| [플라네타리움](#플라네타리움) | 8~14시 자율 출근 | 주 1~2회 | [회사소개 및 채용공고](https://bit.ly/join-planet) |
+| [플라네타리움](#플라네타리움) | 8~14시 자율 출근 | 팀 협의하에 자유로운 원격근무 | [회사소개 및 채용공고](https://bit.ly/join-planet) |
 | [뉴로핏](#뉴로핏) | 10:00 - 19:00, 유연 근무 | X, 하지만 협상 후 가능  | [채용공고](https://www.rocketpunch.com/companies/neurophet-1/jobs) |
 | [Delightroom](#Delightroom) | 11:00-16:00 코어타임 외 자율 | 필요 시 재택근무 | [회사소개](https://team.alar.my/) / [채용 바로가기](https://team.alar.my/0d0480e4930542a6a08e9344db688c0b) |
 | [29CM](#29CM) | 8~11시 유연출근 | X | [채용공고](https://www.wanted.co.kr/company/1719) |
@@ -622,8 +622,32 @@
 - 마키나락스의 복지 및 혜택이 더 궁금하다면? [[링크](https://github.com/makinarocks/jobs/blob/master/welfare-benefits.md)]
 
 ### 플라네타리움
-- 8~14시 자율 출근
-- 주 1~2회 원격근무
+**혜택 및 복지**
+1. 근무 제도 및 장비
+    - 8~14시 자율 출근
+    - 14~17시 코워킹 타임 준수 하에 유연 출퇴근제도
+    - 팀 협의하에 자유로운 원격근무
+    - 최신형 장비 및 27인치 듀얼 모니터 지급
+
+2. 휴가 제도
+    - 연 15일, 3년 이상 근속시부터 연 1일 추가
+    - 본인, 직계가족, 배우자 경조사시 폭넓은 유급휴가 지원
+    - 취학 전 아동을 위한 육아휴직 최대 1년
+    - 가족 질병 등으로 인한 가족돌봄휴직 최대 90일
+    - 2년 만근시 연차와 별도의 리프레시휴가 10일
+
+3. 식사 및 교육지원
+    - 자유롭게 사용할 수 있는 월 25만원 상당의 복지포인트 제공
+    - 월 1회 회식
+
+4. 건강관리 지원
+    - 시중 63만원 상당의 건강검진 무료제공 (연 1회)
+    - 재충전을 위한 손목 및 목/허리 안마기 비치
+
+5. 기타 복리후생
+    - 생일 축하 특전
+    - 설날, 추석 시 본인, 본가에 모두 명절 선물 지원
+
 - [회사소개 및 채용공고](https://bit.ly/join-planet)
 
 
