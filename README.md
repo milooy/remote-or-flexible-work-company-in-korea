@@ -50,7 +50,6 @@
 | [삼성전자](#삼성전자) | O | O | [홈페이지](https://www.samsung.com/sec/) |
 | 헤이비트 | 13:00~18:00 집중근무시간 외 자율 | 팀장 재량 무제한 | [회사 소개](https://heybit.io) |
 | [플링크](#플링크) | O | O | [홈페이지](https://engineering.pplink.net/) |
-| 리디(Ridibooks) | O | 주 1회 | [채용 공고](https://www.ridicorp.com/) |
 | [비드라이브](#비드라이브) | 11:00~15:00 집중근무시간 외 자율 | O | https://www.netdrive.net |
 | [하이퍼커넥트](#하이퍼커넥트) | 8:00~11:00 자율출퇴근 | X | [채용 정보](https://hyperconnect.com/career/) |
 | [당근마켓](#당근마켓) | 9시~11시 탄력 출근 | 매주 목요일 원격 근무 | [팀 페이지](http://team.daangn.com) / [채용 공고](https://dngn.kr/join-us-dev) |
