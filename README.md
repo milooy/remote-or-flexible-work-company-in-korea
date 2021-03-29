@@ -65,7 +65,7 @@
 - 헬프미
 - [비트바이트](https://plkey.app) (플레이키보드)
 - [CHEQUER](https://www.chequer.io/) (QueryPie, SQLGate)
-
+- [휴먼스케이프](https://www.humanscape.io/kr/recruit_apply.html)
 
 # 복무만료 후 계속 근무업체
 의무복무기간을 마친 산업기능요원이 1년 이상 계속 근무중인 업체.
