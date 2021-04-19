@@ -58,8 +58,7 @@
 | [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
 | [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
 | [DreamUsCompany](#DreamUsCompany) | O | X | [회사 소개](https://www.dreamuscompany.com/) |
-| [Sendbird](#sendbird-센드버드) | O (8시~10시 유연 출근) | O (팀내 협의 후 재택 근무
-현재 대부분의 인원이 재택중) | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
+| [Sendbird](#sendbird-센드버드) | O (8시~10시 유연 출근) | O (팀내 협의 후 재택 근무. 현재 대부분의 인원이 재택중) | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
 | [원티드랩](#원티드랩) | 8시~10시 유연 출근 (a.k.a 일출먼들) | 월 2회 | [회사소개 및 채용공고](https://www.wanted.co.kr/company/79) |
 | [Gracenote(A Nielsen Company)](#Gracenote) | O | O | [회사소개 및 채용공고](https://www.wanted.co.kr/company/7776) |
 | [호갱노노](#호갱노노) | 자율 출퇴근 & 무제한 휴가 | 필요시 재택 근무 | [팀 소개](https://www.notion.so/hogangnono/db927e105a4241fa8995007f8a9f0db7) / [채용 공고](https://www.notion.so/hogangnono/dc757bff48a942edb332b3d5947684c0) |
