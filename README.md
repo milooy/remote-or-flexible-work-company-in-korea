@@ -43,6 +43,7 @@
 - [빙글](https://medium.com/vingle-tech-blog)
 - [센드버드](https://sendbird.com/careers) (SendBird)
 - [스포카](https://spoqa.github.io/) (도도)
+- [알고리마](https://algorima.io/) ([이지딥](https://easydeep.ai/))
 - 에이블리코퍼레이션 (에이블리)
 - 에잇퍼센트
 - 오픈서베이
@@ -131,6 +132,13 @@
     - 보충역: 편입 가능 / 전직 가능
     - 현역: 전직 가능
     - [채용공고](https://www.rocketpunch.com/jobs/68593)
+
+- [채용시까지] 알고리마 채용
+    - 분야 : Front-end, Back-end, ML
+    - 보충역 : 편입 가능 / 전직 가능
+    - 현역 : 전직 가능
+    - [블로그](https://algorima.tistory.com/)
+    - [채용공고](https://www.rocketpunch.com/companies/algorima/jobs)
 
 # 면접 준비 자료
 
