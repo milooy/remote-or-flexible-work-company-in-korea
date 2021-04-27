@@ -86,6 +86,7 @@
 | [트레바리](#트레바리) | 9&#126;11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시&#126;19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
 | [코드스테이츠](#코드스테이츠) | 8~11시 자율 출퇴근 후 8시간 근무 | 주 1회  | [홈페이지](https://codestates.com/) / [채용공고](https://code-states.breezy.hr/) / [블로그](https://medium.com/code-states) |
 | [휴먼스케이프](#휴먼스케이프) | 자율 출퇴근 (11:00 ~ 17:00 코워킹 타임) | 팀원간의 협의 후 재택근무 가능 | [홈페이지](https://humanscape.io) / [Software Engineer 채용 공고](https://bit.ly/recruit_human_dev) |
+| [뱅크샐러드(레이니스트)](#뱅크샐러드) | O | O | [회사소개](https://career.banksalad.com/about/) / [채용공고](https://career.banksalad.com/jobs/) |
 
 
 ## 기타 복지
@@ -888,3 +889,18 @@
     - [휴먼스케이프 홈페이지](https://humanscape.io)
     - [휴먼스케이프 Software Engineer 채용](https://bit.ly/recruit_human_dev)
 
+### 뱅크샐러드
+
+1. **최고의 장비 및 운영비 지원**
+   - 개발/디자인 직군 CTO 업그레이드 맥북 지급
+   - 비즈니스 직군 그램과 맥북 프로 중 택일
+   - 전 직군 최신 모니터 및 기타 업무 장비 지급
+   - 노이즈 캔슬링 이어폰 (에어팟 프로/보스 헤드셋)
+   - Sketch, Thinkcell 등 유료 소프트웨어 지원
+   - 업무에 필요한 운영비, 야근 택시비 제공 등
+
+2. **리프레쉬를 위한 충전의 시간**
+   - 반기별 Refresh day 휴일 별도 제공 (연 2일)
+   - 전사 여름 휴가 3일 별도 제공
+   - 3년 근속 시 안식휴가 10일 별도 제공
+   - 정규직 입사에 따른 휴가 1일 별도 제공
