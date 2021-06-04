@@ -68,6 +68,7 @@
 - [CHEQUER](https://www.chequer.io/) (QueryPie, SQLGate)
 - [휴먼스케이프](https://www.humanscape.io/kr/recruit_apply.html)
 - [니어스랩](https://nearthlab.oopy.io/) (AI드론 B2B 웹서비스)
+- [커먼컴퓨터](https://www.notion.so/913bb6481c1f4c40a3afcfb63c87a199)
 
 # 복무만료 후 계속 근무업체
 의무복무기간을 마친 산업기능요원이 1년 이상 계속 근무중인 업체.
