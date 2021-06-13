@@ -57,6 +57,7 @@
 - 코인원
 - [크로키닷컴](https://devblog.croquis.com/ko/) (지그재그)
 - 크몽
+- [팀오투](http://teamo2.kr) ([카모아](https://carmore.kr))
 - [파이랩](https://pilab.co/)
 - 팩토리얼게임즈
 - [펍지](https://careers.pubg.com/#/ko/seoul) (배틀그라운드)
