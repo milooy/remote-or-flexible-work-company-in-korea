@@ -26,6 +26,7 @@
 - [데브시스터즈](https://careers.devsisters.com/) (쿠키런)
 - 두나무
 - 드라마앤컴퍼니
+- [디어](https://notion.deering.co/)
 - 띵스플로우
 - [레이니스트](https://medium.com/rainist-engineering) (뱅크샐러드)
 - 뤼이드 (산타토익)
@@ -143,6 +144,12 @@
     - 현역 : 전직 가능
     - [블로그](https://algorima.tistory.com/)
     - [채용공고](https://www.rocketpunch.com/companies/algorima/jobs)
+
+- [채용시까지] 디어 채용
+    - 분야 : Front-end, Back-end
+    - 보충역 : 편입 가능 / 전직 가능
+    - 현역 : 편입 가능 / 전직 가능
+    - [블로그](https://notion.deering.co/)
 
 # 면접 준비 자료
 
