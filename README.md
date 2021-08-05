@@ -86,7 +86,7 @@
 | [트레바리](#트레바리) | 9&#126;11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시&#126;19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
 | [코드스테이츠](#코드스테이츠) | 8~11시 자율 출퇴근 후 8시간 근무 | 주 1회  | [홈페이지](https://codestates.com/) / [채용공고](https://code-states.breezy.hr/) / [블로그](https://medium.com/code-states) |
 | [휴먼스케이프](#휴먼스케이프) | 자율 출퇴근 (11:00 ~ 17:00 코워킹 타임) | 팀원간의 협의 후 재택근무 가능 | [홈페이지](https://humanscape.io) / [Software Engineer 채용 공고](https://bit.ly/recruit_human_dev) |
-| [원프레딕트](#원프레딕트) | 07:30 ~ 10:30 사이 자율 출퇴근, 주1회 재택근무 가능 | O | [홈페이지](https://onepredict.ai/) / [채용 공고](https://blog.onepredict.ai/d665b60a-2196-4cb6-b4bf-d42f39eeeac4) |
+| [원프레딕트](#원프레딕트) | 07:30 ~ 10:30 사이 자율 출퇴근 | 주1회 재택근무 가능 | [홈페이지](https://onepredict.ai/) / [채용 공고](https://blog.onepredict.ai/d665b60a-2196-4cb6-b4bf-d42f39eeeac4) |
 
 
 ## 기타 복지
