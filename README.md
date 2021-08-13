@@ -63,7 +63,7 @@
 | [Gracenote(A Nielsen Company)](#Gracenote) | O | O | [회사소개 및 채용공고](https://www.wanted.co.kr/company/7776) |
 | [호갱노노](#호갱노노) | 자율 출퇴근 & 무제한 휴가 | 필요시 재택 근무 | [팀 소개](https://www.notion.so/hogangnono/db927e105a4241fa8995007f8a9f0db7) / [채용 공고](https://www.notion.so/hogangnono/dc757bff48a942edb332b3d5947684c0) |
 | [LezhinComics(레진코믹스)](#LezhinComics) | 자율 출근제 | X | [회사소개 및 채용공고](https://www.wanted.co.kr/company/853) |
-| [데이블(dable)](#데이블) | 11:00 ~ 16:00 코어타임 외 자율 | 매주 목요일 + 년간 10일 | [회사소개](https://dable.io/ko/careers/) / [채용공고](https://apply.workable.com/dable/) |
+| [데이블(dable)](#데이블) | 11:00 ~ 16:00 코어타임 외 자율 | 매주 목요일 + 년간 10일, (현재 주 2일 재택 시험 적용 중.) | [회사소개](https://dable.io/ko/careers/) / [채용공고](https://www.notion.so/dableglobal/Join-Us-Now-e92b1d419e4d49a087f4c246610e5a51) |
 | [마키나락스 (MakinaRocks)](#마키나락스-MakinaRocks) | 자율 출퇴근 & 휴가 무제한 | 필요시 원격 근무 | [회사 링크](http://makinarocks.ai/) / [채용 링크](https://github.com/makinarocks/jobs) |
 | [플라네타리움](#플라네타리움) | 8~14시 자율 출근 | 팀 협의하에 자유로운 원격근무 | [회사소개 및 채용공고](https://bit.ly/join-planet) |
 | [뉴로핏](#뉴로핏) | 10:00 - 19:00, 유연 근무 | X, 하지만 협상 후 가능  | [채용공고](https://www.rocketpunch.com/companies/neurophet-1/jobs) |
@@ -585,9 +585,10 @@
 ### 데이블
 **Benefits**
 - 매주 목요일 재택근무 (매주 목요일에는 본인이 원하는 곳에서 일하세요.)
+  - 현재 주 2일 재택 시험 적용 중.
 - 연 최대 10일 추가 선택적 재택근무 (추가로 1년에 10일은 본인이 원하는 곳에서 일하세요.)
 - 일 8시간 유연근무제 (코어타임: 11시 ~ 16시 외 자율)
-- 선릉역 6분 거리 (선릉 JustCo 근무)
+- 삼성역 5분 거리 (삼성 위워크 1호점 4층)
 - 연 120만원 상당의 자기개발 비용지원 (Be The Expert Program : 전문가가 되어 봅시다)
 - 사내 개발역량 세미나/스터디 지원
 - 조식제공, 중/석식비 지원
