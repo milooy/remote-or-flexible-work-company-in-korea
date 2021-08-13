@@ -86,6 +86,7 @@
 | [트레바리](#트레바리) | 9&#126;11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시&#126;19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
 | [코드스테이츠](#코드스테이츠) | 8~11시 자율 출퇴근 후 8시간 근무 | 주 1회  | [홈페이지](https://codestates.com/) / [채용공고](https://code-states.breezy.hr/) / [블로그](https://medium.com/code-states) |
 | [휴먼스케이프](#휴먼스케이프) | 자율 출퇴근 (11:00 ~ 17:00 코워킹 타임) | 팀원간의 협의 후 재택근무 가능 | [홈페이지](https://humanscape.io) / [Software Engineer 채용 공고](https://bit.ly/recruit_human_dev) |
+| [뱅크샐러드(레이니스트)](#뱅크샐러드) | O | O | [회사소개](https://career.banksalad.com/about/) / [채용공고](https://career.banksalad.com/jobs/) |
 | [11번가](#11번가) | 자율 출퇴근제 (2주동안 80시간) | 전사 재택 (코로나 현황에 따라 변동) | [홈페이지](https://www.11stcorp.com) / [Software Engineer 채용 공고](https://careers.11stcorp.com/jobs/engineering) |
 | [셀렉트스타](#셀렉트스타) | 자율 출퇴근 (13:00 ~ 17:00 코어 타임) | COVID-19 유행 단계에 따라 재택근무 중 | [홈페이지](https://selectstar.ai/) / [채용공고](https://www.notion.so/2387860beacf47048f74e0863550697a) |
 | [그렙](#그렙) | 9:00~10:00 중 자율 출근 | O | [홈페이지](https://www.grepp.co/)/[채용공고](https://www.notion.so/prgrms/772559b20f9f451c94b568468eb53f47)/[블로그](https://prgms.tistory.com/) |
@@ -916,6 +917,22 @@
     - [휴먼스케이프 홈페이지](https://humanscape.io)
     - [휴먼스케이프 Software Engineer 채용](https://bit.ly/recruit_human_dev)
 
+### 뱅크샐러드
+
+1. **최고의 장비 및 운영비 지원**
+   - 개발/디자인 직군 CTO 업그레이드 맥북 지급
+   - 비즈니스 직군 그램과 맥북 프로 중 택일
+   - 전 직군 최신 모니터 및 기타 업무 장비 지급
+   - 노이즈 캔슬링 이어폰 (에어팟 프로/보스 헤드셋)
+   - Sketch, Thinkcell 등 유료 소프트웨어 지원
+   - 업무에 필요한 운영비, 야근 택시비 제공 등
+
+2. **리프레쉬를 위한 충전의 시간**
+   - 반기별 Refresh day 휴일 별도 제공 (연 2일)
+   - 전사 여름 휴가 3일 별도 제공
+   - 3년 근속 시 안식휴가 10일 별도 제공
+   - 정규직 입사에 따른 휴가 1일 별도 제공
+
 ### 11번가
 
 - 현금성 복지
@@ -1066,4 +1083,3 @@ _**우리 회사가 궁금하다면?**_
 [회사 홈페이지](https://onepredict.ai/)  
 [회사 기술블로그](https://tech.onepredict.ai/)  
 [회사 블로그](https://blog.onepredict.ai/)
-
