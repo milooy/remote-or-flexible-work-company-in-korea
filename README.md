@@ -22,7 +22,7 @@
 | [에이치비스미스(HBsmith)](#에이치비스미스hbsmith) | O | 출퇴근 없음 | [회사 소개](https://hbsmith.io) |
 | [브랜더진(Brandazine)](#브랜더진brandazine) | O | 컨펌 없는 완전한 자율 근무 |  |
 | [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
-| [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O | [회사 문화,복지,채용](https://chequer.workable.com/)  |
+| [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O | [회사 문화,복지,채용](https://querypie.com/recruit)  |
 | [로그프레소(Logpresso)](#로그프레소Logpresso) | 주 5일 / (자율 출퇴근) | O |[회사 소개](https://ko.logpresso.com/)  |
 | [빠띠](http://partiunion.org) | O | O | [빠띠 가브크래프트](https://govcraft.org/) / [빠띠 타운홀](https://townhall.kr/) / [빠띠xyz](https://parti.xyz/) |
 | 자비스앤빌런즈 | O | O |  |
@@ -58,7 +58,7 @@
 | [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
 | [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
 | [DreamUsCompany](#DreamUsCompany) | O | X | [회사 소개](https://www.dreamuscompany.com/) |
-| [Sendbird](#sendbird-센드버드) | O (8시~10시 유연 출근) | O (팀내 협의 후 재택 근무. 현재 대부분의 인원이 재택중) | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
+| [센드버드코리아 (Sendbird)](#sendbird-센드버드) | O (8시~10시 유연 출근) | O (팀내 협의 후 재택 근무. 현재 대부분의 인원이 재택중) | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
 | [원티드랩](#원티드랩) | 8시~10시 유연 출근 (a.k.a 일출먼들) | 월 2회 | [회사소개 및 채용공고](https://www.wanted.co.kr/company/79) |
 | [Gracenote(A Nielsen Company)](#Gracenote) | O | O | [회사소개 및 채용공고](https://www.wanted.co.kr/company/7776) |
 | [LezhinComics(레진코믹스)](#LezhinComics) | 자율 출근제 | X | [회사소개 및 채용공고](https://www.wanted.co.kr/company/853) |
@@ -83,7 +83,7 @@
 | [드라마앤컴퍼니(리멤버)](#드라마앤컴퍼니리멤버)|8시30분~10시30분 선택적 출근시간제| COVID-19 유행 단계에 따라 재택근무/순환근무 중 | [회사소개 및 채용공고](http://dramancompany.com/joinus/)
 | [루닛](#루닛) | 완전 자율 출퇴근 / 무컨펌 무제한 휴가 | 완전 알아서 원격 근무(면대면 회의가 필요할때만 나와도 됩니다) | [홈페이지](https://www.lunit.io/ko/) / [채용공고](https://lunit.recruiter.co.kr/appsite/company/index) |
 | [트레바리](#트레바리) | 9&#126;11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시&#126;19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
-| [코드스테이츠](#코드스테이츠) | 8~11시 자율 출퇴근 후 8시간 근무 | 주 1회  | [홈페이지](https://codestates.com/) / [채용공고](https://code-states.breezy.hr/) / [블로그](https://medium.com/code-states) |
+| [코드스테이츠](#코드스테이츠) | 8~11시 자율 출퇴근 후 8시간 근무 | 필요시 재택근무 가능  | [홈페이지](https://codestates.com/) / [채용공고](https://code-states.breezy.hr/) / [블로그](https://medium.com/code-states) |
 | [휴먼스케이프](#휴먼스케이프) | 자율 출퇴근 (11:00 ~ 17:00 코워킹 타임) | 팀원간의 협의 후 재택근무 가능 | [홈페이지](https://humanscape.io) / [Software Engineer 채용 공고](https://bit.ly/recruit_human_dev) |
 | [와디즈](#와디즈) | 자율 출퇴근 | 주 4회 | [홈페이지](https://www.wadiz.kr/) / [채용 공고](https://bit.ly/32JuQDP) / [블로그](https://medium.com/wadiz)
 | [뱅크샐러드(레이니스트)](#뱅크샐러드) | O | O | [회사소개](https://career.banksalad.com/about/) / [채용공고](https://career.banksalad.com/jobs/) |
@@ -92,6 +92,11 @@
 | [그렙](#그렙) | 9:00~10:00 중 자율 출근 | O | [홈페이지](https://www.grepp.co/)/[채용공고](https://www.notion.so/prgrms/772559b20f9f451c94b568468eb53f47)/[블로그](https://prgms.tistory.com/) |
 | [원프레딕트](#원프레딕트) | 07:30 ~ 10:30 사이 자율 출퇴근 | 주1회 재택근무 가능 | [홈페이지](https://onepredict.ai/) / [채용 공고](https://blog.onepredict.ai/d665b60a-2196-4cb6-b4bf-d42f39eeeac4) |
 | [직방](#직방) | X | 100% 원격 근무제 | [홈페이지](https://zigbang.com/) / [채용 페이지](https://career.zigbang.com/) |
+| [SK Planet](#SKP) | 8:00 이후 시작 ~ 20:00 이전 종료 근무시간 설정 (시간 외 직책자 승인 필요) | COVID-19 유행 단계에 따라 재택근무 중 | [홈페이지](https://www.skplanet.com/) | [채용공고](https://careers.skplanet.com/home) | 
+| [코클](#코클) | 자율 출퇴근, 무제한 휴가 | 자율 재택근무 | [홈페이지](https://www.cochl.ai/) / [채용 공고](https://cochl.oopy.io/) |
+| [자란다](#자란다) | 09:00 ~ 10:30 사이 자율 출퇴근 | 주2회 재택근무 가능 | [홈페이지](https://team.jaranda.kr/) / [채용 공고](https://team.jaranda.kr/backend) |
+| [셀러노트](#셀러노트) | 08:00 ~ 10:00 사이 자율 출퇴근 | 필요시 재택근무 (개발팀 대부분 재택근무 중) | [홈페이지](https://www.ship-da.com/) / [채용 공고](http://wntd.co/06353222) |
+| [쿼타랩](#쿼타랩) | 완전 자율 출퇴근 | 무제한 재택근무 가능 | [홈페이지](https://www.quotabook.com/ko) / [채용 공고](https://careers.quotabook.com/) / [블로그](https://www.quotabook.com/ko/blog/home) |
 
 
 ## 기타 복지
@@ -254,7 +259,7 @@
 - 유급 휴가 연간 30일, 무급 휴가 연간 30일
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
-- 회사 문화/복지/채용: https://chequer.workable.com/
+- 회사 문화/복지/채용: https://querypie.com/recruit
 
 ### 해빗팩토리(Habitfactory)
 - 우리는 강하게 뭉친 작은 팀입니다.
@@ -1128,3 +1133,127 @@ _**우리 회사가 궁금하다면?**_
 
 - 매월 오프라인 **레슨비** 지원
 - 매년 **Experience Refresh 휴가 15일** 추가 제공
+
+### SK Planet 
+
+1. **Happy Friday**
+   - 매월 3째주 금요일 전체 OFF 
+
+2. **현금성 복지 (비직책자 기준)** 
+    - 현금성 복지 포인트 연간 400만원 
+    - 개인 교육비 연간 70만원 
+    - 자연이랑 구매 지원금 월 5만원 
+    - 의료비 지원 (구성원 본인 연간 3000만원, 가족 연간 1000만원)
+    - 자녀 학자금 지원 
+        - 유치원, 초/중등학교 10만원 지원
+        - 고등학교 수업료 + 학교 운영지원비 지원 
+        - 대학교 입학금 + 수업료 지원 
+    - 건강검진 연 1회 본인, 만 35세 이상 배우자 지원 
+
+3. *** 휴가 *** 
+    - 개인 연차 외 체력단련휴가 5일 부여 
+    - 근속년수 3년마다 2주 휴가 부여 (단, 9, 18, 27년차 4주 부여)
+
+4. *** 개발 장비 ***
+    - 개발자 기준 맥북 인텔, 맥북 M1, 델 중 1개 선택 + 모니터 
+    - 개발장비 구매 비용 최대 72만원 
+
+5. *** 기타 ***
+    - 사내 헬스장, 구내식당, 마사지샵 이용 가능 
+    - 일부 지역 셔틀 운행 
+
+
+### 코클(Cochl)
+코클(Cochl)은 음성인식을 넘어 우리 주변에 있는 다양한 소리들을 모두 알아들을 수 있는 사운드 AI기술을 만드는 회사입니다.
+사내 외국인 개발자도 많아서 글로벌한 환경에서 일할 수 있습니다 😎
+
+✅ 탄력적인 자율 출퇴근 제도 : 주 40시간을 기준으로 본인 스스로가 업무 시간을 설정해서 일합니다. (Core time: 13:00 - 15:00)
+✅ 별도 승인 없는 자율 휴가 : 필요에 따라 특별한 제한과 승인없이 자율적으로 휴가를 사용합니다. 
+✅ 원격근무 제도 : 본인이 더 효율적으로 업무할 수 있는 공간에서 근무하실 수 있습니다.
+✅ 고사양 컴퓨터와 자유로운 클라우드 사용 : 원활한 업무를 위한 컴퓨터 및 장비들과 환경을 제공합니다.
+✅ 간식/점심/저녁 제공 : 금강산도 식후경! 팬트리 내 간식이 구비되어 있으며, Payco를 이용한 점심/저녁 식대를 운영하고 있습니다.
+
+더 많은 복지, 채용이 궁금하다면,
+[careers@cochl.ai](careers@cochl.ai) 로 문의!
+
+[회사 홈페이지](https://www.cochl.ai/)  
+[회사 소개](https://cochl.oopy.io/)  
+[회사 미디엄 블로그](https://medium.com/cochl)
+
+
+
+### 자란다
+
+_**2022년 1월 11일 기준_
+
+1. **편리하게 일에만 집중할 수 있도록!**
+
+    - 2호선, 분당선인 선릉역과 9호선 삼성중앙역이 가까워요
+    - 출퇴근 시간은 내가 정한다! 9~11시 사이 유연출근제 
+    - 매주 수요일, 회의없이 집중할 수 있는 수요집중데이
+    - 주 2일 재택 근무로 업무관리는 스스로.
+
+2. **배는 든든해야 하니까요.
+
+    - 연 120만원 지원 식권대장 월10만원 (중식 기준), 석식 1일 1만원
+    - 카페인과 당 떨어질 걱정 없이! 편의점 부럽지 않게! 항상 가득가득! 커피와 간식 무제한 제공
+    - [간식에 언제나 진심인 자란다 총무 "에디"의 간식 일지를 보고 싶은 분이라면?](https://team.jaranda.kr/teams) 
+
+3. **개인의 삶은 중요하니까요. **
+
+    - 명절엔 상여 및 선물 제공, 생일에도 선물 제공! (백화점 상품권)
+    - 슬픔도 함께 나눠기위해 경조사 지원!
+    - 자란다 직원과 지인을 위한 자란다 이용권 제공 (연 120만원)
+    - 인생의 중요한 과정(출산, 육아, 학업)을 잘 넘길 수 있도록 배려하는 기간별 유연근무
+
+4. **성장을 응원하기 위해**
+
+    - 성장을 위한 투자는 아낌없이, 도서비, 외부교육 지원
+    - 맥북과 32인치 모니터 등 원하는 장비와 도구 세팅
+
+
+5. **효율적인 업무 집중을 위해**
+
+    - 자율과 책임이 함께하는 수평적 호칭과 자율 복장
+    - 출퇴근 시간은 상황에 맞게 9~11시 사이 
+    - 팀 안에서 조율해요. 주 2회 재택근무 가능!
+        ※ 출퇴근 시간과 재택 근무는 팀 상황과 업무목적에 따라 다르게 적용되니 입사 전에 팀 리드와 확인하세요!
+
+_**자란다가 궁금하다면?**_  
+[서로가 서로를 모른채 랜덤 챗팅으로 물어보세요!](https://open.kakao.com/o/s0UE3jCd)  
+
+### 쿼타랩
+
+쿼타랩은 새로운 사업을 시작하는 스타트업이 편하게 증권 관리를 할 수 있고 투자자가 편하게 포트폴리오 관리를 할 수 있는 비상장 증권 인프라를 구축하고 있어요.
+
+대한민국의 비상장 증권 인프라는 지난 40년 동안 전혀 개선된 적이 없어요. 심지어 주주총회나 스톡옵션 발행 계약과 같은 중요한 작업들도 아직 엑셀 파일이나 종이로 관리되고 있는 경우도 있어요.
+
+게다가 어려운 용어들과 법이 난무하는 금융이라는 맥락의 특성 때문에 처음 사업을 진행하는 분들의 경우에는 실수로 법을 지키지 못 하거나 계약서의 중요한 내용을 놓쳐 손해를 보는 일도 생길 수 있어요.
+
+그래서 쿼타랩은 비상장 금융 인프라의 전자적인 표준을 만들고 스타트업과 투자자의 정보를 연결해주는 혁신에 도전하고 있어요.
+
+1. **완전 자율 근무 환경을 제공해요**
+
+- 완전 자율 출퇴근
+- 무제한 원격 근무 가능
+- 별도 승인 없이 무제한 휴가 사용 가능
+
+2. **업무와 성장에 집중할 수 있는 환경을 만들어드려요**
+
+- 월 10만원 자기계발비 지원
+- 도서비 무제한 지원
+- 최고급 하드웨어(Macbook m1 pro) 및 업무시 필요한 소프트웨어 제공
+- 저녁 식사비 지원 (한도는 자율적으로 판단)
+- 전직원 개인 법인카드 지급
+
+3. **성장에 기여한만큼 보상도 따라와요**
+
+- 스톡옵션 리프레시 제도 운영 중
+- 사내 인재 추천 보너스 인당 300만원
+
+3. **회사 관련 링크**
+   - [쿼타북 홈페이지](https://www.quotabook.com/ko)
+   - [쿼타스페이스 홈페이지](https://www.quotaspace.com/)
+   - [채용 페이지](https://careers.quotabook.com/)
+   - [팀 인터뷰: 금융 인프라를 만든다는 것](https://www.quotabook.com/ko-blog/quotapeople-interview-andy-2)
+   - [팀 인터뷰: 프로덕트팀은 이렇게 일해요](https://www.quotabook.com/ko-blog/quotapeople-interview-product-team)
