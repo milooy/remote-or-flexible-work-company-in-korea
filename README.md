@@ -84,7 +84,7 @@
 | [드라마앤컴퍼니(리멤버)](#드라마앤컴퍼니리멤버)|8시30분~10시30분 선택적 출근시간제| COVID-19 유행 단계에 따라 재택근무/순환근무 중 | [회사소개 및 채용공고](http://dramancompany.com/joinus/)
 | [루닛](#루닛) | 완전 자율 출퇴근 / 무컨펌 무제한 휴가 | 완전 알아서 원격 근무(면대면 회의가 필요할때만 나와도 됩니다) | [홈페이지](https://www.lunit.io/ko/) / [채용공고](https://lunit.recruiter.co.kr/appsite/company/index) |
 | [트레바리](#트레바리) | 9&#126;11시 자율 출퇴근 후 8시간 근무 (디폴트는 10시&#126;19시) | 필요시 재택근무 가능  | [홈페이지](https://trevari.co.kr/) / [채용공고](https://www.notion.so/929fe3235c4b46bd877aada98834b39e) |
-| [코드스테이츠](#코드스테이츠) | 8~11시 자율 출퇴근 후 8시간 근무 | 주 1회  | [홈페이지](https://codestates.com/) / [채용공고](https://code-states.breezy.hr/) / [블로그](https://medium.com/code-states) |
+| [코드스테이츠](#코드스테이츠) | 8~11시 자율 출퇴근 후 8시간 근무 | 필요시 재택근무 가능  | [홈페이지](https://codestates.com/) / [채용공고](https://code-states.breezy.hr/) / [블로그](https://medium.com/code-states) |
 | [휴먼스케이프](#휴먼스케이프) | 자율 출퇴근 (11:00 ~ 17:00 코워킹 타임) | 팀원간의 협의 후 재택근무 가능 | [홈페이지](https://humanscape.io) / [Software Engineer 채용 공고](https://bit.ly/recruit_human_dev) |
 | [와디즈](#와디즈) | 자율 출퇴근 | 주 4회 | [홈페이지](https://www.wadiz.kr/) / [채용 공고](https://bit.ly/32JuQDP) / [블로그](https://medium.com/wadiz)
 | [뱅크샐러드(레이니스트)](#뱅크샐러드) | O | O | [회사소개](https://career.banksalad.com/about/) / [채용공고](https://career.banksalad.com/jobs/) |
