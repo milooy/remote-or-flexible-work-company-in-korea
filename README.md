@@ -22,7 +22,7 @@
 | [에이치비스미스(HBsmith)](#에이치비스미스hbsmith) | O | 출퇴근 없음 | [회사 소개](https://hbsmith.io) |
 | [브랜더진(Brandazine)](#브랜더진brandazine) | O | 컨펌 없는 완전한 자율 근무 |  |
 | [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
-| [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O | [회사 문화,복지,채용](https://chequer.workable.com/)  |
+| [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O | [회사 문화,복지,채용](https://querypie.com/recruit)  |
 | [로그프레소(Logpresso)](#로그프레소Logpresso) | 주 5일 / (자율 출퇴근) | O |[회사 소개](https://ko.logpresso.com/)  |
 | [빠띠](http://partiunion.org) | O | O | [빠띠 가브크래프트](https://govcraft.org/) / [빠띠 타운홀](https://townhall.kr/) / [빠띠xyz](https://parti.xyz/) |
 | 자비스앤빌런즈 | O | O |  |
