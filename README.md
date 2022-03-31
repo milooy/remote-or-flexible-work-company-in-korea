@@ -22,7 +22,7 @@
 | [에이치비스미스(HBsmith)](#에이치비스미스hbsmith) | O | 출퇴근 없음 | [회사 소개](https://hbsmith.io) |
 | [브랜더진(Brandazine)](#브랜더진brandazine) | O | 컨펌 없는 완전한 자율 근무 |  |
 | [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
-| [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O | [회사 문화,복지,채용](https://chequer.workable.com/)  |
+| [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O | [회사 문화,복지,채용](https://querypie.com/recruit)  |
 | [로그프레소(Logpresso)](#로그프레소Logpresso) | 주 5일 / (자율 출퇴근) | O |[회사 소개](https://ko.logpresso.com/)  |
 | [빠띠](http://partiunion.org) | O | O | [빠띠 가브크래프트](https://govcraft.org/) / [빠띠 타운홀](https://townhall.kr/) / [빠띠xyz](https://parti.xyz/) |
 | 자비스앤빌런즈 | O | O |  |
@@ -93,6 +93,7 @@
 | [그렙](#그렙) | 9:00~10:00 중 자율 출근 | O | [홈페이지](https://www.grepp.co/)/[채용공고](https://www.notion.so/prgrms/772559b20f9f451c94b568468eb53f47)/[블로그](https://prgms.tistory.com/) |
 | [원프레딕트](#원프레딕트) | 07:30 ~ 10:30 사이 자율 출퇴근 | 주1회 재택근무 가능 | [홈페이지](https://onepredict.ai/) / [채용 공고](https://blog.onepredict.ai/d665b60a-2196-4cb6-b4bf-d42f39eeeac4) |
 | [셀러노트](#셀러노트) | 08:00 ~ 10:00 사이 자율 출퇴근 | 필요시 재택근무 (개발팀 대부분 재택근무 중) | [홈페이지](https://www.ship-da.com/) / [채용 공고](http://wntd.co/06353222) |
+| [쿼타랩](#쿼타랩) | 완전 자율 출퇴근 | 무제한 재택근무 가능 | [홈페이지](https://www.quotabook.com/ko) / [채용 공고](https://careers.quotabook.com/) / [블로그](https://www.quotabook.com/ko/blog/home) |
 
 
 ## 기타 복지
@@ -255,7 +256,7 @@
 - 유급 휴가 연간 30일, 무급 휴가 연간 30일
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
-- 회사 문화/복지/채용: https://chequer.workable.com/
+- 회사 문화/복지/채용: https://querypie.com/recruit
 
 ### 해빗팩토리(Habitfactory)
 - 우리는 강하게 뭉친 작은 팀입니다.
@@ -1110,3 +1111,38 @@ _**우리 회사가 궁금하다면?**_
 [회사 기술블로그](https://tech.onepredict.ai/)  
 [회사 블로그](https://blog.onepredict.ai/)
 
+### 쿼타랩
+
+쿼타랩은 새로운 사업을 시작하는 스타트업이 편하게 증권 관리를 할 수 있고 투자자가 편하게 포트폴리오 관리를 할 수 있는 비상장 증권 인프라를 구축하고 있어요.
+
+대한민국의 비상장 증권 인프라는 지난 40년 동안 전혀 개선된 적이 없어요. 심지어 주주총회나 스톡옵션 발행 계약과 같은 중요한 작업들도 아직 엑셀 파일이나 종이로 관리되고 있는 경우도 있어요.
+
+게다가 어려운 용어들과 법이 난무하는 금융이라는 맥락의 특성 때문에 처음 사업을 진행하는 분들의 경우에는 실수로 법을 지키지 못 하거나 계약서의 중요한 내용을 놓쳐 손해를 보는 일도 생길 수 있어요.
+
+그래서 쿼타랩은 비상장 금융 인프라의 전자적인 표준을 만들고 스타트업과 투자자의 정보를 연결해주는 혁신에 도전하고 있어요.
+
+1. **완전 자율 근무 환경을 제공해요**
+
+- 완전 자율 출퇴근
+- 무제한 원격 근무 가능
+- 별도 승인 없이 무제한 휴가 사용 가능
+
+2. **업무와 성장에 집중할 수 있는 환경을 만들어드려요**
+
+- 월 10만원 자기계발비 지원
+- 도서비 무제한 지원
+- 최고급 하드웨어(Macbook m1 pro) 및 업무시 필요한 소프트웨어 제공
+- 저녁 식사비 지원 (한도는 자율적으로 판단)
+- 전직원 개인 법인카드 지급
+
+3. **성장에 기여한만큼 보상도 따라와요**
+
+- 스톡옵션 리프레시 제도 운영 중
+- 사내 인재 추천 보너스 인당 300만원
+
+3. **회사 관련 링크**
+   - [쿼타북 홈페이지](https://www.quotabook.com/ko)
+   - [쿼타스페이스 홈페이지](https://www.quotaspace.com/)
+   - [채용 페이지](https://careers.quotabook.com/)
+   - [팀 인터뷰: 금융 인프라를 만든다는 것](https://www.quotabook.com/ko-blog/quotapeople-interview-andy-2)
+   - [팀 인터뷰: 프로덕트팀은 이렇게 일해요](https://www.quotabook.com/ko-blog/quotapeople-interview-product-team)
