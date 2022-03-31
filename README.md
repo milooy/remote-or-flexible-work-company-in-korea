@@ -92,6 +92,7 @@
 | [셀렉트스타](#셀렉트스타) | 자율 출퇴근 (13:00 ~ 17:00 코어 타임) | COVID-19 유행 단계에 따라 재택근무 중 | [홈페이지](https://selectstar.ai/) / [채용공고](https://www.notion.so/2387860beacf47048f74e0863550697a) |
 | [그렙](#그렙) | 9:00~10:00 중 자율 출근 | O | [홈페이지](https://www.grepp.co/)/[채용공고](https://www.notion.so/prgrms/772559b20f9f451c94b568468eb53f47)/[블로그](https://prgms.tistory.com/) |
 | [원프레딕트](#원프레딕트) | 07:30 ~ 10:30 사이 자율 출퇴근 | 주1회 재택근무 가능 | [홈페이지](https://onepredict.ai/) / [채용 공고](https://blog.onepredict.ai/d665b60a-2196-4cb6-b4bf-d42f39eeeac4) |
+| [셀러노트](#셀러노트) | 08:00 ~ 10:00 사이 자율 출퇴근 | 필요시 재택근무 (개발팀 대부분 재택근무 중) | [홈페이지](https://www.ship-da.com/) / [채용 공고](http://wntd.co/06353222) |
 
 
 ## 기타 복지
