@@ -102,7 +102,8 @@
 | [셀러노트](#셀러노트) | 08:00 ~ 10:00 사이 자율 출퇴근 | 필요시 재택근무 (개발팀 대부분 재택근무 중) | [홈페이지](https://www.ship-da.com/) / [채용 공고](http://wntd.co/06353222) |
 | [쿼타랩](#쿼타랩) | 완전 자율 출퇴근 | 무제한 재택근무 가능 | [홈페이지](https://www.quotabook.com/ko) / [채용 공고](https://careers.quotabook.com/) / [블로그](https://www.quotabook.com/ko/blog/home) |
 | [온다(ONDA)](#온다onda) | 8~12시 자율 출퇴근 | 필요하면 재택 | [홈페이지](https://www.onda.me/) / [채용 공고](https://together.onda.me/) / [블로그](https://www.onda.me/blog) |
-
+| NAVER, NAVER FINANCIAL, NAVER Cloud, WORKS MOBILE,
+SNOW, NAVER LABS, NAVER WEBTOON, NAVER I&S | O | 주3회출근 OR 전면재택근무 중 근무타입 선택 가능 | [채용 공고](https://recruit.navercorp.com/main.do) |
 
 ## 기타 복지
 
