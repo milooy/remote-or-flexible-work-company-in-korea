@@ -9,6 +9,7 @@
 | 회사명 | 자율 출퇴근 | 원격 근무 | 관련 링크 |
 |:------:|:-----------:|:---------:|:---------:|
 | [Viva Republica(토스)](#Toss) | O | O | [토스 채용 페이지](https://toss.im/career) |
+| Pet Friends(펫프렌즈) | O | 격주 | [펫프렌즈 채용 페이지](https://www.wanted.co.kr/wd/79790) |
 | [DeepSearch](#deepsearch-구-uberple) | O | 완전한 원격 근무 | [회사 소개](https://www.uberple.com/) / [로켓펀치 채용 공고](https://www.rocketpunch.com/companies/uberple/jobs) |
 | [OP.GG](#opgg) | 무컨펌 자율출퇴근 | 장소/횟수 무제한 원격 근무 (팀 동료들의 컨펌이 필요, 조직장에게는 통보) | [회사 소개](http://www.op.gg/about/) / [채용 공고](http://log.op.gg/op-gg-recruit-wanted/) |
 | [StyleShare](#styleshare) | 진짜로 자율 출퇴근 | 진짜로 원격 근무 | [회사 소개](https://about.stylesha.re/) / [채용 공고](http://bit.ly/styleshare-careers) |
