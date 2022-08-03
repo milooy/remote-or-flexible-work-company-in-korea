@@ -57,7 +57,7 @@
 | [엔젤스윙](#엔젤스윙) | O | 월2회 | [채용 공고](http://bit.ly/2ujipxc) |
 | [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
 | [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
-| [DreamUsCompany](#DreamUsCompany) | O | X | [회사 소개](https://www.dreamuscompany.com/) |
+| [드림어스컴퍼니](#드림어스컴퍼니) | O | 주 2회 출근 원격 근무 | [회사 소개](https://www.dreamuscompany.com/) |
 | [센드버드코리아 (Sendbird)](#sendbird-센드버드) | O (8시~10시 유연 출근) | O (팀내 협의 후 재택 근무. 현재 대부분의 인원이 재택중) | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
 | [원티드랩](#원티드랩) | 8시~10시 유연 출근 (a.k.a 일출먼들) | 월 2회 | [회사소개 및 채용공고](https://www.wanted.co.kr/company/79) |
 | [Gracenote(A Nielsen Company)](#Gracenote) | O | O | [회사소개 및 채용공고](https://www.wanted.co.kr/company/7776) |
@@ -539,14 +539,19 @@
 - **재직자 모두가 재미있게 일하기 위한 방법을 끊임없이 고민합니다**
 - https://aply.biz
 
-### DreamUsCompany
-**FLO House에 국한된 설명입니다.**
-- 자율출퇴근
-- 영어호칭제 + 수평 조직 문화
-- SKT 통신비 지원
-- 연간 복지포인트 제공
-- 중식비 지원
-- 자유로운 연차 사용
+### 드림어스컴퍼니
+FLO House에 국한된 설명입니다.
+
+- Dream포인트 지원 (연간 100만원)
+- 통신비 지원 (SKT 한정 월 4만원)
+- 단체상해보험 지원 (직계 가족, 배우자)
+- 1+1 The Dream 휴가 (10일 + a)
+- 주택 임차 / 구입 자금 지원 
+- 경조사 지원 (위로금 및 휴가)
+- 야근식대 / 교통비 지원 
+- 장기근속자 포상 
+- 휴양콘도 할인 (제휴)
+- 명절 선물 지원 (설/추석 명절 10만원 포인트)
 
 ### Sendbird (센드버드)
 - 근무지 : 본사는 미국 샌프란시스코. 한국은 선릉역 분당선 8번 출구 지하로 연결된 건물.
