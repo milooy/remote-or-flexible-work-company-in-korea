@@ -57,7 +57,7 @@
 | [엔젤스윙](#엔젤스윙) | O | 월2회 | [채용 공고](http://bit.ly/2ujipxc) |
 | [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
 | [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
-| [드림어스컴퍼니](#드림어스컴퍼니) | O | 주 2회 출근 원격 근무 | [회사 소개](https://www.dreamuscompany.com/) |
+| [드림어스컴퍼니](#드림어스컴퍼니) | O | 주 1회 출근 원격 근무 | [회사 소개](https://www.dreamuscompany.com/) |
 | [센드버드코리아 (Sendbird)](#sendbird-센드버드) | O (8시~10시 유연 출근) | O (팀내 협의 후 재택 근무. 현재 대부분의 인원이 재택중) | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
 | [원티드랩](#원티드랩) | 8시~10시 유연 출근 (a.k.a 일출먼들) | 월 2회 | [회사소개 및 채용공고](https://www.wanted.co.kr/company/79) |
 | [Gracenote(A Nielsen Company)](#Gracenote) | O | O | [회사소개 및 채용공고](https://www.wanted.co.kr/company/7776) |
