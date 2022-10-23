@@ -57,7 +57,7 @@
 | [엔젤스윙](#엔젤스윙) | O | 월2회 | [채용 공고](http://bit.ly/2ujipxc) |
 | [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
 | [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
-| [DreamUsCompany](#DreamUsCompany) | O | X | [회사 소개](https://www.dreamuscompany.com/) |
+| [드림어스컴퍼니](#드림어스컴퍼니) | O | 주 1회 출근 원격 근무 | [회사 소개](https://www.dreamuscompany.com/) |
 | [센드버드코리아 (Sendbird)](#sendbird-센드버드) | O (8시~10시 유연 출근) | O (팀내 협의 후 재택 근무. 현재 대부분의 인원이 재택중) | [회사 소개](https://sendbird.com/) / [채용 공고](https://sendbird.com/careers) |
 | [원티드랩](#원티드랩) | 8시~10시 유연 출근 (a.k.a 일출먼들) | 월 2회 | [회사소개 및 채용공고](https://www.wanted.co.kr/company/79) |
 | [Gracenote(A Nielsen Company)](#Gracenote) | O | O | [회사소개 및 채용공고](https://www.wanted.co.kr/company/7776) |
@@ -103,6 +103,8 @@
 | [쿼타랩](#쿼타랩) | 완전 자율 출퇴근 | 무제한 재택근무 가능 | [홈페이지](https://www.quotabook.com/ko) / [채용 공고](https://careers.quotabook.com/) / [블로그](https://www.quotabook.com/ko/blog/home) |
 | [온다(ONDA)](#온다onda) | 8~12시 자율 출퇴근 | 필요하면 재택 | [홈페이지](https://www.onda.me/) / [채용 공고](https://together.onda.me/) / [블로그](https://www.onda.me/blog) |
 | [모요](#모요) | 자율 출퇴근, 무제한 휴가 | 자율 재택근무 | [회사 소개](https://moyo.oopy.io/) / [채용 공고](https://www.wanted.co.kr/company/29860)
+| [롯데쇼핑e커머스](#롯데쇼핑e커머스) | 8~11시 30분 단위 시차출퇴근 | O | [롯데온(LOTTEON) 서비스](https://www.lotteon.com/) |
+| [슈프리마에이아이 (Suprema AI)](#슈프리마에이아이) | 08:00 ~ 10:00 / 자율 출퇴근, 4.5 일제 (주 36시간) | 필요시 재택근무 신청 가능 | [홈페이지](https://www.suprema.ai/) / [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd) |
 
 ## 기타 복지
 
@@ -539,14 +541,19 @@
 - **재직자 모두가 재미있게 일하기 위한 방법을 끊임없이 고민합니다**
 - https://aply.biz
 
-### DreamUsCompany
-**FLO House에 국한된 설명입니다.**
-- 자율출퇴근
-- 영어호칭제 + 수평 조직 문화
-- SKT 통신비 지원
-- 연간 복지포인트 제공
-- 중식비 지원
-- 자유로운 연차 사용
+### 드림어스컴퍼니
+FLO House에 국한된 설명입니다.
+
+- Dream포인트 지원 (연간 100만원)
+- 통신비 지원 (SKT 한정 월 4만원)
+- 단체상해보험 지원 (직계 가족, 배우자)
+- 1+1 The Dream 휴가 (10일 + a)
+- 주택 임차 / 구입 자금 지원 
+- 경조사 지원 (위로금 및 휴가)
+- 야근식대 / 교통비 지원 
+- 장기근속자 포상 
+- 휴양콘도 할인 (제휴)
+- 명절 선물 지원 (설/추석 명절 10만원 포인트)
 
 ### Sendbird (센드버드)
 - 근무지 : 본사는 미국 샌프란시스코. 한국은 선릉역 분당선 8번 출구 지하로 연결된 건물.
@@ -1439,3 +1446,34 @@ _**자란다가 궁금하다면?**_
 - **회사 관련 링크**
     - [회사 소개](https://moyo.oopy.io/)
     - [모요 홈페이지](https://www.moyoplan.com/)
+
+
+### 슈프리마에이아이
+- **👉 우리회사의 MISSION**
+  - **Bringing AI to Edge** AI 기술을 다양한 Edge 디바이스에 적용하여 편리하고 안전한 세상을 만들고자 합니다.
+- **😃 우리회사의 조직문화**
+  - MEMBER 들 간의 의견을 서로 존중합니다.
+  - TEAM WROK를 중요하게 생각합니다.
+  - 자율적인 업무 분위기이며, 많은 부분에 있어 스스로 업무를 계획하고 진행합니다.
+- **👍🏻 우리회사의 복지혜택 TOP4**
+  1. **자율출근!**  오전 8시 ~ 10시 사이 나의 라이프 스타일에 맞게 자율적으로 출근합니다.
+  2. **주 4.5일제 실시!** 매주 금요일은 4시간만 근무하고 퇴근! 😁
+  3. **주택무이자 대출 최대 5억원 지원! (주택매매시)**
+  4. **주거 지원!** 이주 정착금 100만원 지원 (오피스 근교 이주 시 즉시지급) 및 월 30만원 월세 경감 지원 (최대 2년), 또는 오피스텔 1인실 제공 (선정기준에 따라 선정된 사람에 한함, 최대 2년)
+- **❤ 그밖의 복지 혜택**
+    - 성장을 위한 도서 구매 무제한 지원!
+    - 개발에 필요한 소프트웨어 및 장비 적극 지원!
+    - 국/내외 AI 컨퍼런스 및 학회 참가 지원!
+    - 건강검진 지원!
+    - 연간 180만원 자기계발비 지원! (외모관리, 건강관리 포함, 자기부담금 30% 제외하고 연간 180만원 지원)
+    - 자녀 대학 학자금! (최대 2자녀까지, 8학기 지원. 학기당 400만원)
+    - 동호회 지원
+    - 야근 식대 지원
+    - 각종 경조사 지원금 지급!
+    - 사내 어학 아케데미 운영
+    - 休프리마 심리상담 지원
+    - 리조트 지원 (대명,리솜, 제주 사이프러스)
+    - 재직자 내일채움공제 지원
+
+- **🌈 슈프리마에이아이와 함께해요!!!**
+  - [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd)
