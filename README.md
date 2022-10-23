@@ -41,7 +41,7 @@
 | [마이리얼트립](#마이리얼트립) | 07:30 ~ 10:30 사이 자율 출퇴근, 재택근무 가능 | O | [회사 소개](https://about.myrealtrip.com/) / [로켓펀치 채용공고](https://www.rocketpunch.com/companies/myrealtrip/jobs)
 | [에스티유니타스](#에스티유니타스st-unitas) | 주 5일 / 주당 40시간 탄력 근무 (11am to 3pm) | X | [채용 링크](https://www.wanted.co.kr/company/717) |
 | SKT | 2주80시간 기준 완전 자율 | 팀장 재량에 따라 무제한 | [채용공고](https://tas-sktelecom.taleo.net/careersection/ex/moresearch.ftl) |
-| [얼리브(alliv)](#얼리브alliv) | O | X | [얼리브 서비스](https://www.alliv.co.kr/) |
+| [레몬베이스(lemonbase)](#레몬베이스lemonbase) | O | O | [서비스](https://lemonbase.com/) / [팀소개](https://lemonbase.team) |
 | [아이엠지베이스(ImgBase)](#아이엠지베이스imgbase) | O | O | [회사 소개](https://www.imgbase.me/) / [채용 공고](https://www.imgbase.me/ko/careers) |
 | [슬로워크](https://slowalk.co.kr/) | O | O | [채용 공고](https://slowalk.co.kr/archives/category/news/recruit) / [블로그 글](http://slowalk.tistory.com/2547) |
 | [티켓몬스터](#티켓몬스터) |  | 월 2회 | [회사 소개](http://corp.ticketmonster.co.kr/) / [채용 공고](https://recruit.tmon.co.kr//recruit/list/000#page=1) |
@@ -345,16 +345,17 @@
 - 복지 포인트 연 400만원, 휴대폰 요금 월 20만원 지원 (단말기 할부, 요금, 컨텐츠 포함)
 - 5/10/15/20년 리프레시 휴가 지원
 
-### 얼리브(alliv)
+### 레몬베이스(lemonbase)
 1. **유연 근무제**
-    - 08:30 ~ 10:30 사이 자유로운 출근
-    - 17:30 ~ 19:30 사이 출근에 상응하는 시간에 퇴근
+    - 08:00 ~ 11:00 사이 자유로운 출근
+    - 출근 후 9시간 이후에, 자유롭게 퇴근합니다. (점심시간 포함; 예: 8:30-17:30 혹은 11:00-20:00)
 2. **기타**
     - 월 20만원 한도내에서 개인 운동비의 80% 지원
-    - 회사에서 운영하는 서울숲 얼리브라운지 무료 이용
+    - 청년 내일채움공제를 운영
     - 업무 유관 세미나, 교육, 도서 구입 지원
 3. **회사 관련 링크**
-    - [얼리브(alliv) 서비스](https://www.alliv.co.kr/)
+    - [레몬베이스 서비스](https://lemonbase.com)
+    - [팀소개](https://lemonbase.team)
 
 ### 아이엠지베이스(ImgBase)
 - 사진과 비디오로 자신만의 콘텐츠를 쉽게 만들 수 있는 앱을 개발 합니다.
