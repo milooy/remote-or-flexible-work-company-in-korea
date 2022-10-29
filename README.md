@@ -108,6 +108,7 @@
 | [모요](#모요) | 자율 출퇴근, 무제한 휴가 | 자율 재택근무 | [회사 소개](https://moyo.oopy.io/) / [채용 공고](https://www.wanted.co.kr/company/29860)
 | [롯데쇼핑e커머스](#롯데쇼핑e커머스) | 8~11시 30분 단위 시차출퇴근 | O | [롯데온(LOTTEON) 서비스](https://www.lotteon.com/) |
 | [슈프리마에이아이 (Suprema AI)](#슈프리마에이아이) | 08:00 ~ 10:00 / 자율 출퇴근, 4.5 일제 (주 36시간) | 필요시 재택근무 신청 가능 | [홈페이지](https://www.suprema.ai/) / [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd) |
+| [정육각](#정육각) | 08:00 ~ 10:00 자율 출퇴근 | X | [채용공고](https://www.wanted.co.kr/search?query=정육각) / [개발팀 소개](https://www.notion.so/jeongyookgak/A-to-Z-313ffe53dd2f4ea0b426958283f744aa) |
 
 ## 기타 복지
 
@@ -1506,3 +1507,11 @@ _**자란다가 궁금하다면?**_
 
 - **🌈 슈프리마에이아이와 함께해요!!!**
   - [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd)
+
+### 정육각
+- 정육각, 초록마을 전 제품 직원 할인 (30% 적용)
+- 출근길 셔틀 버스 운영
+- 도서 무제한 지원 (독서클럽 운영)
+- 수평적 호칭, 자유로운 연차 사용
+- 업무에 필요한 장비 지원
+- 각종 경조사 지원금 및 생일축하 상품권 지급
