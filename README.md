@@ -71,7 +71,7 @@
 | [텀블벅](#텀블벅) | 9~10시 자율 출퇴근 | 주 1회 | [회사소개](https://bit.ly/2ZkOXXW) / [채용공고](https://www.rocketpunch.com/companies/tumblbug/jobs) |
 | [라인웍스](#라인웍스) | 11:00~17:00 코어타임 외 주40시간 자율근무 | 필요시 원격근무 (COVID-19 로 전체 원격근무 중) | [홈페이지](https://linewalks.com) / [채용공고](https://linewalks.com/recruit) |
 | 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
-| [쏘카(SOCAR)](#쏘카) | 0830, 0900, 0930, 1000부터 9시간 후  | 재택근무 일부 가능 (부바부 팀바팀) | [회사 페이지](https://www.socar.kr/) / [채용공고](https://www.notion.so/socarcorp/d458b6b77a2243fb873d1ac800c321f7)|
+| [쏘카(SOCAR)](#쏘카) | 0830, 0900, 0930, 1000부터 9시간 후 퇴근 | 재택근무 일부 가능 (부바부 팀바팀) | [회사 페이지](https://www.socar.kr/) / [채용공고](https://socarcorp.notion.site/d458b6b77a2243fb873d1ac800c321f7)|
 | [Miso](#Miso) | x | 주 5회 재택근무 | [회사소개](https://www.rocketpunch.com/companies/miso) / [채용공고](https://www.rocketpunch.com/jobs/84304) |
 | [탭조이코리아](#탭조이코리아) | 8~10시 유연 출근 | 원격 근무 가능 | [홈페이지](https://www.tapjoy.com/ko/) / [채용공고](https://www.wanted.co.kr/company/1355) |
 | [Nota](#Nota) | 완전 자율 출퇴근<br>(유연근무제X<br>정해진 근무시간 없음)  | 완전 자율 원격근무 | [회사 페이지](https://nota.ai/) / [채용공고](https://nota.ai/recruiting.html) |
