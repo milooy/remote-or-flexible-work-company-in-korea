@@ -71,7 +71,7 @@
 | [텀블벅](#텀블벅) | 9~10시 자율 출퇴근 | 주 1회 | [회사소개](https://bit.ly/2ZkOXXW) / [채용공고](https://www.rocketpunch.com/companies/tumblbug/jobs) |
 | [라인웍스](#라인웍스) | 11:00~17:00 코어타임 외 주40시간 자율근무 | 필요시 원격근무 (COVID-19 로 전체 원격근무 중) | [홈페이지](https://linewalks.com) / [채용공고](https://linewalks.com/recruit) |
 | 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
-| [쏘카(SOCAR)](#쏘카SOCAR) | 시차출퇴근 | 재택근무 가능 | [회사 페이지](https://www.socar.kr/) / [채용공고](https://www.notion.so/socarcorp/d458b6b77a2243fb873d1ac800c321f7)|
+| [쏘카(SOCAR)](#쏘카) | 0800, 0830, 0900, 0930, 1000부터 9시간 후 퇴근 | 재택근무 폐지 | [회사 페이지](https://www.socar.kr/) |
 | [Miso](#Miso) | x | 주 5회 재택근무 | [회사소개](https://www.rocketpunch.com/companies/miso) / [채용공고](https://www.rocketpunch.com/jobs/84304) |
 | [탭조이코리아](#탭조이코리아) | 8~10시 유연 출근 | 원격 근무 가능 | [홈페이지](https://www.tapjoy.com/ko/) / [채용공고](https://www.wanted.co.kr/company/1355) |
 | [Nota](#Nota) | 완전 자율 출퇴근<br>(유연근무제X<br>정해진 근무시간 없음)  | 완전 자율 원격근무 | [회사 페이지](https://nota.ai/) / [채용공고](https://nota.ai/recruiting.html) |
@@ -102,13 +102,20 @@
 | [셀러노트](#셀러노트) | 08:00 ~ 10:00 사이 자율 출퇴근 | 필요시 재택근무 (개발팀 대부분 재택근무 중) | [홈페이지](https://www.ship-da.com/) / [채용 공고](http://wntd.co/06353222) |
 | [쿼타랩](#쿼타랩) | 완전 자율 출퇴근 | 무제한 재택근무 가능 | [홈페이지](https://www.quotabook.com/ko) / [채용 공고](https://careers.quotabook.com/) / [블로그](https://www.quotabook.com/ko/blog/home) |
 | [온다(ONDA)](#온다onda) | 8~12시 자율 출퇴근 | 필요하면 재택 | [홈페이지](https://www.onda.me/) / [채용 공고](https://together.onda.me/) / [블로그](https://www.onda.me/blog) |
-| NAVER, NAVER FINANCIAL, NAVER Cloud, WORKS MOBILE, SNOW, NAVER LABS, NAVER WEBTOON, NAVER I&S | O | 주3회출근 OR 전면재택근무 중 근무타입 선택 가능 | [채용 공고](https://recruit.navercorp.com/main.do) |
+| NAVER, NAVER FINANCIAL, NAVER Cloud, WORKS MOBILE, NAVER LABS, NAVER WEBTOON, NAVER I&S | O | 주3회출근 OR 전면재택근무 중 근무타입 선택 가능 | [채용 공고](https://recruit.navercorp.com/main.do) |
+| SNOW, NAVER Z | O | 주2회출근 OR 전면재택근무 중 근무타입 선택 가능 | [스노우 채용 공고](https://recruit.snowcorp.com) / [네이버 Z 채용 공고](https://recruit.naverz-corp.com) |
 | Presto Labs | O (완전 자율 출퇴근) | O (전세계 어디서나 완전 원격 근무) | [채용 공고 (iOS)](https://presto-career.notion.site/iOS-Software-Engineer-25011b7a929e444da9fbd6aca88dfb05) |
 | Pet Friends(펫프렌즈) | O | 격주 | [펫프렌즈 채용 페이지](https://www.wanted.co.kr/wd/79790) |
 | [모요](#모요) | 자율 출퇴근, 무제한 휴가 | 자율 재택근무 | [회사 소개](https://moyo.oopy.io/) / [채용 공고](https://www.wanted.co.kr/company/29860)
 | [롯데쇼핑e커머스](#롯데쇼핑e커머스) | 8~11시 30분 단위 시차출퇴근 | O | [롯데온(LOTTEON) 서비스](https://www.lotteon.com/) |
 | [슈프리마에이아이 (Suprema AI)](#슈프리마에이아이) | 08:00 ~ 10:00 / 자율 출퇴근, 4.5 일제 (주 36시간) | 필요시 재택근무 신청 가능 | [홈페이지](https://www.suprema.ai/) / [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd) |
 | [아인시스에이아이랩](#아인시스에이아이랩) | O | O | [홈페이지](https://einsis.com/ko) / [채용 공고](https://www.notion.so/aicers/f642c6cd0e7a4e14a20990398bd7bc52) |
+| [정육각](#정육각) | 08:00 ~ 10:00 자율 출퇴근 | X | [채용공고](https://www.wanted.co.kr/search?query=정육각) / [개발팀 소개](https://www.notion.so/jeongyookgak/A-to-Z-313ffe53dd2f4ea0b426958283f744aa) |
+| 여기어때컴퍼니 | O | O | [홈페이지](https://gccompany.co.kr/) / [채용공고](https://gccompany.career.greetinghr.com) / [기술블로그](https://techblog.gccompany.co.kr) |
+| [미리디(MIRIDIH)](#미리디) | 08:00 ~ 11:00 사이 자율 출근 | 주 3회 출근 OR 주 1회 출근 근무타입 선택 가능 | [회사 소개](https://www.miridih.com/) / [채용 공고](https://miridih.career.greetinghr.com/) |
+| [마이뮤직테이스트 (MyMusicTaste)](#마이뮤직테이스트MyMusicTaste) | O | O | [홈페이지](https://www.mymusictaste.com/) / [채용 공고](https://team.mymusictaste.com/culture) / [기술블로그](https://mymusictaste.github.io/) |
+| Presto Labs | O (완전 자율 출퇴근) | O (전세계 어디서나 완전 원격 근무) | [채용 공고 (iOS)](https://presto-career.notion.site/iOS-Software-Engineer-25011b7a929e444da9fbd6aca88dfb05) |
+| 0x&(제로엑스엔드) | O (완전 자율 출퇴근 / 무제한 휴가) | O (전세계 어디서나 완전 원격 근무) | [홈페이지](https://0xand.com) / [채용공고](https://www.wanted.co.kr/company/35709) |
 
 ## 기타 복지
 
@@ -731,8 +738,7 @@ FLO House에 국한된 설명입니다.
 - 휴가 외 월 1회 Refresh Day
 - 도서구입 / 교육비 / 컨퍼런스 참가비 지원
 
-### 쏘카(SOCAR)
-- 재택근무 유연하게 사용 가능
+### 쏘카
 - 최신형 맥북 + Dell 모니터 지급
 - 쏘카 / 타다 상시 할인, 지인용 쿠폰 정기 지급
 - 자유로운 사내 소모임 지원
@@ -740,7 +746,7 @@ FLO House에 국한된 설명입니다.
 - 3년 근무 시 1개월 유급휴가 및 휴가비 제공
 - 의료비 지원
 - 명절 선물비 지급 / 경조사비 지급 및 경조휴가
-- 건강한 간식 제공
+- 간식 제공
 - 사내 도서관 이용 및 자기계발을 위한 도서 지원
 - 부서 회식 / 워크샵 지원
 - 전월세 자금 저리 대출 (1년 이상 근속시)
@@ -1508,7 +1514,6 @@ _**자란다가 궁금하다면?**_
 - **🌈 슈프리마에이아이와 함께해요!!!**
   - [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd)
   
-  
 ### 아인시스에이아이랩
 - 자유로운 근무시간 및 근무지
 - 결재 없이 자유로운 연차 사용(반반차, 반차, 1일)
@@ -1522,3 +1527,65 @@ _**자란다가 궁금하다면?**_
 - 경조사 지원
 - 기념일, 명절 선물 지급
 
+
+### 정육각
+- 정육각, 초록마을 전 제품 직원 할인 (30% 적용)
+- 출근길 셔틀 버스 운영
+- 도서 무제한 지원 (독서클럽 운영)
+- 수평적 호칭, 자유로운 연차 사용
+- 업무에 필요한 장비 지원
+- 각종 경조사 지원금 및 생일축하 상품권 지급
+
+### 미리디
+
+- **[ 자율과 책임의 근무환경을 제공합니다 ]**
+  - 자율적 출퇴근 제도 - 유연근무(1~3시간), 재택근무(주 1~2회)
+  - 자유로운 휴가 사용
+  - 경조사 휴가지원
+  - 3년 근속시 리프레시 휴가 제공
+
+- **[ 배움과 성장, 행복을 지원합니다 ]**
+  - 업무 관련 비용 100% 지원
+  - 업무 도서, 온라인 강의 등 스터디 비용 무제한 지원
+  - 직원의 행복을 위한 행복개발비 지원
+  - 외부 교육, 기술 세미나 등을 적극 활용하여 성장을 돕습니다.
+ 
+- **[ 열일하는 미리인 굶길 수 없다! 삼시세끼 지원 ]**
+  - 아침, 점심, 저녁 식사비 지원
+  - 제휴 카페 포인트 지원
+
+- **[ 미리인의 회사 적응과 단합을 지원합니다 ]**
+  - 신입사원 OJT, 적응프로그램 지원
+  - 미리인 동호회 지원
+  - 분기별 문화이벤트 회식 지원
+  - 직급 없이 수평적인 문화 지향
+  - 명절 상품권 지급 (설, 추석)
+
+### 마이뮤직테이스트(MyMusicTaste)
+- **우리는 하나의 팀으로서, 이러한 업무 문화를 만들어가고 있습니다.**
+  1. 자율적이고 주도적인 문화를 위한 지원을 아끼지 않습니다.
+  2. 개인의 능력을 최대한 발휘할 수 있도록 최적의 근무 환경을 제공하고 있습니다.
+  3. 업무에 있어서 많은 권한과 책임을 동시에 부여합니다.
+  4. 이와 동시에 직원은 각자가 회사를 대표한다는 책임감을 갖습니다.
+
+
+- **회사와 팀이 진행하는 프로젝트 일정에 맞춰 자유롭게 업무를 진행할 수 있습니다.**
+  - 자율 출퇴근
+    - 각 팀의 성향에 따라 근무 방법과 코어타임 등을 진행하여 업무시간을 갖습니다.
+  - 재택 근무
+    - 업무 리더의 승인하에 재택근무를 지원하고 있습니다. (업무에 차질이 없다면 가능해요.)
+  - 무제한 휴가
+    - 이유가 있다면, 휴가를 쓰면 됩니다. 언제든지 떠나세요!
+  - 도서 지원
+    - 업무를 위해서라면 지원을 아끼지 않아요.
+  - 장비 지원
+    - 최고의 업무 환경을 위합니다.
+  - 자율 복장
+    - 멤버들의 개성을 존중합니다.
+
+
+- **회사 관련 링크**
+  - [홈페이지](https://www.mymusictaste.com/)
+  - [팀사이트](https://team.mymusictaste.com/)
+  - [채용 공고](https://team.mymusictaste.com/culture)
+  - [기술 블로그](https://mymusictaste.github.io/)
