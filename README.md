@@ -109,6 +109,7 @@
 | [모요](#모요) | 자율 출퇴근, 무제한 휴가 | 자율 재택근무 | [회사 소개](https://moyo.oopy.io/) / [채용 공고](https://www.wanted.co.kr/company/29860)
 | [롯데쇼핑e커머스](#롯데쇼핑e커머스) | 8~11시 30분 단위 시차출퇴근 | O | [롯데온(LOTTEON) 서비스](https://www.lotteon.com/) |
 | [슈프리마에이아이 (Suprema AI)](#슈프리마에이아이) | 08:00 ~ 10:00 / 자율 출퇴근, 4.5 일제 (주 36시간) | 필요시 재택근무 신청 가능 | [홈페이지](https://www.suprema.ai/) / [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd) |
+| [정육각](#정육각) | 08:00 ~ 10:00 자율 출퇴근 | X | [채용공고](https://www.wanted.co.kr/search?query=정육각) / [개발팀 소개](https://www.notion.so/jeongyookgak/A-to-Z-313ffe53dd2f4ea0b426958283f744aa) |
 | 여기어때컴퍼니 | O | O | [홈페이지](https://gccompany.co.kr/) / [채용공고](https://gccompany.career.greetinghr.com) / [기술블로그](https://techblog.gccompany.co.kr) |
 | [미리디(MIRIDIH)](#미리디) | 08:00 ~ 11:00 사이 자율 출근 | 주 3회 출근 OR 주 1회 출근 근무타입 선택 가능 | [회사 소개](https://www.miridih.com/) / [채용 공고](https://miridih.career.greetinghr.com/) |
 | [마이뮤직테이스트 (MyMusicTaste)](#마이뮤직테이스트MyMusicTaste) | O | O | [홈페이지](https://www.mymusictaste.com/) / [채용 공고](https://team.mymusictaste.com/culture) / [기술블로그](https://mymusictaste.github.io/) |
@@ -1512,6 +1513,13 @@ _**자란다가 궁금하다면?**_
 - **🌈 슈프리마에이아이와 함께해요!!!**
   - [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd)
 
+### 정육각
+- 정육각, 초록마을 전 제품 직원 할인 (30% 적용)
+- 출근길 셔틀 버스 운영
+- 도서 무제한 지원 (독서클럽 운영)
+- 수평적 호칭, 자유로운 연차 사용
+- 업무에 필요한 장비 지원
+- 각종 경조사 지원금 및 생일축하 상품권 지급
 
 ### 미리디
 
