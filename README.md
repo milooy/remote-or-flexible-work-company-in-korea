@@ -108,6 +108,7 @@
 | [모요](#모요) | 자율 출퇴근, 무제한 휴가 | 자율 재택근무 | [회사 소개](https://moyo.oopy.io/) / [채용 공고](https://www.wanted.co.kr/company/29860)
 | [롯데쇼핑e커머스](#롯데쇼핑e커머스) | 8~11시 30분 단위 시차출퇴근 | O | [롯데온(LOTTEON) 서비스](https://www.lotteon.com/) |
 | [슈프리마에이아이 (Suprema AI)](#슈프리마에이아이) | 08:00 ~ 10:00 / 자율 출퇴근, 4.5 일제 (주 36시간) | 필요시 재택근무 신청 가능 | [홈페이지](https://www.suprema.ai/) / [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd) |
+| [미리디(MIRIDIH)](#미리디) | 08:00 ~ 11:00 사이 자율 출근 | 주 3회 출근 OR 주 1회 출근 근무타입 선택 가능 | [회사 소개](https://www.miridih.com/) / [채용 공고](https://miridih.career.greetinghr.com/) |
 | [마이뮤직테이스트 (MyMusicTaste)](#마이뮤직테이스트MyMusicTaste) | O | O | [홈페이지](https://www.mymusictaste.com/) / [채용 공고](https://team.mymusictaste.com/culture) / [기술블로그](https://mymusictaste.github.io/) |
 | Presto Labs | O (완전 자율 출퇴근) | O (전세계 어디서나 완전 원격 근무) | [채용 공고 (iOS)](https://presto-career.notion.site/iOS-Software-Engineer-25011b7a929e444da9fbd6aca88dfb05) |
 | 0x&(제로엑스엔드) | O (완전 자율 출퇴근 / 무제한 휴가) | O (전세계 어디서나 완전 원격 근무) | [홈페이지](https://0xand.com) / [채용공고](https://www.wanted.co.kr/company/35709) |
@@ -1509,6 +1510,31 @@ _**자란다가 궁금하다면?**_
 - **🌈 슈프리마에이아이와 함께해요!!!**
   - [채용 공고](https://suprema-ai-recruit.notion.site/061e33488f5044a8b6366778580b4bbd)
 
+
+### 미리디
+
+- **[ 자율과 책임의 근무환경을 제공합니다 ]**
+  - 자율적 출퇴근 제도 - 유연근무(1~3시간), 재택근무(주 1~2회)
+  - 자유로운 휴가 사용
+  - 경조사 휴가지원
+  - 3년 근속시 리프레시 휴가 제공
+
+- **[ 배움과 성장, 행복을 지원합니다 ]**
+  - 업무 관련 비용 100% 지원
+  - 업무 도서, 온라인 강의 등 스터디 비용 무제한 지원
+  - 직원의 행복을 위한 행복개발비 지원
+  - 외부 교육, 기술 세미나 등을 적극 활용하여 성장을 돕습니다.
+ 
+- **[ 열일하는 미리인 굶길 수 없다! 삼시세끼 지원 ]**
+  - 아침, 점심, 저녁 식사비 지원
+  - 제휴 카페 포인트 지원
+
+- **[ 미리인의 회사 적응과 단합을 지원합니다 ]**
+  - 신입사원 OJT, 적응프로그램 지원
+  - 미리인 동호회 지원
+  - 분기별 문화이벤트 회식 지원
+  - 직급 없이 수평적인 문화 지향
+  - 명절 상품권 지급 (설, 추석)
 
 ### 마이뮤직테이스트(MyMusicTaste)
 - **우리는 하나의 팀으로서, 이러한 업무 문화를 만들어가고 있습니다.**
