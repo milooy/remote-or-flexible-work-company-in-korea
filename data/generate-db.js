@@ -13,6 +13,7 @@ files.forEach((fileName) => {
   const filePath = path.join(companiesDir, fileName);
   const fileContents = fs.readFileSync(filePath, "utf8");
   const { data, content } = matter(fileContents);
-  list.push({ id: fileName, ...data, content });
+  const id = fileName.replace(".md", "");
+  list.push({ id, ...data, content });
 });
 fs.writeFileSync(listPath, JSON.stringify({ companies: list }));
