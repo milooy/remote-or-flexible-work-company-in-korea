@@ -1,3 +1,4 @@
+// TODO: id는 script돌리면 자동 생성되도록
 const jsObject = {
   companies: [
     {
