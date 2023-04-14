@@ -116,6 +116,7 @@
 | [마이뮤직테이스트 (MyMusicTaste)](#마이뮤직테이스트MyMusicTaste) | O | O | [홈페이지](https://www.mymusictaste.com/) / [채용 공고](https://team.mymusictaste.com/culture) / [기술블로그](https://mymusictaste.github.io/) |
 | Presto Labs | O (완전 자율 출퇴근) | O (전세계 어디서나 완전 원격 근무) | [채용 공고 (iOS)](https://presto-career.notion.site/iOS-Software-Engineer-25011b7a929e444da9fbd6aca88dfb05) |
 | 0x&(제로엑스엔드) | O (완전 자율 출퇴근 / 무제한 휴가) | O (전세계 어디서나 완전 원격 근무) | [홈페이지](https://0xand.com) / [채용공고](https://www.wanted.co.kr/company/35709) |
+| [SqueezeBits](#SqueezeBits) | 11:00 ~ 16:00 코어타임 외 자율 | O | [홈페이지](https://squeezebits.com/)
 
 ## 기타 복지
 
@@ -1589,3 +1590,27 @@ _**자란다가 궁금하다면?**_
   - [팀사이트](https://team.mymusictaste.com/)
   - [채용 공고](https://team.mymusictaste.com/culture)
   - [기술 블로그](https://mymusictaste.github.io/)
+
+### SqueezeBits
+- 스퀴즈비츠는 AI를 더 작고 가벼우면서도 빠르게 만드는 스타트업 입니다.
+- **최고의 환경과 최고의 복지를 제공하기 위해 노력합니다, 우리 팀원들은 그럴 자격이 있으니까요.**
+  - 자율 출퇴근
+    - 팀원과의 원활한 협업을 위해 코어 타임 (11:00 ~ 16:00)을 운영합니다.
+    - 그 외의 시간은 일 최소 6시간 & 주 40시간 근무를 지키는 선에서 자유롭게 조정이 가능합니다.
+    - 단, 금요일의 코어 타임은 11:00 ~ 15:00입니다. 금요일이니까요 :)
+  - 재택 근무
+    - Slack을 통해 알려만 주시면 별도의 승인 절차 없이 재택 근무가 가능합니다.
+  - 연차 / 휴가
+    - 반반차 단위로 자유롭게 사용이 가능합니다.
+    - 생일 / 기념일에는 소정의 선물과 반차를 드립니다.
+  - 장기근속 포상 휴가
+    - 3년 근속 시 휴가 지원비와 함께 4주간의 유급 휴가를 드립니다.
+  - 출퇴근 지원
+    - 주차비, 대중교통비, 야근교통비를 지원해드립니다.
+  - 식대
+    - 점심 및 야근 식대를 제공합니다.
+    - 조식 및 간식을 제공합니다.
+  - 자기 계발 지원금
+    - 연간 최대 120만원까지 제공합니다.
+  - 정부 지원금
+    - 일자리 / 고용 관련 정부 지원금 제도를 적극 운영중에 있습니다.
