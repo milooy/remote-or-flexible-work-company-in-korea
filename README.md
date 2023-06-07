@@ -116,6 +116,7 @@
 | [마이뮤직테이스트 (MyMusicTaste)](#마이뮤직테이스트MyMusicTaste) | O | O | [홈페이지](https://www.mymusictaste.com/) / [채용 공고](https://team.mymusictaste.com/culture) / [기술블로그](https://mymusictaste.github.io/) |
 | Presto Labs | O (완전 자율 출퇴근) | O (전세계 어디서나 완전 원격 근무) | [채용 공고 (iOS)](https://presto-career.notion.site/iOS-Software-Engineer-25011b7a929e444da9fbd6aca88dfb05) |
 | 0x&(제로엑스엔드) | O (완전 자율 출퇴근 / 무제한 휴가) | O (전세계 어디서나 완전 원격 근무) | [홈페이지](https://0xand.com) / [채용공고](https://www.wanted.co.kr/company/35709) |
+| 알로카도스 | O (13:00-18:00 코어타임) | 주 1회 자유롭게 사용 | [홈페이지 및 채용공고](https://alocados.notion.site/)
 
 ## 기타 복지
 
