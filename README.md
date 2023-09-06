@@ -73,7 +73,7 @@
 | 코그넥스 딥러닝 랩 | 완전 자율 줄퇴근  | 원격 근무 가능 | [회사 페이지](http://sualab.com/) / [블로그](http://research.sualab.com/) |
 | [쏘카(SOCAR)](#쏘카) | 0800, 0830, 0900, 0930, 1000부터 9시간 후 퇴근 | 재택근무 폐지 | [회사 페이지](https://www.socar.kr/) |
 | [Miso](#Miso) | x | 주 5회 재택근무 | [회사소개](https://www.rocketpunch.com/companies/miso) / [채용공고](https://www.rocketpunch.com/jobs/84304) |
-| [탭조이코리아](#탭조이코리아) | 8~10시 유연 출근 | 원격 근무 가능 | [홈페이지](https://www.tapjoy.com/ko/) / [채용공고](https://www.wanted.co.kr/company/1355) |
+| 유니티테크놀로지스코리아 | 팀 마다 다름 | 주2회 재택근무 가능 | [홈페이지](https://unity.com/kr) / [채용공고](https://careers.unity.com/) |
 | [Nota](#Nota) | 완전 자율 출퇴근<br>(유연근무제X<br>정해진 근무시간 없음)  | 완전 자율 원격근무 | [회사 페이지](https://nota.ai/) / [채용공고](https://nota.ai/recruiting.html) |
 | [이스트소프트](#이스트소프트) | 시차출퇴근제 | 원격근무(주3회) | [홈페이지](https://www.estsoft.ai/) / [회사소개](https://bit.ly/3dYpCc4) |
 | 한화정밀기계 | 자율 줄퇴근  | 원격 근무 코로나때 2주 빤짝 | [회사 페이지](https://www.hanwhaprecisionmachinery.co.kr/) |
@@ -752,14 +752,6 @@ FLO House에 국한된 설명입니다.
 - 전월세 자금 저리 대출 (1년 이상 근속시)
 - 매년 프리미엄 건강검진 제공
 
-### 탭조이코리아
-- 탭조이는 모바일 앱 광고 플랫폼을 제공하는 글로벌 Ad Tech 기업입니다.
-- 8~10시 유연 출근 가능
-- COVID-19로 주5회 재택 근무 진행중
-- 2021년 최소 주2회 재택 근무 보장 예정
-- 야근, 주말근무를 하지 않아도 되도록 일정을 잡습니다.
-- 내가 자는 동안 장애가 발생하더라도 지구 반대쪽의 엔지니어가 대응해줍니다.
-- [회사소개 및 채용공고](https://www.wanted.co.kr/company/1355)
 
 ### Nota
 1. 열심히 일한 자, 떠나세요!
