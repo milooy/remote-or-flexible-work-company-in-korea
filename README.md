@@ -116,6 +116,7 @@
 | [마이뮤직테이스트 (MyMusicTaste)](#마이뮤직테이스트MyMusicTaste) | O | O | [홈페이지](https://www.mymusictaste.com/) / [채용 공고](https://team.mymusictaste.com/culture) / [기술블로그](https://mymusictaste.github.io/) |
 | Presto Labs | O (완전 자율 출퇴근) | O (전세계 어디서나 완전 원격 근무) | [채용 공고 (iOS)](https://presto-career.notion.site/iOS-Software-Engineer-25011b7a929e444da9fbd6aca88dfb05) |
 | 0x&(제로엑스엔드) | O (완전 자율 출퇴근 / 무제한 휴가) | O (전세계 어디서나 완전 원격 근무) | [홈페이지](https://0xand.com) / [채용공고](https://www.wanted.co.kr/company/35709) |
+| [코드잇](#코드잇-codeit) | 자율 출근 (코어타임 1-5시) | 월금 비코어타임 및 화수목 재택 근무 가능 | [회사 소개](https://careers.codeit.com/) / [채용 공고](https://careers.codeit.com/recruiting) |
 | 알로카도스 | O (13:00-18:00 코어타임) | 주 1회 자유롭게 사용 | [홈페이지 및 채용공고](https://alocados.notion.site/)
 | [뤼이드(Riiid)](#뤼이드) | O (07:00 ~ 11:00 사이 자율 출퇴근) | X | [홈페이지](https://riiid.com/) / [채용공고](https://riiid.com/careers?target=c5) / [팀블로그](https://medium.com/riiid-teamblog-kr) |
 
@@ -1583,6 +1584,57 @@ _**자란다가 궁금하다면?**_
   - [팀사이트](https://team.mymusictaste.com/)
   - [채용 공고](https://team.mymusictaste.com/culture)
   - [기술 블로그](https://mymusictaste.github.io/)
+
+### 코드잇 (Codeit)
+- **Vision: “배움의 기쁨을 세상 모두에게”**
+  
+ **1. 최고의 팀원에게 최고의 보상을 제공해요🎁**
+
+- 최고의 동료들이 모인 팀
+  - 코드잇은 높은 인재 밀도를 추구하여 소수 정예로 뛰어난 팀원들이 모여 있어요.
+- 전 직원 스톡옵션 제공
+  - 회사의 성장을 만들어가는 모든 팀원에게 스톡옵션을 제공해요.
+- 최고 수준의 보상 지향
+  - 빠르게 성장하는 동료에게 매년 최고 수준의 보상을 지급하기 위해 노력해요.
+
+**2. 몰입을 위한 최적의 환경을 지원해요🖥️***
+- 주 40시간 유연근무제
+  - 코어타임 오후 1-5시
+- 자유로운 재택 근무
+  - 월금 비코어타임 및 화수목 재택 근무 가능
+- 최고 사양의 장비 지원
+  - 3년마다 500만원 지원
+  - 원하는 장비 자유롭게 구매 가능
+- 무제한 도서 지원
+- 교육 및 사내 스터디 지원
+- 동료 및 리더와의 상시 피드백 문화
+  
+**3. 건강과 행복을 위한 복지를 제공해요💝**
+- 점심, 저녁 식대 지원
+  - 각 최대 12,000원, 1인 1법인카드 제공
+- 무제한 간식 제공
+  - 스낵, 음료, 아이스크림, 커피 등
+- 매년 명절 및 생일 축하 선물
+  - 설날/추석 각 20만원, 생일 10만원 상당의 선물 제공
+- 연 100만원 상당의 종합 건강검진 지원
+- 50만원 상당의 경조사비 지원
+- 주차비 지원
+  
+**4.. 친밀한 문화를 함께 만들어가요😊**
+- 신뢰를 바탕으로 한 반말 문화
+- TGIM(Thank God It’s Monday)
+  - 행복한 월요일을 시작하는 이벤트
+- 컬쳐나잇
+  - 캔들 만들기, 드립커피 배우기 등
+- 비어토크
+  - 2달에 1번, 수제 맥주와 함께 토크
+- 랜덤 점심
+- 사내 동아리 활동 지원
+
+
+**회사 관련 링크**
+  - [회사 소개](https://careers.codeit.com/)
+  - [채용 바로가기](https://careers.codeit.com/recruiting)
 
 ### 뤼이드
 
