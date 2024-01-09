@@ -120,7 +120,7 @@
 | [코드잇](#코드잇-codeit) | 자율 출근 (코어타임 1-5시) | 월금 비코어타임 및 화수목 재택 근무 가능 | [회사 소개](https://careers.codeit.com/) / [채용 공고](https://careers.codeit.com/recruiting) |
 | 알로카도스 | O (13:00-18:00 코어타임) | 주 1회 자유롭게 사용 | [홈페이지 및 채용공고](https://alocados.notion.site/)
 | [뤼이드(Riiid)](#뤼이드) | O (07:00 ~ 11:00 사이 자율 출퇴근) | X | [홈페이지](https://riiid.com/) / [채용공고](https://riiid.com/careers?target=c5) / [팀블로그](https://medium.com/riiid-teamblog-kr) |
-| [아슈리온코리아](#아슈리온코리아) | O | O (매주 2회 월금 재택 / 매월 2회 패밀리데이 금요일 12시 퇴근) | [홈페이지](https://www.asurion.co.kr/) / [채용공고](https://www.asurion.co.kr/career/recruit) |
+| [아슈리온코리아(Asurion Korea)](#아슈리온코리아) | O | O (매주 2회 월금 재택 / 매월 2회 패밀리데이 금요일 12시 퇴근) | [홈페이지](https://www.asurion.co.kr/) / [채용공고](https://www.asurion.co.kr/career/recruit) |
 
 ## 기타 복지
 
