@@ -22,7 +22,7 @@
 | [에이치비스미스(HBsmith)](#에이치비스미스hbsmith) | O | 출퇴근 없음 | [회사 소개](https://hbsmith.io) |
 | [브랜더진(Brandazine)](#브랜더진brandazine) | O | 컨펌 없는 완전한 자율 근무 |  |
 | [위키북스](#위키북스) | O | O | [우연이었지만 당연하게 된 리모트](https://brunch.co.kr/@wikibook/1) / [문제는 공간이 아니야!](https://brunch.co.kr/@wikibook/2)  |
-| [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O | [회사 문화,복지,채용](https://querypie.com/recruit)  |
+| [체커(CHEQUER)](#체커chequer) | 주 5일 / 주당 40시간 자율 근무 (자율 출퇴근) | O | [회사 문화,복지,채용](https://querypie.com/company/careers)  |
 | [로그프레소(Logpresso)](#로그프레소Logpresso) | 주 5일 / (자율 출퇴근) | O |[회사 소개](https://ko.logpresso.com/)  |
 | [빠띠](http://partiunion.org) | O | O | [빠띠 가브크래프트](https://govcraft.org/) / [빠띠 타운홀](https://townhall.kr/) / [빠띠xyz](https://parti.xyz/) |
 | 자비스앤빌런즈 | O | O |  |
@@ -281,7 +281,7 @@
 - 유급 휴가 연간 30일, 무급 휴가 연간 30일
 - 3년 장기근속 시 유급 휴가 한 달 + 휴가비 100만원 or 5년 장기근속 시 유급 휴가 두 달 + 휴가비 300만원을 제공 (선택)
 - 업무와 관련된 온/오프라인 교육비용을 지원
-- 회사 문화/복지/채용: https://querypie.com/recruit
+- 회사 문화/복지/채용: https://querypie.com/company/careers
 
 ### 해빗팩토리(Habitfactory)
 - 우리는 강하게 뭉친 작은 팀입니다.
